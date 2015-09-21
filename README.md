@@ -20,7 +20,7 @@ function works properly, again).
 
 ###Binary tree
 Before calculating the depth ou the height of a binary tree, we should know what is the depth and the height of a tree. Here's an explanation copied from [What is the difference between tree depth and height?](http://stackoverflow.com/questions/2603692/what-is-the-difference-between-tree-depth-and-height)  
-![tree's depth vs height](terms_to_explain/tree_height_vs_depth.png =600x "Tree's depth vs height")
+![tree's depth vs height](https://raw.githubusercontent.com/mincong-h/Algorithm/master/terms_to_explain/tree_height_vs_depth.png =600x "Tree's depth vs height")
 
 ####Binary tree's depth
 >So, how to calculate the height of a binary tree?
