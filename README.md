@@ -9,7 +9,13 @@ Mincong is trying to learn basic algorithm at Leetcode.com. He'll start by the v
    2. Invert
    3. Binary Search Tree
       1. Lowest Common Ancestor
-    
+
+## TODO list
+Here's another list to get better performance
+
+1. Majority Element (id=169)
+
+ 
 ## Notes
 Here're some imporant notes for Mincong to understand different data structures and  elegant solutions. Concerning informations related to solutions, please check the Java code directly.
 
