@@ -13,7 +13,7 @@ public class ContainsDuplicate {
 
 	public static void main(String[] args) {
 		int[] nums = {0, 1, 2};
-		if(containsDuplicate(nums))
+		if(containsDuplicate(null))
 			System.out.println("contains duplicate");
 		else
 			System.out.println("does not contains duplicate");
@@ -21,13 +21,11 @@ public class ContainsDuplicate {
 	}
 	static boolean containsDuplicate(int[] nums) {
 		Hashtable<Integer, Integer> map = new Hashtable<Integer, Integer>();
-		if(nums != null) {
-			for(int i = 0; i < nums.length; i++) {
-				if(map.containsKey(nums[i]))
-					return true;
-				else
-					map.put(nums[i], 1);
-			}
+		for(int num : nums) {
+			if(map.containsKey(num))
+				return true;
+			else
+				map.put(num, 1);
 		}
 		return false;
 	}
