@@ -6,6 +6,9 @@ Mincong is trying to learn basic algorithm at Leetcode.com. He'll start by the v
 2. Palindrome
 3. BinaryTree
    1. Depth
+   2. Invert
+   3. Binary Search Tree
+      1. Lowest Common Ancestor
     
 ## Notes
 Here're some imporant notes for Mincong to understand different data structures and  elegant solutions. Concerning informations related to solutions, please check the Java code directly.
