@@ -5,11 +5,12 @@ Mincong is trying to learn basic algorithm at Leetcode.com. He'll start by the v
 ### Check list by questions
 
 id  | pb | tag | runtime | rank | my code
---: | -- | :-- | ------: | ---: | :---:
+---: | --- | :--- | ------: | ---: | :---:
 83  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | `linkedlist` | 284ms | 0.06% | [here]()
 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | `array` |340ms | 41.10% | [here]()
 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | `array` | 564ms | 98.40% | [here]()
 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | `math` | 200ms | 26.70% | [here]()
+206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | `linkedlist` | 360ms | 93.79% | [here]()
 
 ### Check list by types
 
