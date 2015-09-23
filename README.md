@@ -20,6 +20,14 @@ Here's another list to get better performance
 Here're some imporant notes for Mincong to understand different data structures and  elegant solutions. Concerning informations related to solutions, please check the Java code directly.
 
 ### Hash table
+
+operation | average | worst case
+:-------- | :-----: | :--------:
+Space     | O(n)    | O(n)
+Search    | O(1)    | O(n)
+Insert    | O(1)    | O(n)
+Delete    | O(1)    | O(n)
+
 **O(1) runtime**  
 From the API doc of [`Hashtable`](https://docs.oracle.com/javase/8/docs/api/java/util/Hashtable.html), 
 we know that hashtable provides constant-time performance for the basic operations (get and put), 
@@ -35,3 +43,7 @@ Before calculating the depth ou the height of a binary tree, we should know what
 >So, how to calculate the height of a binary tree?
 
 Mincong started by the smallest tree. If it don't have child, then it's depth is 1. If it does have child, then it's depth is the deepest depth of its children plus 1. This method is actually a recursive method. For more informations, plus check my answer at `MaxDepth.java`. FYI, this class is used with `TreeNode.java`.
+
+###String
+####dealing String with array
+Many questions ask us to handle different case in String, such as Palindrome, anagram. I used to handle them with hashtable(hashmap), but the solutions were not so efficient, due to features of hashtable. More informations can be found in §hashtable paragraph. Array could be a better solution in some cases. It can be sort using `Arrays.sort`, it can be iterated, etc. 
