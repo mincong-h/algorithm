@@ -2,6 +2,16 @@
 Mincong is trying to learn basic algorithm at Leetcode.com. He'll start by the very begining and get through them step by step. There will be a list of accomplishments in the following paragraph.
 
 ## Check list
+### Check list by questions
+
+id  | pb | tag | runtime | rank | my code
+--: | -- | :-- | ------: | ---: | :---:
+83  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | `linkedlist` | 284ms | 0.06% | [here]()
+242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | `array` |340ms | 41.10% | [here]()
+169 | [Majority Element](https://leetcode.com/problems/majority-element/) | `array` | 564ms | 98.40% | [here]()
+
+### Check list by types
+
 1. Hash table
 2. Palindrome
 3. BinaryTree
