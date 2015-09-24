@@ -72,3 +72,19 @@ Mincong started by the smallest tree. If it don't have child, then it's depth is
 ###String
 ####dealing String with array
 Many questions ask us to handle different case in String, such as Palindrome, anagram. I used to handle them with hashtable(hashmap), but the solutions were not so efficient, due to features of hashtable. More informations can be found in §hashtable paragraph. Array could be a better solution in some cases. It can be sort using `Arrays.sort`, it can be iterated, etc. 
+
+###Integer
+>Way to get number of digits in an int?
+
+`length = (int)(Math.log10(n) + 1);`
+
+> How to get the separate digits of an int number?
+
+```
+int number; // = some int
+
+while (number > 0) {
+    print( number % 10);
+    number = number / 10;
+}
+```
