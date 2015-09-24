@@ -11,6 +11,19 @@ id  | pb | tag | runtime | rank | my code
 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | `array` | 564ms | 98.40% | [here]()
 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | `math` | 200ms | 26.70% | [here]()
 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | `linkedlist` | 360ms | 93.79% | [here]()
+202 | [Happy Number](https://leetcode.com/problems/happy-number/) | `hashtable` | 244ms | 27.80% | [here]()
+258 | [Add Digits](https://leetcode.com/problems/add-digits/) | `math` | 256ms | 19.18% | [here](https://github.com/mincong-h/Algorithm/blob/master/src/com/leetcode/easy/AddDigits.java)
+104 | [Maximun number of a binary tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | `tree` | 380ms | 83.97% | [here](https://github.com/mincong-h/Algorithm/blob/master/src/com/leetcode/easy/MaxDepth.java)
+237 | [Delete node from a linked list](https://leetcode.com/problems/delete-node-in-a-linked-list/) | `linkedlist` | 288ms | 5.50% | [here](https://github.com/mincong-h/Algorithm/blob/master/src/com/leetcode/easy/DeleteNode.java)
+283 | [Move zeroes](https://leetcode.com/problems/move-zeroes/) | `array` | - | - | [here](https://github.com/mincong-h/Algorithm/blob/master/src/com/leetcode/easy/MoveZeroes.java)
+100 | [Same tree](https://leetcode.com/problems/same-tree/) | `tree` | 256ms | 10.08% | [here](https://github.com/mincong-h/Algorithm/blob/master/src/com/leetcode/easy/IsSameTree.java)
+226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | `tree` | 248ms | 6.33% | [here]()
+235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | `tree` | 456ms | 14.91% | [here]()
+191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | `bit manipulation` | 216ms | 1.04% | [here]()
+217 | [Contains Duplicate]() | `array` | 432ms | 38.01% | [here]()
+171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | `math` | 344ms | 47.84% | [here]()
+
+
 
 ### Check list by types
 
