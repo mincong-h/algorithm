@@ -22,6 +22,7 @@ id  | pb | tag | runtime | rank | my code
 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | `bit manipulation` | 216ms | 1.04% | [here]()
 217 | [Contains Duplicate]() | `array` | 432ms | 38.01% | [here]()
 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | `math` | 344ms | 47.84% | [here]()
+263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | `math` | 246ms | 15.46% | [here]()
 
 
 
