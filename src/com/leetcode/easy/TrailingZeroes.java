@@ -1,22 +1,26 @@
 package com.leetcode.easy;
 
+/*
+ * Given an integer n, return the number of trailing zeroes in n!.
+ * Note: Your solution should be in logarithmic time complexity.
+ * 
+ * https://leetcode.com/problems/factorial-trailing-zeroes/
+ */
 public class TrailingZeroes {
 	
     public static int getZeroes(int n) {
-        int nFact = 1;
-        int zeroes = 0;
-        for(int i=1; i<=n; i++)
-            nFact *= i;
-        String str = Integer.toString(nFact);
-        System.out.println(str);
-        for(int i=0; i<str.length(); i++)
-            if(str.charAt(i) == '0')
-                zeroes++;
-        return zeroes;
+    	int A = (int)(Math.log(n) / Math.log(5));
+        int number = 0;	// number of five
+        int a = 1;		// order of five
+        while(a <= A) {
+            number += (int) n / Math.pow(5, a);
+            a++;
+        }
+        return number;
     }
     
     public static void main(String[] args) {
-		int i = getZeroes(10);
+		int i = getZeroes(50);
 		System.out.println(i);
 	}
 }
