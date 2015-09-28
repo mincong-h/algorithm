@@ -25,6 +25,7 @@ id  | pb | tag | runtime | rank | my code
 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | `math` | 246ms | 15.46% | [here]()
 231 | [Power of two](https://leetcode.com/problems/power-of-two/) | `math` | 228ms | 0.81% | [here]()
 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | `math` | 2ms | ? | [here]()
+88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | `array` | 178ms | ? | [here]()
 
 
 
