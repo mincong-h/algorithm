@@ -19,7 +19,7 @@ id  | pb | tag | runtime | rank
 191 | [Number of 1 Bits][191] | `bit manipulation` | 216ms | 1.04%
 202 | [Happy Number][202] | `hashtable` | 244ms | 27.80%
 206 | [Reverse Linked List][206] | `linkedlist` | 360ms | 93.79%
-217 | [Contains Duplicate][] | `array` | 432ms | 38.01%
+217 | [Contains Duplicate][217] | `array` | 432ms | 38.01%
 226 | [Invert Binary Tree][226] | `tree` | 248ms | 6.33%
 231 | [Power of two][231] | `math` | 228ms | 0.81%
 237 | [Delete node from a linked list][237] | `linkedlist` | 288ms | 5.50%
