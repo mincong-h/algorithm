@@ -1,0 +1,15 @@
+SELECT
+(
+    SELECT COUNT(*)
+    FROM STATION
+)
+-
+(
+    SELECT COUNT(*)
+    FROM
+    (
+        SELECT CITY
+        FROM STATION
+        GROUP BY CITY
+    ) AS DISTINCT_CITY
+)
