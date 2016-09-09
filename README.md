@@ -9,6 +9,7 @@ id  | pb | runtime | rank
 ---: | --- | ---: | ---:
 1 | [Two sum][1] | 5ms | ?
 7 | [Reverse integer][7] | 2ms | 51%
+9 | [Palindrome number][9] | 14ms | ?
 12 | [Integer to roman][12] | 7ms | 8%
 13 | [Roman to Integer][13] | 5ms | 1%
 14 | [Longest common prefix][14] | 4ms | 74%
@@ -56,6 +57,7 @@ Too lazy to add :see_no_evil:
 
 [1]: https://leetcode.com/problems/two-sum/
 [7]: https://leetcode.com/problems/reverse-integer/
+[9]: https://leetcode.com/problems/palindrome-number/
 [12]: https://leetcode.com/problems/integer-to-roman/
 [13]: https://leetcode.com/problems/roman-to-integer/
 [14]: https://leetcode.com/problems/longest-common-prefix/
