@@ -35,6 +35,7 @@ id  | pb | runtime | rank
 206 | [Reverse Linked List][206] | 360ms | 93%
 217 | [Contains Duplicate][217] | 432ms | 38%
 226 | [Invert Binary Tree][226] | 248ms | 6%
+234 | [Palindrome linked list][234] | 7ms | ?
 231 | [Power of two][231] | 228ms | 1%
 237 | [Delete node from a linked list][237] | 288ms | 5%
 235 | [Lowest Common Ancestor of a Binary Search Tree][235] | 456ms | 14%
@@ -83,6 +84,7 @@ Too lazy to add :see_no_evil:
 [206]: https://leetcode.com/problems/reverse-linked-list/
 [217]: https://leetcode.com/problems/contains-duplicate/
 [226]: https://leetcode.com/problems/invert-binary-tree/
+[234]: https://leetcode.com/problems/palindrome-linked-list/
 [231]: https://leetcode.com/problems/power-of-two/
 [235]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 [237]: https://leetcode.com/problems/delete-node-in-a-linked-list/
