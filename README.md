@@ -13,7 +13,7 @@ id  | pb | runtime | rank
 12 | [Integer to roman][12] | 7ms | 8%
 13 | [Roman to Integer][13] | 5ms | 1%
 14 | [Longest common prefix][14] | 4ms | 74%
-36 | [Valid sudoku][36] | 9ms | ?
+36 | [Valid sudoku][36] | 7ms | ?
 38 | [Count and say][38] | 4ms | ?
 58 | [Length of last word][58] | 0ms | 43%
 66 | [Plus one][66] | 1ms | 6%
