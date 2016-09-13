@@ -43,9 +43,11 @@ id  | pb | runtime | rank
 242 | [Valid Anagram][242] | 340ms | 41%
 258 | [Add Digits][258] | 256ms | 19%
 263 | [Ugly Number][263] | 246ms | 15%
+268 | [Missing number][268] | 1ms | ?
 283 | [Move zeroes][283] | - | -
 326 | [Power of Three][326] | 21ms | 19%
 342 | [Power of Four][342] | 2ms | 22%
+350 | [Intersection of two arrays II][350] | 8ms | ?
 383 | [Ransom note][383] | 18ms | ?
 387 | [First Unique Character in a String][387] | 31ms | ?
 389 | [Find the difference][389] | 9ms | ?
@@ -93,9 +95,11 @@ Too lazy to add :see_no_evil:
 [242]: https://leetcode.com/problems/valid-anagram/
 [258]: https://leetcode.com/problems/add-digits/
 [263]: https://leetcode.com/problems/ugly-number/
+[268]: https://leetcode.com/problems/missing-number/
 [283]: https://leetcode.com/problems/move-zeroes/
 [326]: https://leetcode.com/problems/power-of-three/
 [342]: https://leetcode.com/problems/power-of-four/
+[350]: https://leetcode.com/problems/intersection-of-two-arrays-ii/
 [383]: https://leetcode.com/problems/ransom-note/
 [387]: https://leetcode.com/problems/first-unique-character-in-a-string/
 [389]: https://leetcode.com/problems/find-the-difference/
