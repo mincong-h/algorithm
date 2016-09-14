@@ -33,6 +33,7 @@ id  | pb | runtime | rank
 172 | [Factorial Trailing Zeroes][172] | 2ms | ?
 191 | [Number of 1 Bits][191] | 216ms | 1%
 202 | [Happy Number][202] | 244ms | 27%
+205 | [Isomorphic strings][205] | 50ms | ?
 206 | [Reverse Linked List][206] | 360ms | 93%
 217 | [Contains Duplicate][217] | 432ms | 38%
 226 | [Invert Binary Tree][226] | 248ms | 6%
@@ -85,6 +86,7 @@ Too lazy to add :see_no_evil:
 [172]: https://leetcode.com/problems/factorial-trailing-zeroes/
 [191]: https://leetcode.com/problems/number-of-1-bits/
 [202]: https://leetcode.com/problems/happy-number/
+[205]: https://leetcode.com/problems/isomorphic-strings/
 [206]: https://leetcode.com/problems/reverse-linked-list/
 [217]: https://leetcode.com/problems/contains-duplicate/
 [226]: https://leetcode.com/problems/invert-binary-tree/
