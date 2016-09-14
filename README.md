@@ -13,6 +13,7 @@ id  | pb | runtime | rank
 12 | [Integer to roman][12] | 7ms | 8%
 13 | [Roman to Integer][13] | 5ms | 1%
 14 | [Longest common prefix][14] | 4ms | 74%
+26 | [Remove duplicates from sorted array][26] | 2ms | ?
 36 | [Valid sudoku][36] | 7ms | ?
 38 | [Count and say][38] | 4ms | ?
 58 | [Length of last word][58] | 0ms | 43%
@@ -67,6 +68,7 @@ Too lazy to add :see_no_evil:
 [12]: https://leetcode.com/problems/integer-to-roman/
 [13]: https://leetcode.com/problems/roman-to-integer/
 [14]: https://leetcode.com/problems/longest-common-prefix/
+[26]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 [36]: https://leetcode.com/problems/valid-sudoku/
 [38]: https://leetcode.com/problems/count-and-say/
 [58]: https://leetcode.com/problems/length-of-last-word/
