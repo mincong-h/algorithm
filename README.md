@@ -24,6 +24,7 @@ id  | pb | runtime | rank
 101 | [Symmetric tree][101] | 1ms | 26%
 104 | [Maximun number of a binary tree][104] | 380ms | 83%
 110 | [Balanced binary tree][110] | 2ms | 73%
+112 | [Path sum][112] | 1ms | ?
 118 | [Pascal triangle][118] | 1ms | 59%
 119 | [Pascal triangle II][119] | 2ms | 27%
 136 | [Single Number][136] | 1ms | 33%
@@ -77,6 +78,7 @@ Too lazy to add :see_no_evil:
 [101]: https://leetcode.com/problems/symmetric-tree/
 [104]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
 [110]: https://leetcode.com/problems/balanced-binary-tree/
+[112]: https://leetcode.com/problems/path-sum/
 [118]: https://leetcode.com/problems/pascals-triangle/
 [119]: https://leetcode.com/problems/pascals-triangle-ii/
 [136]: https://leetcode.com/problems/single-number/
