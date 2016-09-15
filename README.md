@@ -50,6 +50,7 @@ id  | pb | runtime | rank
 257 | [Binary tree paths][257] | 247 | ?
 258 | [Add Digits][258] | 256ms | 19%
 263 | [Ugly Number][263] | 246ms | 15%
+266 | [Palindrome permutation][266] | 1ms | ?
 268 | [Missing number][268] | 1ms | ?
 283 | [Move zeroes][283] | - | -
 288 | [Unique word abbreviation][288] | 87ms | ?
@@ -110,6 +111,7 @@ Too lazy to add :see_no_evil:
 [257]: https://leetcode.com/problems/binary-tree-paths/
 [258]: https://leetcode.com/problems/add-digits/
 [263]: https://leetcode.com/problems/ugly-number/
+[266]: https://leetcode.com/problems/palindrome-permutation/
 [268]: https://leetcode.com/problems/missing-number/
 [283]: https://leetcode.com/problems/move-zeroes/
 [288]: https://leetcode.com/problems/unique-word-abbreviation/
