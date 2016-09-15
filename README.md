@@ -51,6 +51,7 @@ id  | pb | runtime | rank
 263 | [Ugly Number][263] | 246ms | 15%
 268 | [Missing number][268] | 1ms | ?
 283 | [Move zeroes][283] | - | -
+288 | [Unique word abbreviation][288] | 87ms | ?
 326 | [Power of Three][326] | 21ms | 19%
 342 | [Power of Four][342] | 2ms | 22%
 350 | [Intersection of two arrays II][350] | 8ms | ?
@@ -109,6 +110,7 @@ Too lazy to add :see_no_evil:
 [263]: https://leetcode.com/problems/ugly-number/
 [268]: https://leetcode.com/problems/missing-number/
 [283]: https://leetcode.com/problems/move-zeroes/
+[288]: https://leetcode.com/problems/unique-word-abbreviation/
 [326]: https://leetcode.com/problems/power-of-three/
 [342]: https://leetcode.com/problems/power-of-four/
 [350]: https://leetcode.com/problems/intersection-of-two-arrays-ii/
