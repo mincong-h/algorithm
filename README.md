@@ -46,6 +46,7 @@ id  | pb | runtime | rank
 237 | [Delete node from a linked list][237] | 288ms | 5%
 235 | [Lowest Common Ancestor of a Binary Search Tree][235] | 456ms | 14%
 242 | [Valid Anagram][242] | 340ms | 41%
+257 | [Binary tree paths][257] | 247 | ?
 258 | [Add Digits][258] | 256ms | 19%
 263 | [Ugly Number][263] | 246ms | 15%
 268 | [Missing number][268] | 1ms | ?
@@ -103,6 +104,7 @@ Too lazy to add :see_no_evil:
 [235]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 [237]: https://leetcode.com/problems/delete-node-in-a-linked-list/
 [242]: https://leetcode.com/problems/valid-anagram/
+[257]: https://leetcode.com/problems/binary-tree-paths/
 [258]: https://leetcode.com/problems/add-digits/
 [263]: https://leetcode.com/problems/ugly-number/
 [268]: https://leetcode.com/problems/missing-number/
