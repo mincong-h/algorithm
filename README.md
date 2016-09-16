@@ -36,6 +36,7 @@ id  | pb | runtime | rank
 171 | [Excel Sheet Column Number][171] | 344ms | 47%
 172 | [Factorial Trailing Zeroes][172] | 2ms | ?
 191 | [Number of 1 Bits][191] | 216ms | 1%
+200 | [Number of islands][200] | 3ms | ?
 202 | [Happy Number][202] | 244ms | 27%
 203 | [Remove linked list elements][203] | 2ms | ?
 205 | [Isomorphic strings][205] | 50ms | ?
@@ -98,6 +99,7 @@ Too lazy to add :see_no_evil:
 [171]: https://leetcode.com/problems/excel-sheet-column-number/
 [172]: https://leetcode.com/problems/factorial-trailing-zeroes/
 [191]: https://leetcode.com/problems/number-of-1-bits/
+[200]: https://leetcode.com/problems/number-of-islands/
 [202]: https://leetcode.com/problems/happy-number/
 [203]: https://leetcode.com/problems/remove-linked-list-elements/
 [205]: https://leetcode.com/problems/isomorphic-strings/
