@@ -57,6 +57,7 @@ id  | pb | runtime | rank
 326 | [Power of Three][326] | 21ms | 19%
 342 | [Power of Four][342] | 2ms | 22%
 350 | [Intersection of two arrays II][350] | 8ms | ?
+359 | [Logger rate limiter][359] | 187ms | ?
 383 | [Ransom note][383] | 18ms | ?
 387 | [First Unique Character in a String][387] | 31ms | ?
 389 | [Find the difference][389] | 9ms | ?
@@ -118,6 +119,7 @@ Too lazy to add :see_no_evil:
 [326]: https://leetcode.com/problems/power-of-three/
 [342]: https://leetcode.com/problems/power-of-four/
 [350]: https://leetcode.com/problems/intersection-of-two-arrays-ii/
+[359]: https://leetcode.com/problems/logger-rate-limiter/
 [383]: https://leetcode.com/problems/ransom-note/
 [387]: https://leetcode.com/problems/first-unique-character-in-a-string/
 [389]: https://leetcode.com/problems/find-the-difference/
