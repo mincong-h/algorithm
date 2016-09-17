@@ -32,6 +32,7 @@ id  | pb | runtime | rank
 119 | [Pascal triangle II][119] | 2ms | 27%
 136 | [Single Number][136] | 1ms | 33%
 141 | [Linked List Cycle][141] | 1ms | 9%
+163 | [Missing ranges][163] | 13ms | ?
 169 | [Majority Element][169] | 564ms | 98%
 171 | [Excel Sheet Column Number][171] | 344ms | 47%
 172 | [Factorial Trailing Zeroes][172] | 2ms | ?
@@ -95,6 +96,7 @@ Too lazy to add :see_no_evil:
 [119]: https://leetcode.com/problems/pascals-triangle-ii/
 [136]: https://leetcode.com/problems/single-number/
 [141]: https://leetcode.com/problems/linked-list-cycle/
+[163]: https://leetcode.com/problems/missing-ranges/
 [169]: https://leetcode.com/problems/majority-element/
 [171]: https://leetcode.com/problems/excel-sheet-column-number/
 [172]: https://leetcode.com/problems/factorial-trailing-zeroes/
