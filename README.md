@@ -18,6 +18,7 @@ id  | pb | runtime | rank
 27 | [Remove element][27] | 1ms | ?
 36 | [Valid sudoku][36] | 7ms | ?
 38 | [Count and say][38] | 4ms | ?
+56 | [Merge intervals][56] | 28ms | ?
 58 | [Length of last word][58] | 0ms | 43%
 66 | [Plus one][66] | 1ms | 6%
 70 | [Climbing Stairs][70] | 200ms | 26%
@@ -82,6 +83,7 @@ Too lazy to add :see_no_evil:
 [27]: https://leetcode.com/problems/remove-element/
 [36]: https://leetcode.com/problems/valid-sudoku/
 [38]: https://leetcode.com/problems/count-and-say/
+[56]: https://leetcode.com/problems/merge-intervals/
 [58]: https://leetcode.com/problems/length-of-last-word/
 [66]: https://leetcode.com/problems/plus-one/
 [70]: https://leetcode.com/problems/climbing-stairs/
