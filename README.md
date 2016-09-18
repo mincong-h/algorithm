@@ -57,6 +57,7 @@ id  | pb | runtime | rank
 268 | [Missing number][268] | 1ms | ?
 283 | [Move zeroes][283] | - | -
 288 | [Unique word abbreviation][288] | 87ms | ?
+293 | [Flip game][293] | 1ms | ?
 326 | [Power of Three][326] | 21ms | 19%
 342 | [Power of Four][342] | 2ms | 22%
 346 | [Moving average from data stream][346] | 177ms | ?
@@ -123,6 +124,7 @@ Too lazy to add :see_no_evil:
 [268]: https://leetcode.com/problems/missing-number/
 [283]: https://leetcode.com/problems/move-zeroes/
 [288]: https://leetcode.com/problems/unique-word-abbreviation/
+[293]: https://leetcode.com/problems/flip-game/
 [326]: https://leetcode.com/problems/power-of-three/
 [342]: https://leetcode.com/problems/power-of-four/
 [346]: https://leetcode.com/problems/moving-average-from-data-stream/
