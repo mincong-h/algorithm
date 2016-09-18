@@ -59,6 +59,7 @@ id  | pb | runtime | rank
 288 | [Unique word abbreviation][288] | 87ms | ?
 326 | [Power of Three][326] | 21ms | 19%
 342 | [Power of Four][342] | 2ms | 22%
+346 | [Moving average from data stream][346] | 177ms | ?
 350 | [Intersection of two arrays II][350] | 8ms | ?
 359 | [Logger rate limiter][359] | 187ms | ?
 383 | [Ransom note][383] | 18ms | ?
@@ -124,6 +125,7 @@ Too lazy to add :see_no_evil:
 [288]: https://leetcode.com/problems/unique-word-abbreviation/
 [326]: https://leetcode.com/problems/power-of-three/
 [342]: https://leetcode.com/problems/power-of-four/
+[346]: https://leetcode.com/problems/moving-average-from-data-stream/
 [350]: https://leetcode.com/problems/intersection-of-two-arrays-ii/
 [359]: https://leetcode.com/problems/logger-rate-limiter/
 [383]: https://leetcode.com/problems/ransom-note/
