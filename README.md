@@ -64,6 +64,7 @@ id  | pb | runtime | rank
 346 | [Moving average from data stream][346] | 177ms | ?
 350 | [Intersection of two arrays II][350] | 8ms | ?
 359 | [Logger rate limiter][359] | 187ms | ?
+374 | [Guess number higher or lower][374] | 2ms | ?
 383 | [Ransom note][383] | 18ms | ?
 387 | [First Unique Character in a String][387] | 31ms | ?
 389 | [Find the difference][389] | 9ms | ?
@@ -132,6 +133,7 @@ Too lazy to add :see_no_evil:
 [346]: https://leetcode.com/problems/moving-average-from-data-stream/
 [350]: https://leetcode.com/problems/intersection-of-two-arrays-ii/
 [359]: https://leetcode.com/problems/logger-rate-limiter/
+[374]: https://leetcode.com/problems/guess-number-higher-or-lower/
 [383]: https://leetcode.com/problems/ransom-note/
 [387]: https://leetcode.com/problems/first-unique-character-in-a-string/
 [389]: https://leetcode.com/problems/find-the-difference/
