@@ -68,6 +68,7 @@ id  | pb | runtime | rank
 374 | [Guess number higher or lower][374] | 2ms | ?
 383 | [Ransom note][383] | 18ms | ?
 387 | [First Unique Character in a String][387] | 31ms | ?
+388 | [Longest absolute file path][388] | 6ms | ?
 389 | [Find the difference][389] | 9ms | ?
 
 ## HackerRank
@@ -138,4 +139,5 @@ Too lazy to add :see_no_evil:
 [374]: https://leetcode.com/problems/guess-number-higher-or-lower/
 [383]: https://leetcode.com/problems/ransom-note/
 [387]: https://leetcode.com/problems/first-unique-character-in-a-string/
+[388]: https://leetcode.com/problems/longest-absolute-file-path/
 [389]: https://leetcode.com/problems/find-the-difference/
