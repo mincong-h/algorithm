@@ -24,6 +24,7 @@ id  | pb | runtime | rank
 56 | [Merge intervals][56] | 28ms | ?
 58 | [Length of last word][58] | 0ms | 43%
 66 | [Plus one][66] | 1ms | 6%
+67 | [Add binary][67] | 3ms | 16%
 70 | [Climbing Stairs][70] | 200ms | 26%
 83 | [Remove Duplicates from Sorted List][83] | 284ms | 1%
 88 | [Merge Sorted Array][88] | 178ms | ?
@@ -107,6 +108,7 @@ Too lazy to add :see_no_evil:
 [56]: https://leetcode.com/problems/merge-intervals/
 [58]: https://leetcode.com/problems/length-of-last-word/
 [66]: https://leetcode.com/problems/plus-one/
+[67]: https://leetcode.com/problems/add-binary/
 [70]: https://leetcode.com/problems/climbing-stairs/
 [83]: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 [88]: https://leetcode.com/problems/merge-sorted-array/
