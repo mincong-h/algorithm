@@ -53,6 +53,7 @@ id  | pb | runtime | rank
 206 | [Reverse Linked List][206] | 360ms | 93%
 217 | [Contains Duplicate][217] | 432ms | 38%
 219 | [Contains Duplicate II][219] | 11ms | 65%
+225 | [Implement stack using queues][225] | 107ms | 48%
 226 | [Invert Binary Tree][226] | 248ms | 6%
 228 | [Summary ranges][228] | 0ms | ?
 234 | [Palindrome linked list][234] | 7ms | ?
@@ -139,6 +140,7 @@ Too lazy to add :see_no_evil:
 [206]: https://leetcode.com/problems/reverse-linked-list/
 [217]: https://leetcode.com/problems/contains-duplicate/
 [219]: https://leetcode.com/problems/contains-duplicate-ii/
+[225]: https://leetcode.com/problems/implement-stack-using-queues/
 [226]: https://leetcode.com/problems/invert-binary-tree/
 [228]: https://leetcode.com/problems/summary-ranges/
 [234]: https://leetcode.com/problems/palindrome-linked-list/
