@@ -34,6 +34,7 @@ id  | pb | runtime | rank
 112 | [Path sum][112] | 1ms | ?
 118 | [Pascal triangle][118] | 1ms | 59%
 119 | [Pascal triangle II][119] | 2ms | 27%
+125 | [Valid palindrome][125] | 6ms | 9%
 136 | [Single Number][136] | 1ms | 33%
 141 | [Linked List Cycle][141] | 1ms | 9%
 151 | [Reverse words in a string][151] | 7ms | 33%
@@ -115,6 +116,7 @@ Too lazy to add :see_no_evil:
 [112]: https://leetcode.com/problems/path-sum/
 [118]: https://leetcode.com/problems/pascals-triangle/
 [119]: https://leetcode.com/problems/pascals-triangle-ii/
+[125]: https://leetcode.com/problems/valid-palindrome/
 [136]: https://leetcode.com/problems/single-number/
 [141]: https://leetcode.com/problems/linked-list-cycle/
 [151]: https://leetcode.com/problems/reverse-words-in-a-string/
