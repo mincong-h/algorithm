@@ -71,6 +71,7 @@ id  | pb | runtime | rank
 268 | [Missing number][268] | 1ms | ?
 271 | [Encode and decode strings][271] | 15ms | ?
 274 | [H-Index][274] | 3ms | ?
+278 | [First bad version][278] | 17ms | 35%
 283 | [Move zeroes][283] | - | -
 288 | [Unique word abbreviation][288] | 87ms | ?
 293 | [Flip game][293] | 1ms | ?
@@ -158,6 +159,7 @@ Too lazy to add :see_no_evil:
 [268]: https://leetcode.com/problems/missing-number/
 [271]: https://leetcode.com/problems/encode-and-decode-strings/
 [274]: https://leetcode.com/problems/h-index/
+[278]: https://leetcode.com/problems/first-bad-version/
 [283]: https://leetcode.com/problems/move-zeroes/
 [288]: https://leetcode.com/problems/unique-word-abbreviation/
 [293]: https://leetcode.com/problems/flip-game/
