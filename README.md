@@ -57,6 +57,7 @@ id  | pb | runtime | rank
 228 | [Summary ranges][228] | 0ms | ?
 234 | [Palindrome linked list][234] | 7ms | ?
 231 | [Power of two][231] | 228ms | 1%
+232 | [Implement queue using stacks][232] | 106ms | 55%
 237 | [Delete node from a linked list][237] | 288ms | 5%
 235 | [Lowest Common Ancestor of a Binary Search Tree][235] | 456ms | 14%
 242 | [Valid Anagram][242] | 340ms | 41%
@@ -142,6 +143,7 @@ Too lazy to add :see_no_evil:
 [228]: https://leetcode.com/problems/summary-ranges/
 [234]: https://leetcode.com/problems/palindrome-linked-list/
 [231]: https://leetcode.com/problems/power-of-two/
+[232]: https://leetcode.com/problems/implement-queue-using-stacks/
 [235]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 [237]: https://leetcode.com/problems/delete-node-in-a-linked-list/
 [242]: https://leetcode.com/problems/valid-anagram/
