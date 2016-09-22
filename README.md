@@ -8,6 +8,7 @@ This repo contains the list of accomplishments.
 id  | pb | runtime | rank
 ---: | --- | ---: | ---:
 1 | [Two sum][1] | 5ms | ?
+2 | [Add two numbers][2] | 63ms | 97%
 3 | [Longest substring without repeating characters][3] | 58ms | 81%
 7 | [Reverse integer][7] | 2ms | 51%
 9 | [Palindrome number][9] | 14ms | ?
@@ -97,6 +98,7 @@ Too lazy to add :see_no_evil:
 [hackerrank]: http://hackerrank.com
 
 [1]: https://leetcode.com/problems/two-sum/
+[2]: https://leetcode.com/problems/add-two-numbers/
 [3]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
 [7]: https://leetcode.com/problems/reverse-integer/
 [9]: https://leetcode.com/problems/palindrome-number/
