@@ -18,6 +18,7 @@ id  | pb | runtime | rank
 21 | [Merge two sorted lists][21] | 16ms | ?
 26 | [Remove duplicates from sorted array][26] | 2ms | ?
 27 | [Remove element][27] | 1ms | ?
+28 | [Implement strStr()][28] | 16ms | 94%
 36 | [Valid sudoku][36] | 7ms | ?
 38 | [Count and say][38] | 4ms | ?
 50 | [Pow x-n][50] | 26ms | 99%
@@ -106,6 +107,7 @@ Too lazy to add :see_no_evil:
 [21]: https://leetcode.com/problems/merge-two-sorted-lists/
 [26]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 [27]: https://leetcode.com/problems/remove-element/
+[28]: https://leetcode.com/problems/implement-strstr/
 [36]: https://leetcode.com/problems/valid-sudoku/
 [38]: https://leetcode.com/problems/count-and-say/
 [50]: https://leetcode.com/problems/powx-n/
