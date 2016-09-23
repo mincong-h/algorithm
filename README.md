@@ -17,6 +17,7 @@ id  | pb | runtime | rank
 13 | [Roman to Integer][13] | 5ms | 1%
 14 | [Longest common prefix][14] | 4ms | 74%
 15 | [3 sum][15] | 38ms | 90%
+17 | [Letter combinations of a phone number][17] | 5ms | 97%
 20 | [Valid parentheses][20] | 1ms | ?
 21 | [Merge two sorted lists][21] | 16ms | ?
 26 | [Remove duplicates from sorted array][26] | 2ms | ?
@@ -109,6 +110,7 @@ Too lazy to add :see_no_evil:
 [13]: https://leetcode.com/problems/roman-to-integer/
 [14]: https://leetcode.com/problems/longest-common-prefix/
 [15]: https://leetcode.com/problems/3sum/
+[17]: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 [20]: https://leetcode.com/problems/valid-parentheses/
 [21]: https://leetcode.com/problems/merge-two-sorted-lists/
 [26]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
