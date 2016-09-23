@@ -25,6 +25,7 @@ id  | pb | runtime | rank
 28 | [Implement strStr()][28] | 16ms | 94%
 36 | [Valid sudoku][36] | 7ms | ?
 38 | [Count and say][38] | 4ms | ?
+48 | [Rotate image][48] | 3ms | 97%
 50 | [Pow x-n][50] | 26ms | 99%
 56 | [Merge intervals][56] | 28ms | ?
 58 | [Length of last word][58] | 0ms | 43%
@@ -118,6 +119,7 @@ Too lazy to add :see_no_evil:
 [28]: https://leetcode.com/problems/implement-strstr/
 [36]: https://leetcode.com/problems/valid-sudoku/
 [38]: https://leetcode.com/problems/count-and-say/
+[48]: https://leetcode.com/problems/rotate-image/
 [50]: https://leetcode.com/problems/powx-n/
 [56]: https://leetcode.com/problems/merge-intervals/
 [58]: https://leetcode.com/problems/length-of-last-word/
