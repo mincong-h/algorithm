@@ -68,6 +68,7 @@ id  | pb | runtime | rank
 235 | [Lowest Common Ancestor of a Binary Search Tree][235] | 456ms | 14%
 237 | [Delete node from a linked list][237] | 288ms | 5%
 238 | [Product of array except self][238] | 2ms | 60%
+240 | [Search a 2D matrix II][242] | 13ms | 33%
 242 | [Valid Anagram][242] | 340ms | 41%
 243 | [Shortest word distance][243] | 2ms | 25%
 246 | [Strobogrammatic number][246] | 0ms | ?
@@ -163,6 +164,7 @@ Too lazy to add :see_no_evil:
 [235]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 [237]: https://leetcode.com/problems/delete-node-in-a-linked-list/
 [238]: https://leetcode.com/problems/product-of-array-except-self/
+[240]: https://leetcode.com/problems/search-a-2d-matrix-ii/
 [242]: https://leetcode.com/problems/valid-anagram/
 [243]: https://leetcode.com/problems/shortest-word-distance/
 [246]: https://leetcode.com/problems/strobogrammatic-number/
