@@ -81,7 +81,7 @@ id  | pb | runtime | rank
 274 | [H-Index][274] | 3ms | ?
 278 | [First bad version][278] | 17ms | 35%
 283 | [Move zeroes][283] | - | -
-288 | [Unique word abbreviation][288] | 87ms | ?
+288 | [Unique word abbreviation][288] | 79ms | 77%
 293 | [Flip game][293] | 1ms | ?
 298 | [Binary tree longest consecuritve sequence][298] | 3ms | ?
 326 | [Power of Three][326] | 21ms | 19%

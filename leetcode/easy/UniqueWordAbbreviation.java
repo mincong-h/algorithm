@@ -1,48 +1,34 @@
 public class ValidWordAbbr {
 
-    /**
-     * key: abbr
-     * val: list of words
-     */
-    private Map<String, List<String>> map;
+    private Map<String, String> map;
 
     public ValidWordAbbr(String[] dictionary) {
         map = new HashMap<>();
         for (String word : dictionary) {
-            String abbr = abbr(word);
-            if (!map.containsKey(abbr)) {
-                List<String> words = new ArrayList<>();
-                words.add(word);
-                map.put(abbr, words);
+            if (map.containsKey(abbrOf(word)) && !word.equals(map.get(word))) {
+                map.put(abbrOf(word), ""); // invalid key
             } else {
-                List<String> words = map.get(abbr);
-                if (!words.contains(word)) {
-                    words.add(word);
-                    map.put(abbr, words);
-                }
+                map.put(abbrOf(word), word);
             }
         }
     }
 
     public boolean isUnique(String word) {
-        String abbr = abbr(word);
-        if (map.get(abbr) == null) {
+        if (word == null) {
+            return false;
+        } else if (map.containsKey(abbrOf(word)) && !word.equals(map.get(abbrOf(word)))) {
+            return false;
+        } else {
             return true;
         }
-        List<String> words = map.get(abbr);
-        if (words.contains(word) && words.size() == 1) {
-            return true;
-        }
-        return false;
     }
 
-    public String abbr(String word) {
-        String abbr = word;
-        if (word.length() > 2) {
-            abbr = word.charAt(0)
-                    + String.valueOf(word.length() - 2)
-                    + word.charAt(word.length() - 1);
+    private String abbrOf(String word) {
+        if (word.length() < 3) {
+            return word;
         }
-        return abbr;
+        return word.charAt(0)
+                + String.valueOf(word.length() - 2)
+                + word.charAt(word.length() - 1);
     }
 }
