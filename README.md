@@ -54,6 +54,7 @@ id  | pb | runtime | rank
 172 | [Factorial Trailing Zeroes][172] | 2ms | ?
 179 | [Largest number][179] | 115ms | 31%
 191 | [Number of 1 Bits][191] | 216ms | 1%
+195 | [Tenth line][195] | 15ms | 91%
 200 | [Number of islands][200] | 3ms | ?
 202 | [Happy Number][202] | 244ms | 27%
 203 | [Remove linked list elements][203] | 2ms | ?
@@ -153,6 +154,7 @@ Too lazy to add :see_no_evil:
 [172]: https://leetcode.com/problems/factorial-trailing-zeroes/
 [179]: https://leetcode.com/problems/largest-number/
 [191]: https://leetcode.com/problems/number-of-1-bits/
+[195]: https://leetcode.com/problems/tenth-line/
 [200]: https://leetcode.com/problems/number-of-islands/
 [202]: https://leetcode.com/problems/happy-number/
 [203]: https://leetcode.com/problems/remove-linked-list-elements/
