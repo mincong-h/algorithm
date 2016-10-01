@@ -49,6 +49,7 @@ id  | pb | runtime | rank
 141 | [Linked List Cycle][141] | 1ms | 9%
 151 | [Reverse words in a string][151] | 7ms | 33%
 155 | [Min stack][155] | 151ms | ?
+160 | [Intersection of two linked lists][160] | 11ms | 93%
 163 | [Missing ranges][163] | 13ms | ?
 169 | [Majority Element][169] | 564ms | 98%
 171 | [Excel Sheet Column Number][171] | 344ms | 47%
@@ -151,6 +152,7 @@ Too lazy to add :see_no_evil:
 [141]: https://leetcode.com/problems/linked-list-cycle/
 [151]: https://leetcode.com/problems/reverse-words-in-a-string/
 [155]: https://leetcode.com/problems/min-stack/
+[160]: https://leetcode.com/problems/intersection-of-two-linked-lists/
 [163]: https://leetcode.com/problems/missing-ranges/
 [169]: https://leetcode.com/problems/majority-element/
 [171]: https://leetcode.com/problems/excel-sheet-column-number/
