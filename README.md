@@ -83,6 +83,7 @@ id  | pb | runtime | rank
 263 | [Ugly Number][263] | 246ms | 15%
 266 | [Palindrome permutation][266] | 1ms | ?
 268 | [Missing number][268] | 1ms | ?
+270 | [Closest Binary Search Tree Value][270] | 0ms | 64%
 271 | [Encode and decode strings][271] | 15ms | ?
 274 | [H-Index][274] | 3ms | ?
 278 | [First bad version][278] | 17ms | 35%
@@ -187,6 +188,7 @@ Too lazy to add :see_no_evil:
 [263]: https://leetcode.com/problems/ugly-number/
 [266]: https://leetcode.com/problems/palindrome-permutation/
 [268]: https://leetcode.com/problems/missing-number/
+[270]: https://leetcode.com/problems/closest-binary-search-tree-value/
 [271]: https://leetcode.com/problems/encode-and-decode-strings/
 [274]: https://leetcode.com/problems/h-index/
 [278]: https://leetcode.com/problems/first-bad-version/
