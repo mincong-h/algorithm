@@ -105,6 +105,7 @@ id  | pb | runtime | rank
 389 | [Find the difference][389] | 9ms | ?
 400 | [Nth Digit][400] | 7ms | ?
 404 | [Sum of left leaves][404] | 8ms | ?
+408 | [Valid Word Abbreviation][408] | 22ms | ?
 409 | [Longest Palindrome][409] | 11ms | ?
 
 ## HackerRank
@@ -212,4 +213,5 @@ Too lazy to add :see_no_evil:
 [389]: https://leetcode.com/problems/find-the-difference/
 [400]: https://leetcode.com/problems/nth-digit/
 [404]: https://leetcode.com/problems/sum-of-left-leaves/
+[408]: https://leetcode.com/problems/valid-word-abbreviation/
 [409]: https://leetcode.com/problems/longest-palindrome/
