@@ -97,6 +97,7 @@ id  | pb | runtime | rank
 342 | [Power of Four][342] | 2ms | 22%
 346 | [Moving average from data stream][346] | 177ms | ?
 350 | [Intersection of two arrays II][350] | 8ms | ?
+351 | [Android unlock pattern][351] | 13ms | 27%
 359 | [Logger rate limiter][359] | 187ms | ?
 374 | [Guess number higher or lower][374] | 2ms | ?
 383 | [Ransom note][383] | 18ms | ?
@@ -205,6 +206,7 @@ Too lazy to add :see_no_evil:
 [342]: https://leetcode.com/problems/power-of-four/
 [346]: https://leetcode.com/problems/moving-average-from-data-stream/
 [350]: https://leetcode.com/problems/intersection-of-two-arrays-ii/
+[351]: https://leetcode.com/problems/android-unlock-patterns/
 [359]: https://leetcode.com/problems/logger-rate-limiter/
 [374]: https://leetcode.com/problems/guess-number-higher-or-lower/
 [383]: https://leetcode.com/problems/ransom-note/
