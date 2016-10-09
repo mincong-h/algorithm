@@ -21,6 +21,7 @@ id  | pb | runtime | rank
 19 | [Remove Nth Node From End of List][19] | 16ms | 83%
 20 | [Valid parentheses][20] | 1ms | ?
 21 | [Merge two sorted lists][21] | 16ms | ?
+22 | [Generate parentheses][22] | 5ms | 83%
 26 | [Remove duplicates from sorted array][26] | 2ms | ?
 27 | [Remove element][27] | 1ms | ?
 28 | [Implement strStr()][28] | 16ms | 94%
@@ -130,6 +131,7 @@ Too lazy to add :see_no_evil:
 [19]: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 [20]: https://leetcode.com/problems/valid-parentheses/
 [21]: https://leetcode.com/problems/merge-two-sorted-lists/
+[22]: https://leetcode.com/problems/generate-parentheses/
 [26]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 [27]: https://leetcode.com/problems/remove-element/
 [28]: https://leetcode.com/problems/implement-strstr/
