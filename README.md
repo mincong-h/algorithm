@@ -53,6 +53,7 @@ id  | pb | runtime | rank
 155 | [Min stack][155] | 151ms | ?
 160 | [Intersection of two linked lists][160] | 11ms | 93%
 163 | [Missing ranges][163] | 13ms | ?
+168 | [Excel sheet column title][168] | 0ms | 88%
 169 | [Majority Element][169] | 564ms | 98%
 171 | [Excel Sheet Column Number][171] | 344ms | 47%
 172 | [Factorial Trailing Zeroes][172] | 2ms | ?
@@ -163,6 +164,7 @@ Too lazy to add :see_no_evil:
 [155]: https://leetcode.com/problems/min-stack/
 [160]: https://leetcode.com/problems/intersection-of-two-linked-lists/
 [163]: https://leetcode.com/problems/missing-ranges/
+[168]: https://leetcode.com/problems/excel-sheet-column-title/
 [169]: https://leetcode.com/problems/majority-element/
 [171]: https://leetcode.com/problems/excel-sheet-column-number/
 [172]: https://leetcode.com/problems/factorial-trailing-zeroes/
