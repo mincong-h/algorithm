@@ -58,6 +58,7 @@ id  | pb | runtime | rank
 171 | [Excel Sheet Column Number][171] | 344ms | 47%
 172 | [Factorial Trailing Zeroes][172] | 2ms | ?
 179 | [Largest number][179] | 115ms | 31%
+189 | [Rotate array][189] | 1ms | 88%
 191 | [Number of 1 Bits][191] | 216ms | 1%
 195 | [Tenth line][195] | 15ms | 91%
 200 | [Number of islands][200] | 3ms | ?
@@ -170,6 +171,7 @@ Too lazy to add :see_no_evil:
 [171]: https://leetcode.com/problems/excel-sheet-column-number/
 [172]: https://leetcode.com/problems/factorial-trailing-zeroes/
 [179]: https://leetcode.com/problems/largest-number/
+[189]: https://leetcode.com/problems/rotate-array/
 [191]: https://leetcode.com/problems/number-of-1-bits/
 [195]: https://leetcode.com/problems/tenth-line/
 [200]: https://leetcode.com/problems/number-of-islands/
