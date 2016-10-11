@@ -36,6 +36,7 @@ id  | pb | runtime | rank
 70 | [Climbing Stairs][70] | 200ms | 26%
 83 | [Remove Duplicates from Sorted List][83] | 284ms | 1%
 88 | [Merge Sorted Array][88] | 178ms | ?
+98 | [Validate binary search tree][98] | 1ms | 62%
 100 | [Same tree][100] | 256ms | 10%
 101 | [Symmetric tree][101] | 1ms | 26%
 102 | [Binary Tree Level Order Traversal][102] | 2ms | 64%
@@ -152,6 +153,7 @@ Too lazy to add :see_no_evil:
 [70]: https://leetcode.com/problems/climbing-stairs/
 [83]: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 [88]: https://leetcode.com/problems/merge-sorted-array/
+[98]: https://leetcode.com/problems/validate-binary-search-tree/
 [100]: https://leetcode.com/problems/same-tree/
 [101]: https://leetcode.com/problems/symmetric-tree/
 [102]: https://leetcode.com/problems/binary-tree-level-order-traversal/
