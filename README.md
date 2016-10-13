@@ -108,6 +108,7 @@ id  | pb | runtime | rank
 350 | [Intersection of two arrays II][350] | 8ms | ?
 351 | [Android unlock pattern][351] | 13ms | 27%
 359 | [Logger rate limiter][359] | 187ms | ?
+360 | [Sort transformed array][360] | 1ms | 59%
 374 | [Guess number higher or lower][374] | 2ms | ?
 383 | [Ransom note][383] | 18ms | ?
 387 | [First Unique Character in a String][387] | 31ms | ?
@@ -227,6 +228,7 @@ Too lazy to add :see_no_evil:
 [350]: https://leetcode.com/problems/intersection-of-two-arrays-ii/
 [351]: https://leetcode.com/problems/android-unlock-patterns/
 [359]: https://leetcode.com/problems/logger-rate-limiter/
+[360]: https://leetcode.com/problems/sort-transformed-array/
 [374]: https://leetcode.com/problems/guess-number-higher-or-lower/
 [383]: https://leetcode.com/problems/ransom-note/
 [387]: https://leetcode.com/problems/first-unique-character-in-a-string/
