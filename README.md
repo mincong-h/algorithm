@@ -57,6 +57,7 @@ id  | pb | runtime | rank
 160 | [Intersection of two linked lists][160] | 11ms | 93%
 163 | [Missing ranges][163] | 13ms | ?
 165 | [Compare Version Numbers][165] | 4ms | 88%
+167 | [Two Sum II - Input array is sorted][167] | 3ms | 79%
 168 | [Excel sheet column title][168] | 0ms | 88%
 169 | [Majority Element][169] | 564ms | 98%
 171 | [Excel Sheet Column Number][171] | 344ms | 47%
@@ -178,6 +179,7 @@ Too lazy to add :see_no_evil:
 [160]: https://leetcode.com/problems/intersection-of-two-linked-lists/
 [163]: https://leetcode.com/problems/missing-ranges/
 [165]: https://leetcode.com/problems/compare-version-numbers/
+[167]: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 [168]: https://leetcode.com/problems/excel-sheet-column-title/
 [169]: https://leetcode.com/problems/majority-element/
 [171]: https://leetcode.com/problems/excel-sheet-column-number/
