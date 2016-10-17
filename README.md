@@ -70,6 +70,7 @@ id  | pb | runtime | rank
 200 | [Number of islands][200] | 3ms | ?
 202 | [Happy Number][202] | 244ms | 27%
 203 | [Remove linked list elements][203] | 2ms | ?
+204 | [Count Primes][204] | 32ms | 48%
 205 | [Isomorphic strings][205] | 50ms | ?
 206 | [Reverse Linked List][206] | 360ms | 93%
 215 | [Kth Largest Element in an Array][215] | 6ms | 22%
@@ -192,6 +193,7 @@ Too lazy to add :see_no_evil:
 [200]: https://leetcode.com/problems/number-of-islands/
 [202]: https://leetcode.com/problems/happy-number/
 [203]: https://leetcode.com/problems/remove-linked-list-elements/
+[204]: https://leetcode.com/problems/count-primes/
 [205]: https://leetcode.com/problems/isomorphic-strings/
 [206]: https://leetcode.com/problems/reverse-linked-list/
 [215]: https://leetcode.com/problems/kth-largest-element-in-an-array/
