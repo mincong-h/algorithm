@@ -81,7 +81,7 @@ id  | pb | runtime | rank
 231 | [Power of two][231] | 228ms | 1%
 232 | [Implement queue using stacks][232] | 106ms | 55%
 234 | [Palindrome linked list][234] | 7ms | ?
-235 | [Lowest Common Ancestor of a Binary Search Tree][235] | 456ms | 14%
+235 | [Lowest Common Ancestor of a Binary Search Tree][235] | 8ms | 46%
 236 | [Lowest Common Ancestor of a Binary Tree][236] | 15ms | 83%
 237 | [Delete node from a linked list][237] | 288ms | 5%
 238 | [Product of array except self][238] | 2ms | 60%
