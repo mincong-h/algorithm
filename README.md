@@ -90,6 +90,7 @@ id  | pb | runtime | rank
 242 | [Valid Anagram][242] | 340ms | 41%
 243 | [Shortest word distance][243] | 2ms | 25%
 246 | [Strobogrammatic number][246] | 0ms | ?
+252 | [Meeting rooms][252] | 13ms | 70%
 257 | [Binary tree paths][257] | 247 | ?
 258 | [Add Digits][258] | 256ms | 19%
 263 | [Ugly Number][263] | 246ms | 15%
@@ -213,6 +214,7 @@ Too lazy to add :see_no_evil:
 [242]: https://leetcode.com/problems/valid-anagram/
 [243]: https://leetcode.com/problems/shortest-word-distance/
 [246]: https://leetcode.com/problems/strobogrammatic-number/
+[252]: https://leetcode.com/problems/meeting-rooms/
 [257]: https://leetcode.com/problems/binary-tree-paths/
 [258]: https://leetcode.com/problems/add-digits/
 [263]: https://leetcode.com/problems/ugly-number/
