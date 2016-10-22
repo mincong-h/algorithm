@@ -55,6 +55,7 @@ id  | pb | runtime | rank
 151 | [Reverse words in a string][151] | 7ms | 33%
 155 | [Min stack][155] | 151ms | ?
 160 | [Intersection of two linked lists][160] | 11ms | 93%
+162 | [Find Peak Element][162] | 1ms | 98%
 163 | [Missing ranges][163] | 13ms | ?
 165 | [Compare Version Numbers][165] | 4ms | 88%
 167 | [Two Sum II - Input array is sorted][167] | 3ms | 79%
@@ -182,6 +183,7 @@ Too lazy to add :see_no_evil:
 [151]: https://leetcode.com/problems/reverse-words-in-a-string/
 [155]: https://leetcode.com/problems/min-stack/
 [160]: https://leetcode.com/problems/intersection-of-two-linked-lists/
+[162]: https://leetcode.com/problems/find-peak-element/
 [163]: https://leetcode.com/problems/missing-ranges/
 [165]: https://leetcode.com/problems/compare-version-numbers/
 [167]: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
