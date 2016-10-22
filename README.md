@@ -102,6 +102,7 @@ id  | pb | runtime | rank
 271 | [Encode and decode strings][271] | 15ms | ?
 274 | [H-Index][274] | 3ms | ?
 278 | [First bad version][278] | 17ms | 35%
+279 | [Perfect squares][279] | 58ms | 20%
 280 | [Wiggle sort][280] | 1ms | 29%
 283 | [Move zeroes][283] | - | -
 288 | [Unique word abbreviation][288] | 79ms | 77%
@@ -230,6 +231,7 @@ Too lazy to add :see_no_evil:
 [271]: https://leetcode.com/problems/encode-and-decode-strings/
 [274]: https://leetcode.com/problems/h-index/
 [278]: https://leetcode.com/problems/first-bad-version/
+[279]: https://leetcode.com/problems/perfect-squares/
 [280]: https://leetcode.com/problems/wiggle-sort/
 [283]: https://leetcode.com/problems/move-zeroes/
 [288]: https://leetcode.com/problems/unique-word-abbreviation/
