@@ -122,6 +122,7 @@ id  | pb | runtime | rank
 401 | [Binary watch][401] | 1ms | 1%
 402 | [Remove K digits][402] | 29ms | 53%
 404 | [Sum of left leaves][404] | 8ms | ?
+405 | [Convert a Number to Hexadecimal][405] | 7ms | 11%
 408 | [Valid Word Abbreviation][408] | 22ms | ?
 409 | [Longest Palindrome][409] | 11ms | ?
 415 | [Add Strings][415] | 35ms | ?
@@ -248,6 +249,7 @@ Too lazy to add :see_no_evil:
 [401]: https://leetcode.com/problems/binary-watch/
 [402]: https://leetcode.com/problems/remove-k-digits/
 [404]: https://leetcode.com/problems/sum-of-left-leaves/
+[405]: https://leetcode.com/problems/convert-a-number-to-hexadecimal/
 [408]: https://leetcode.com/problems/valid-word-abbreviation/
 [409]: https://leetcode.com/problems/longest-palindrome/
 [415]: https://leetcode.com/problems/add-strings/
