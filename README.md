@@ -108,6 +108,7 @@ id  | pb | runtime | rank
 283 | [Move zeroes][283] | - | -
 288 | [Unique word abbreviation][288] | 79ms | 77%
 293 | [Flip game][293] | 1ms | ?
+297 | [Serialize and Deserialize Binary Tree][297] | 23ms | 23%
 298 | [Binary tree longest consecuritve sequence][298] | 3ms | ?
 326 | [Power of Three][326] | 21ms | 19%
 342 | [Power of Four][342] | 2ms | 22%
@@ -238,6 +239,7 @@ Too lazy to add :see_no_evil:
 [283]: https://leetcode.com/problems/move-zeroes/
 [288]: https://leetcode.com/problems/unique-word-abbreviation/
 [293]: https://leetcode.com/problems/flip-game/
+[297]: https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 [298]: https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/
 [326]: https://leetcode.com/problems/power-of-three/
 [342]: https://leetcode.com/problems/power-of-four/
