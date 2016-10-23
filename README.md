@@ -37,6 +37,7 @@ id  | pb | runtime | rank
 67 | [Add binary][67] | 3ms | 16%
 70 | [Climbing Stairs][70] | 200ms | 26%
 78 | [Subsets][78] | 1ms | 91%
+79 | [Word search][79] | 17ms | 69%
 83 | [Remove Duplicates from Sorted List][83] | 284ms | 1%
 88 | [Merge Sorted Array][88] | 178ms | ?
 98 | [Validate binary search tree][98] | 1ms | 62%
@@ -168,6 +169,7 @@ Too lazy to add :see_no_evil:
 [67]: https://leetcode.com/problems/add-binary/
 [70]: https://leetcode.com/problems/climbing-stairs/
 [78]: https://leetcode.com/problems/subsets/
+[79]: https://leetcode.com/problems/word-search/
 [83]: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 [88]: https://leetcode.com/problems/merge-sorted-array/
 [98]: https://leetcode.com/problems/validate-binary-search-tree/
