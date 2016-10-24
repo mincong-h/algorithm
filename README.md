@@ -133,6 +133,7 @@ id  | pb | runtime | rank
 408 | [Valid Word Abbreviation][408] | 22ms | ?
 409 | [Longest Palindrome][409] | 11ms | ?
 412 | [Fizz Buzz][412] | 10ms | 98%
+414 | [Third Maximum Number][414] | 22ms | 93%
 415 | [Add Strings][415] | 35ms | ?
 
 ## HackerRank
@@ -268,4 +269,5 @@ Too lazy to add :see_no_evil:
 [408]: https://leetcode.com/problems/valid-word-abbreviation/
 [409]: https://leetcode.com/problems/longest-palindrome/
 [412]: https://leetcode.com/problems/fizz-buzz/
+[414]: https://leetcode.com/problems/third-maximum-number/
 [415]: https://leetcode.com/problems/add-strings/
