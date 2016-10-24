@@ -5,9 +5,7 @@
  */
 public class Solution {
     public int countPrimes(int n) {
-        if (n <= 0) {
-            return 0;
-        }
+
         boolean[] isComposite = new boolean[n];
         int primeCount = 0;
 
