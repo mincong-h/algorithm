@@ -40,6 +40,7 @@ id  | pb | runtime | rank
 79 | [Word search][79] | 17ms | 69%
 83 | [Remove Duplicates from Sorted List][83] | 284ms | 1%
 88 | [Merge Sorted Array][88] | 178ms | ?
+94 | [Binary Tree Inorder Traversal][94] | 1ms | 64%
 98 | [Validate binary search tree][98] | 1ms | 62%
 100 | [Same tree][100] | 256ms | 10%
 101 | [Symmetric tree][101] | 1ms | 26%
@@ -173,6 +174,7 @@ Too lazy to add :see_no_evil:
 [79]: https://leetcode.com/problems/word-search/
 [83]: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 [88]: https://leetcode.com/problems/merge-sorted-array/
+[94]: https://leetcode.com/problems/binary-tree-inorder-traversal/
 [98]: https://leetcode.com/problems/validate-binary-search-tree/
 [100]: https://leetcode.com/problems/same-tree/
 [101]: https://leetcode.com/problems/symmetric-tree/
