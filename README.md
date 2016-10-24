@@ -47,6 +47,7 @@ id  | pb | runtime | rank
 104 | [Maximun number of a binary tree][104] | 380ms | 83%
 107 | [Binary Tree Level Order Traversal II][107] | 3ms | 77%
 110 | [Balanced binary tree][110] | 2ms | 73%
+111 | [Minimum depth of binary tree][111] | 1ms | 83%
 112 | [Path sum][112] | 1ms | ?
 118 | [Pascal triangle][118] | 1ms | 59%
 119 | [Pascal triangle II][119] | 2ms | 27%
@@ -179,6 +180,7 @@ Too lazy to add :see_no_evil:
 [104]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
 [107]: https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
 [110]: https://leetcode.com/problems/balanced-binary-tree/
+[111]: https://leetcode.com/problems/minimum-depth-of-binary-tree/
 [112]: https://leetcode.com/problems/path-sum/
 [118]: https://leetcode.com/problems/pascals-triangle/
 [119]: https://leetcode.com/problems/pascals-triangle-ii/
