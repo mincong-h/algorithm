@@ -132,6 +132,7 @@ id  | pb | runtime | rank
 405 | [Convert a Number to Hexadecimal][405] | 7ms | 11%
 408 | [Valid Word Abbreviation][408] | 22ms | ?
 409 | [Longest Palindrome][409] | 11ms | ?
+412 | [Fizz Buzz][412] | 10ms | 98%
 415 | [Add Strings][415] | 35ms | ?
 
 ## HackerRank
@@ -266,4 +267,5 @@ Too lazy to add :see_no_evil:
 [405]: https://leetcode.com/problems/convert-a-number-to-hexadecimal/
 [408]: https://leetcode.com/problems/valid-word-abbreviation/
 [409]: https://leetcode.com/problems/longest-palindrome/
+[412]: https://leetcode.com/problems/fizz-buzz/
 [415]: https://leetcode.com/problems/add-strings/
