@@ -31,7 +31,7 @@ public class LRUCache {
 
         Node node = cache.get(key);
 
-        if(node == null){
+        if (node == null) {
             node = new Node(key, value);
             cache.put(key, node);
             addNode(node);
@@ -67,7 +67,7 @@ public class LRUCache {
     /**
      * Always add the new node right after head.
      */
-    private void addNode(Node node){
+    private void addNode(Node node) {
         node.pre = head;
         node.post = head.post;
         head.post.pre = node;
@@ -77,7 +77,7 @@ public class LRUCache {
     /**
      * Remove an existing node from the linked list.
      */
-    private void removeNode(Node node){
+    private void removeNode(Node node) {
         Node pre = node.pre;
         Node post = node.post;
         pre.post = post;
@@ -87,7 +87,7 @@ public class LRUCache {
     /**
      * Move certain node in between to the head.
      */
-    private void moveToHead(Node node){
+    private void moveToHead(Node node) {
         removeNode(node);
         addNode(node);
     }
@@ -95,7 +95,7 @@ public class LRUCache {
     /**
      * pop the current tail.
      */
-    private Node popTail(){
+    private Node popTail() {
         Node node = tail.pre;
         removeNode(node);
         return node;
