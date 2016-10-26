@@ -134,7 +134,7 @@ id  | pb | runtime | rank
 408 | [Valid Word Abbreviation][408] | 22ms | ?
 409 | [Longest Palindrome][409] | 11ms | ?
 412 | [Fizz Buzz][412] | 10ms | 98%
-414 | [Third Maximum Number][414] | 22ms | 93%
+414 | [Third Maximum Number][414] | 6ms | 67%
 415 | [Add Strings][415] | 35ms | ?
 438 | [Find All Anagrams in a String][438] | 583ms | ?
 

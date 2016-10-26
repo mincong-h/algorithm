@@ -5,29 +5,36 @@ public class Solution {
 
     public int thirdMax(int[] nums) {
 
-        PriorityQueue<Integer> top3 = new PriorityQueue<>(1, new Comparator<Integer>(){
-           public int compare(Integer a, Integer b) {
-               return a.compareTo(b);
-           } 
-        });
+        Integer top1 = null;
+        Integer top2 = null;
+        Integer top3 = null;
 
         for (int num : nums) {
-            if (!top3.contains(num)) {
-                top3.add(num);
-                if (top3.size() > 3) {
-                    top3.poll();
-                }
+            // Redefine top1
+            if (top1 == null || num > top1) {
+                top3 = top2;
+                top2 = top1;
+                top1 = num;
+                continue;
+            }
+            if (top1 == num)
+                continue;
+
+            // Redefine top2
+            if (top2 == null || num > top2) {
+                top3 = top2;
+                top2 = num;
+                continue;
+            }
+            if (top2 == num)
+                continue;
+
+            // Redefine top3
+            if (top3 == null || num > top3) {
+                top3 = num;
+                continue;
             }
         }
-
-        if (top3.size() == 3) {
-            return top3.peek();
-        }
-
-        while (top3.size() > 1) {
-            top3.poll();
-        }
-        return top3.peek();
+        return top3 == null ? top1 : top3;
     }
 }
-
