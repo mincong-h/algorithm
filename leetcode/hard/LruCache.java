@@ -88,8 +88,8 @@ public class LRUCache {
      * Move certain node in between to the head.
      */
     private void moveToHead(Node node){
-        this.removeNode(node);
-        this.addNode(node);
+        removeNode(node);
+        addNode(node);
     }
 
     /**
