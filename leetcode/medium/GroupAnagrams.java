@@ -3,20 +3,20 @@
  */
 public class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
-        if (strs == null) {
-            return null;
-        }
-        Map<String, List<String>> anagrams = new HashMap<>();
-        Arrays.sort(strs);
-        for (String s : strs) {
-            char[] chars = s.toCharArray();
+        Map<String, List<String>> groups = new HashMap<>();
+        for (String str : strs) {
+            char[] chars = str.toCharArray();
             Arrays.sort(chars);
-            String key = String.valueOf(chars);
-            if (!anagrams.containsKey(key)) {
-                anagrams.put(key, new ArrayList<>());
+            String key = new String(chars);
+            if (groups.containsKey(key)) {
+                List<String> group = groups.get(key);
+                group.add(str);
+            } else {
+                List<String> group = new LinkedList<>();
+                group.add(str);
+                groups.put(key, group);
             }
-            anagrams.get(key).add(s);
         }
-        return new ArrayList<>(anagrams.values());
+        return new LinkedList<>(groups.values());
     }
 }

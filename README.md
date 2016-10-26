@@ -29,7 +29,7 @@ id  | pb | runtime | rank
 36 | [Valid sudoku][36] | 7ms | ?
 38 | [Count and say][38] | 4ms | ?
 48 | [Rotate image][48] | 3ms | 97%
-49 | [Group anagrams][49] | 43ms | 90%
+49 | [Group anagrams][49] | 34ms | 66%
 50 | [Pow x-n][50] | 26ms | 99%
 56 | [Merge intervals][56] | 28ms | ?
 58 | [Length of last word][58] | 0ms | 43%
