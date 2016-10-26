@@ -136,6 +136,7 @@ id  | pb | runtime | rank
 412 | [Fizz Buzz][412] | 10ms | 98%
 414 | [Third Maximum Number][414] | 22ms | 93%
 415 | [Add Strings][415] | 35ms | ?
+438 | [Find All Anagrams in a String][438] | 583ms | ?
 
 ## HackerRank
 
@@ -273,3 +274,4 @@ Too lazy to add :see_no_evil:
 [412]: https://leetcode.com/problems/fizz-buzz/
 [414]: https://leetcode.com/problems/third-maximum-number/
 [415]: https://leetcode.com/problems/add-strings/
+[438]: https://leetcode.com/problems/find-all-anagrams-in-a-string/
