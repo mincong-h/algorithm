@@ -53,6 +53,7 @@ id  | pb | runtime | rank
 112 | [Path sum][112] | 1ms | ?
 118 | [Pascal triangle][118] | 1ms | 59%
 119 | [Pascal triangle II][119] | 2ms | 27%
+122 | [Best time to buy and sell stock II][122] | 2ms | 91%
 125 | [Valid palindrome][125] | 6ms | 9%
 136 | [Single Number][136] | 1ms | 33%
 139 | [Word Break][139] | 12ms | 38%
@@ -201,6 +202,7 @@ Too lazy to add :see_no_evil:
 [112]: https://leetcode.com/problems/path-sum/
 [118]: https://leetcode.com/problems/pascals-triangle/
 [119]: https://leetcode.com/problems/pascals-triangle-ii/
+[122]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 [125]: https://leetcode.com/problems/valid-palindrome/
 [136]: https://leetcode.com/problems/single-number/
 [139]: https://leetcode.com/problems/word-break/
