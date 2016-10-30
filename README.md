@@ -101,6 +101,7 @@ id  | pb | runtime | rank
 253 | [Meeting rooms][253] | 19ms | 68%
 257 | [Binary tree paths][257] | 247 | ?
 258 | [Add Digits][258] | 256ms | 19%
+260 | [Single number III][260] | 10ms | 20%
 263 | [Ugly Number][263] | 246ms | 15%
 266 | [Palindrome permutation][266] | 1ms | ?
 268 | [Missing number][268] | 1ms | ?
@@ -242,6 +243,7 @@ Too lazy to add :see_no_evil:
 [253]: https://leetcode.com/problems/meeting-rooms-ii/
 [257]: https://leetcode.com/problems/binary-tree-paths/
 [258]: https://leetcode.com/problems/add-digits/
+[260]: https://leetcode.com/problems/single-number-iii/
 [263]: https://leetcode.com/problems/ugly-number/
 [266]: https://leetcode.com/problems/palindrome-permutation/
 [268]: https://leetcode.com/problems/missing-number/
