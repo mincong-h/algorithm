@@ -96,6 +96,7 @@ id  | pb | runtime | rank
 240 | [Search a 2D matrix II][242] | 13ms | 33%
 242 | [Valid Anagram][242] | 340ms | 41%
 243 | [Shortest word distance][243] | 2ms | 25%
+245 | [Shortest word distance III][245] | 6ms | 88%
 246 | [Strobogrammatic number][246] | 0ms | ?
 252 | [Meeting rooms][252] | 13ms | 70%
 253 | [Meeting rooms][253] | 19ms | 68%
@@ -239,6 +240,7 @@ Too lazy to add :see_no_evil:
 [240]: https://leetcode.com/problems/search-a-2d-matrix-ii/
 [242]: https://leetcode.com/problems/valid-anagram/
 [243]: https://leetcode.com/problems/shortest-word-distance/
+[245]: https://leetcode.com/problems/shortest-word-distance-iii/
 [246]: https://leetcode.com/problems/strobogrammatic-number/
 [252]: https://leetcode.com/problems/meeting-rooms/
 [253]: https://leetcode.com/problems/meeting-rooms-ii/
