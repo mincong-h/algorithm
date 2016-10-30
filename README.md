@@ -57,6 +57,7 @@ id  | pb | runtime | rank
 136 | [Single Number][136] | 1ms | 33%
 139 | [Word Break][139] | 12ms | 38%
 141 | [Linked List Cycle][141] | 1ms | 9%
+144 | [Binary tree preorder traversal][144] | 1ms | 69%
 146 | [LRU Cache][146] | 16ms | 17%
 151 | [Reverse words in a string][151] | 7ms | 33%
 155 | [Min stack][155] | 151ms | ?
@@ -204,6 +205,7 @@ Too lazy to add :see_no_evil:
 [136]: https://leetcode.com/problems/single-number/
 [139]: https://leetcode.com/problems/word-break/
 [141]: https://leetcode.com/problems/linked-list-cycle/
+[144]: https://leetcode.com/problems/binary-tree-preorder-traversal/
 [146]: https://leetcode.com/problems/lru-cache/
 [151]: https://leetcode.com/problems/reverse-words-in-a-string/
 [155]: https://leetcode.com/problems/min-stack/
