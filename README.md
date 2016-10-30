@@ -125,6 +125,7 @@ id  | pb | runtime | rank
 342 | [Power of Four][342] | 2ms | 22%
 343 | [Integer break][343] | 0ms | 48%
 346 | [Moving average from data stream][346] | 177ms | ?
+347 | [Top K frequent elements][347] | 122ms | 95%
 349 | [Intersection of two arrays][349] | 6ms | 56%
 350 | [Intersection of two arrays II][350] | 8ms | ?
 351 | [Android unlock pattern][351] | 13ms | 27%
@@ -276,6 +277,7 @@ Too lazy to add :see_no_evil:
 [342]: https://leetcode.com/problems/power-of-four/
 [343]: https://leetcode.com/problems/integer-break/
 [346]: https://leetcode.com/problems/moving-average-from-data-stream/
+[347]: https://leetcode.com/problems/top-k-frequent-elements/
 [349]: https://leetcode.com/problems/intersection-of-two-arrays/
 [350]: https://leetcode.com/problems/intersection-of-two-arrays-ii/
 [351]: https://leetcode.com/problems/android-unlock-patterns/
