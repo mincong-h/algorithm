@@ -135,6 +135,7 @@ id  | pb | runtime | rank
 402 | [Remove K digits][402] | 29ms | 53%
 404 | [Sum of left leaves][404] | 8ms | ?
 405 | [Convert a Number to Hexadecimal][405] | 7ms | 11%
+406 | [Queue reconstruction by height][406] | 15ms | 2%
 408 | [Valid Word Abbreviation][408] | 22ms | ?
 409 | [Longest Palindrome][409] | 11ms | ?
 412 | [Fizz Buzz][412] | 10ms | 98%
@@ -277,6 +278,7 @@ Too lazy to add :see_no_evil:
 [402]: https://leetcode.com/problems/remove-k-digits/
 [404]: https://leetcode.com/problems/sum-of-left-leaves/
 [405]: https://leetcode.com/problems/convert-a-number-to-hexadecimal/
+[406]: https://leetcode.com/problems/queue-reconstruction-by-height/
 [408]: https://leetcode.com/problems/valid-word-abbreviation/
 [409]: https://leetcode.com/problems/longest-palindrome/
 [412]: https://leetcode.com/problems/fizz-buzz/
