@@ -123,6 +123,7 @@ id  | pb | runtime | rank
 320 | [Generalized abbreviation][320] | 21ms | 48%
 326 | [Power of Three][326] | 21ms | 19%
 342 | [Power of Four][342] | 2ms | 22%
+343 | [Integer break][343] | 0ms | 48%
 346 | [Moving average from data stream][346] | 177ms | ?
 349 | [Intersection of two arrays][349] | 6ms | 56%
 350 | [Intersection of two arrays II][350] | 8ms | ?
@@ -273,6 +274,7 @@ Too lazy to add :see_no_evil:
 [320]: https://leetcode.com/problems/generalized-abbreviation/
 [326]: https://leetcode.com/problems/power-of-three/
 [342]: https://leetcode.com/problems/power-of-four/
+[343]: https://leetcode.com/problems/integer-break/
 [346]: https://leetcode.com/problems/moving-average-from-data-stream/
 [349]: https://leetcode.com/problems/intersection-of-two-arrays/
 [350]: https://leetcode.com/problems/intersection-of-two-arrays-ii/
