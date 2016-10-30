@@ -128,6 +128,7 @@ id  | pb | runtime | rank
 360 | [Sort transformed array][360] | 1ms | 59%
 369 | [Plus one linked list][369] | 1ms | 92%
 374 | [Guess number higher or lower][374] | 2ms | ?
+382 | [Linked list random node][382] | 146ms | 64%
 383 | [Ransom note][383] | 18ms | ?
 387 | [First Unique Character in a String][387] | 31ms | ?
 388 | [Longest absolute file path][388] | 6ms | ?
@@ -274,6 +275,7 @@ Too lazy to add :see_no_evil:
 [360]: https://leetcode.com/problems/sort-transformed-array/
 [369]: https://leetcode.com/problems/plus-one-linked-list/
 [374]: https://leetcode.com/problems/guess-number-higher-or-lower/
+[382]: https://leetcode.com/problems/linked-list-random-node/
 [383]: https://leetcode.com/problems/ransom-note/
 [387]: https://leetcode.com/problems/first-unique-character-in-a-string/
 [388]: https://leetcode.com/problems/longest-absolute-file-path/
