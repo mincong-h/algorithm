@@ -132,6 +132,7 @@ id  | pb | runtime | rank
 387 | [First Unique Character in a String][387] | 31ms | ?
 388 | [Longest absolute file path][388] | 6ms | ?
 389 | [Find the difference][389] | 9ms | ?
+392 | [Is subseauence][392] | 2ms | 7%
 400 | [Nth Digit][400] | 7ms | ?
 401 | [Binary watch][401] | 1ms | 1%
 402 | [Remove K digits][402] | 29ms | 53%
@@ -277,6 +278,7 @@ Too lazy to add :see_no_evil:
 [387]: https://leetcode.com/problems/first-unique-character-in-a-string/
 [388]: https://leetcode.com/problems/longest-absolute-file-path/
 [389]: https://leetcode.com/problems/find-the-difference/
+[392]: https://leetcode.com/problems/is-subsequence/
 [400]: https://leetcode.com/problems/nth-digit/
 [401]: https://leetcode.com/problems/binary-watch/
 [402]: https://leetcode.com/problems/remove-k-digits/
