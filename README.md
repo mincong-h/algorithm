@@ -120,6 +120,7 @@ id  | pb | runtime | rank
 293 | [Flip game][293] | 1ms | ?
 297 | [Serialize and Deserialize Binary Tree][297] | 23ms | 23%
 298 | [Binary tree longest consecuritve sequence][298] | 3ms | ?
+320 | [Generalized abbreviation][320] | 21ms | 48%
 326 | [Power of Three][326] | 21ms | 19%
 342 | [Power of Four][342] | 2ms | 22%
 346 | [Moving average from data stream][346] | 177ms | ?
@@ -269,6 +270,7 @@ Too lazy to add :see_no_evil:
 [293]: https://leetcode.com/problems/flip-game/
 [297]: https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 [298]: https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/
+[320]: https://leetcode.com/problems/generalized-abbreviation/
 [326]: https://leetcode.com/problems/power-of-three/
 [342]: https://leetcode.com/problems/power-of-four/
 [346]: https://leetcode.com/problems/moving-average-from-data-stream/
