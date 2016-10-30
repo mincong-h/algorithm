@@ -129,6 +129,7 @@ id  | pb | runtime | rank
 349 | [Intersection of two arrays][349] | 6ms | 56%
 350 | [Intersection of two arrays II][350] | 8ms | ?
 351 | [Android unlock pattern][351] | 13ms | 27%
+357 | [Count numbers with unique digits][357] | 0ms | 88%
 359 | [Logger rate limiter][359] | 187ms | ?
 360 | [Sort transformed array][360] | 1ms | 59%
 369 | [Plus one linked list][369] | 1ms | 92%
@@ -281,6 +282,7 @@ Too lazy to add :see_no_evil:
 [349]: https://leetcode.com/problems/intersection-of-two-arrays/
 [350]: https://leetcode.com/problems/intersection-of-two-arrays-ii/
 [351]: https://leetcode.com/problems/android-unlock-patterns/
+[357]: https://leetcode.com/problems/count-numbers-with-unique-digits/
 [359]: https://leetcode.com/problems/logger-rate-limiter/
 [360]: https://leetcode.com/problems/sort-transformed-array/
 [369]: https://leetcode.com/problems/plus-one-linked-list/
