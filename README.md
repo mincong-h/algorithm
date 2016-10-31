@@ -103,6 +103,7 @@ id  | pb | runtime | rank
 246 | [Strobogrammatic number][246] | 0ms | ?
 252 | [Meeting rooms][252] | 13ms | 70%
 253 | [Meeting rooms][253] | 19ms | 68%
+256 | [Paint house][256] | 1ms | 38%
 257 | [Binary tree paths][257] | 247 | ?
 258 | [Add Digits][258] | 256ms | 19%
 260 | [Single number III][260] | 10ms | 20%
@@ -256,6 +257,7 @@ Too lazy to add :see_no_evil:
 [246]: https://leetcode.com/problems/strobogrammatic-number/
 [252]: https://leetcode.com/problems/meeting-rooms/
 [253]: https://leetcode.com/problems/meeting-rooms-ii/
+[256]: https://leetcode.com/problems/paint-house/
 [257]: https://leetcode.com/problems/binary-tree-paths/
 [258]: https://leetcode.com/problems/add-digits/
 [260]: https://leetcode.com/problems/single-number-iii/
