@@ -121,6 +121,7 @@ id  | pb | runtime | rank
 293 | [Flip game][293] | 1ms | ?
 297 | [Serialize and Deserialize Binary Tree][297] | 23ms | 23%
 298 | [Binary tree longest consecuritve sequence][298] | 3ms | ?
+318 | [Maximum product of word lengths][318] | 71ms | 76%
 320 | [Generalized abbreviation][320] | 21ms | 48%
 326 | [Power of Three][326] | 21ms | 19%
 342 | [Power of Four][342] | 2ms | 22%
