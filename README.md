@@ -276,6 +276,7 @@ Too lazy to add :see_no_evil:
 [293]: https://leetcode.com/problems/flip-game/
 [297]: https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 [298]: https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/
+[318]: https://leetcode.com/problems/maximum-product-of-word-lengths/
 [320]: https://leetcode.com/problems/generalized-abbreviation/
 [326]: https://leetcode.com/problems/power-of-three/
 [342]: https://leetcode.com/problems/power-of-four/
