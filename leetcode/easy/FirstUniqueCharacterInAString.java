@@ -1,18 +1,16 @@
 public class Solution {
     public int firstUniqChar(String s) {
-
-        if (s == null || s.isEmpty()) {
-            return -1;
+        int[] counts = new int[256];
+        int len = s.length();
+        // fill count table
+        for (int i = 0; i < len; i++) {
+            int idx = (int) s.charAt(i);
+            counts[idx] = counts[idx] + 1;
         }
-
-        char[] chars = new char[26];
-        for (int i = 0; i < s.length(); i++) {
-            int index = s.charAt(i) - 'a';
-            chars[index]++;
-        }
-        for (int i = 0; i < s.length(); i++) {
-            int index = s.charAt(i) - 'a';
-            if (chars[index] == 1) {
+        // get first non-repeating
+        for (int i = 0; i < len; i++) {
+            int idx = (int) s.charAt(i);
+            if (counts[idx] == 1) {
                 return i;
             }
         }
