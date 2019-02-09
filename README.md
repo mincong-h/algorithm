@@ -86,7 +86,7 @@ id  | pb | runtime | rank
 217 | [Contains Duplicate][217] | 432ms | 38%
 219 | [Contains Duplicate II][219] | 11ms | 65%
 225 | [Implement stack using queues][225] | 107ms | 48%
-226 | [Invert Binary Tree][226] | 248ms | 6%
+226 | [Invert Binary Tree][226] | 0ms | -
 228 | [Summary ranges][228] | 0ms | ?
 231 | [Power of two][231] | 228ms | 1%
 232 | [Implement queue using stacks][232] | 106ms | 55%
