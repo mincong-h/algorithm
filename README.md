@@ -135,6 +135,7 @@ id  | pb | runtime | rank
 357 | [Count numbers with unique digits][357] | 0ms | 88%
 359 | [Logger rate limiter][359] | 187ms | ?
 360 | [Sort transformed array][360] | 1ms | 59%
+367 | [Valid perfect square](https://leetcode.com/problems/valid-perfect-square/) | 400ms | -
 369 | [Plus one linked list][369] | 1ms | 92%
 374 | [Guess number higher or lower][374] | 2ms | ?
 382 | [Linked list random node][382] | 146ms | 64%
