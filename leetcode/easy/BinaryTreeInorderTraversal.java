@@ -7,27 +7,19 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
-public class Solution {
+class Solution {
     public List<Integer> inorderTraversal(TreeNode root) {
         List<Integer> results = new LinkedList<>();
-        DFS(results, root);
+        dfs(results, root);
         return results;
     }
 
-    /**
-     * In-order: Left child tree -> root -> right child tree
-     */
-    private void DFS(List<Integer> results, TreeNode root) {
+    private void dfs(List<Integer> results, TreeNode root) {
         if (root == null) {
             return;
         }
-        if (root.left != null) {
-            DFS(results, root.left);
-        }
+        dfs(results, root.left);
         results.add(root.val);
-        if (root.right != null) {
-            DFS(results, root.right);
-        }
+        dfs(results, root.right);
     }
 }
-

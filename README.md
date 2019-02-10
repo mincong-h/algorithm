@@ -41,7 +41,7 @@ id  | pb | runtime | rank
 79 | [Word search][79] | 17ms | 69%
 83 | [Remove Duplicates from Sorted List][83] | 284ms | 1%
 88 | [Merge Sorted Array][88] | 178ms | ?
-94 | [Binary Tree Inorder Traversal][94] | 1ms | 64%
+94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | 0ms | -
 98 | [Validate binary search tree][98] | 1ms | 62%
 100 | [Same tree][100] | 256ms | 10%
 101 | [Symmetric tree][101] | 1ms | 26%
