@@ -158,6 +158,7 @@ id  | pb | runtime | rank
 438 | [Find All Anagrams in a String][438] | 583ms | ?
 476 | [Number Complement](https://leetcode.com/problems/number-complement/) | 5ms | -
 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/) | 20ms | -
+589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | 8ms | -
 590 | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | 4ms | -
 617 | [Merge Two Binary Tree][617] | 6ms | -
 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | 2ms | -
