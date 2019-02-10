@@ -161,6 +161,7 @@ id  | pb | runtime | rank
 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | 2ms | -
 709 | [To Lower Case][709] | 0ms | -
 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | 1ms | -
+977 | [Squares of a sorted array](https://leetcode.com/problems/squares-of-a-sorted-array/) | 20ms | -
 
 ## HackerRank
 
