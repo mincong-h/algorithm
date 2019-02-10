@@ -1,39 +1,19 @@
-package com.leetcode.easy;
-
-/*
- * Given a binary tree, find its maximum depth.
- * The maximum depth is the number of nodes along the longest path 
- * from the root node down to the farthest leaf node.
- * Solution idea gotten by "Finding maximum depth of a tree"
- * http://stackoverflow.com/questions/15271072/finding-maximum-depth-of-a-tree
- * 
- * https://leetcode.com/problems/maximum-depth-of-binary-tree/
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode(int x) { val = x; }
+ * }
  */
-
-public class MaxDepth {
-
-	public static void main(String[] args) {
-		TreeNode root = new TreeNode(0);
-		root.left = new TreeNode(1);
-		root.right = new TreeNode(2);
-		root.right.left = new TreeNode(5);
-		System.out.println(getDepth(root));
-	}
-	
-	static int getDepth(TreeNode n) {
-		int depth;
-		if(n == null) {
-			depth = 0;
-		} else if(n.left == null && n.right == null) {
-			depth = 1;
-		} else if (n.left == null) {
-			depth = getDepth(n.right) + 1;
-		} else if (n.right == null) {
-			depth = getDepth(n.left) + 1;
-		} else {
-			depth = Math.max(getDepth(n.left), getDepth(n.right)) + 1;
-		}
-		return depth;
-	}
-
+class Solution {
+    public int maxDepth(TreeNode root) {
+        if (root == null) {
+            return 0;
+        }
+        int maxL = maxDepth(root.left);
+        int maxR = maxDepth(root.right);
+        return maxL > maxR ? maxL + 1 : maxR + 1;
+    }
 }

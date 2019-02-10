@@ -46,7 +46,7 @@ id  | pb | runtime | rank
 100 | [Same tree][100] | 256ms | 10%
 101 | [Symmetric tree][101] | 1ms | 26%
 102 | [Binary Tree Level Order Traversal][102] | 2ms | 64%
-104 | [Maximun number of a binary tree][104] | 380ms | 83%
+104 | [Maximun Depth of a Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | 0ms | -
 107 | [Binary Tree Level Order Traversal II][107] | 3ms | 77%
 110 | [Balanced binary tree][110] | 2ms | 73%
 111 | [Minimum depth of binary tree][111] | 1ms | 83%
@@ -213,7 +213,6 @@ Too lazy to add :see_no_evil:
 [100]: https://leetcode.com/problems/same-tree/
 [101]: https://leetcode.com/problems/symmetric-tree/
 [102]: https://leetcode.com/problems/binary-tree-level-order-traversal/
-[104]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
 [107]: https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
 [110]: https://leetcode.com/problems/balanced-binary-tree/
 [111]: https://leetcode.com/problems/minimum-depth-of-binary-tree/
