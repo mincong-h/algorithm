@@ -156,6 +156,7 @@ id  | pb | runtime | rank
 415 | [Add Strings][415] | 35ms | ?
 438 | [Find All Anagrams in a String][438] | 583ms | ?
 476 | [Number Complement](https://leetcode.com/problems/number-complement/) | 5ms | -
+561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/) | 20ms | -
 617 | [Merge Two Binary Tree][617] | 6ms | -
 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | 2ms | -
 709 | [To Lower Case][709] | 0ms | -
