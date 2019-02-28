@@ -7,19 +7,19 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
-public class Solution {
+class Solution {
     public List<Integer> preorderTraversal(TreeNode root) {
-        List<Integer> results = new LinkedList<>();
-        dfs(results, root);
-        return results;
+        List<Integer> nodes = new LinkedList<>();
+        dfs(root, nodes);
+        return nodes;
     }
 
-    private void dfs(List<Integer> list, TreeNode root) {
+    private void dfs(TreeNode root, List<Integer> nodes) {
         if (root == null) {
             return;
         }
-        list.add(root.val);
-        dfs(list, root.left);
-        dfs(list, root.right);
+        nodes.add(root.val);
+        dfs(root.left, nodes);
+        dfs(root.right, nodes);
     }
 }
