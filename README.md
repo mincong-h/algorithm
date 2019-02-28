@@ -157,6 +157,7 @@ id  | pb | runtime | rank
 415 | [Add Strings][415] | 35ms | ?
 438 | [Find All Anagrams in a String][438] | 583ms | ?
 476 | [Number Complement](https://leetcode.com/problems/number-complement/) | 5ms | -
+500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | 1ms| -
 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | 12ms | -
 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | 14ms | -
 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/) | 2ms | -

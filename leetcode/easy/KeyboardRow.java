@@ -13,16 +13,18 @@ class Solution {
         };
         List<String> accepted = new ArrayList<>();
         WORD: for (String word : words) {
-            char[] chars = word.toLowerCase().toCharArray();
-            int level = levels[(int)(chars[0] - 'a')];
-            for (int i = 1; i < chars.length; i++) {
-                int idx = (int)(chars[i] - 'a');
-                if (levels[idx] != level) {
+            char c = word.charAt(0);
+            int x = c >= 'a' ? (int)(c - 'a') : (int)(c - 'A');
+            int level = levels[x];
+            for (int i = 1; i < word.length(); i++) {
+                c = word.charAt(i);
+                x = c >= 'a' ? (int)(c - 'a') : (int)(c - 'A');
+                if (levels[x] != level) {
                     continue WORD;
                 }
             }
             accepted.add(word);
         }
-        return accepted.toArray(new String[0]);
+        return accepted.toArray(new String[accepted.size()]);
     }
 }
