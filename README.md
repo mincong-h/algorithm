@@ -44,7 +44,7 @@ id  | pb | runtime | rank
 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | 0ms | -
 98 | [Validate binary search tree][98] | 1ms | 62%
 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | 1ms | -
-101 | [Symmetric tree][101] | 1ms | 26%
+101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | 5ms | -
 102 | [Binary Tree Level Order Traversal][102] | 2ms | 64%
 104 | [Maximun Depth of a Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | 0ms | -
 107 | [Binary Tree Level Order Traversal II][107] | 3ms | 77%
@@ -224,7 +224,6 @@ Too lazy to add :see_no_evil:
 [88]: https://leetcode.com/problems/merge-sorted-array/
 [94]: https://leetcode.com/problems/binary-tree-inorder-traversal/
 [98]: https://leetcode.com/problems/validate-binary-search-tree/
-[101]: https://leetcode.com/problems/symmetric-tree/
 [102]: https://leetcode.com/problems/binary-tree-level-order-traversal/
 [107]: https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
 [110]: https://leetcode.com/problems/balanced-binary-tree/

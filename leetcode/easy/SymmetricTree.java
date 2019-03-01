@@ -7,20 +7,23 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
-public class Solution {
+class Solution {
     public boolean isSymmetric(TreeNode root) {
-        return root == null ? true : check(root.left, root.right);
-    }
-
-    private boolean check(TreeNode leftNode, TreeNode rightNode) {
-        if (leftNode == null && rightNode == null) {
+        if (root == null) {
             return true;
         }
-        if (leftNode == null || rightNode == null) {
+        return isSymmetric(root.left, root.right);
+    }
+
+    private boolean isSymmetric(TreeNode a, TreeNode b) {
+        if (a == null && b == null) {
+            return true;
+        }
+        if (a == null || b == null) {
             return false;
         }
-        return leftNode.val == rightNode.val
-                && check(leftNode.left, rightNode.right)
-                && check(leftNode.right, rightNode.left);
+        return a.val == b.val
+            && isSymmetric(a.left, b.right)
+            && isSymmetric(a.right, b.left);
     }
 }
