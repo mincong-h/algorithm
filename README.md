@@ -155,6 +155,7 @@ id  | pb | runtime | rank
 412 | [Fizz Buzz][412] | 10ms | 98%
 414 | [Third Maximum Number][414] | 6ms | 67%
 415 | [Add Strings][415] | 35ms | ?
+429 | [N-ary Tree Level Order Traveral](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | 4ms | -
 438 | [Find All Anagrams in a String][438] | 583ms | ?
 476 | [Number Complement](https://leetcode.com/problems/number-complement/) | 5ms | -
 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | 1ms| -
