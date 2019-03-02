@@ -19,7 +19,7 @@ id  | pb | runtime | rank
 15 | [3 sum][15] | 38ms | 90%
 17 | [Letter combinations of a phone number][17] | 5ms | 97%
 19 | [Remove Nth Node From End of List][19] | 16ms | 83%
-20 | [Valid parentheses][20] | 1ms | ?
+20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 4ms | -
 21 | [Merge two sorted lists][21] | 16ms | ?
 22 | [Generate parentheses][22] | 5ms | 83%
 23 | [Merge k sorted lists][23] | 23ms | 82%
@@ -202,7 +202,6 @@ Too lazy to add :see_no_evil:
 [15]: https://leetcode.com/problems/3sum/
 [17]: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 [19]: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
-[20]: https://leetcode.com/problems/valid-parentheses/
 [21]: https://leetcode.com/problems/merge-two-sorted-lists/
 [22]: https://leetcode.com/problems/generate-parentheses/
 [23]: https://leetcode.com/problems/merge-k-sorted-lists/
