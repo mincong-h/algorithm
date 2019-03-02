@@ -116,7 +116,7 @@ id  | pb | runtime | rank
 278 | [First bad version][278] | 17ms | 35%
 279 | [Perfect squares][279] | 58ms | 20%
 280 | [Wiggle sort][280] | 1ms | 29%
-283 | [Move zeroes][283] | - | -
+283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | 1ms | -
 288 | [Unique word abbreviation][288] | 79ms | 77%
 293 | [Flip game][293] | 1ms | ?
 297 | [Serialize and Deserialize Binary Tree][297] | 23ms | 23%
@@ -294,7 +294,6 @@ Too lazy to add :see_no_evil:
 [278]: https://leetcode.com/problems/first-bad-version/
 [279]: https://leetcode.com/problems/perfect-squares/
 [280]: https://leetcode.com/problems/wiggle-sort/
-[283]: https://leetcode.com/problems/move-zeroes/
 [288]: https://leetcode.com/problems/unique-word-abbreviation/
 [293]: https://leetcode.com/problems/flip-game/
 [297]: https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
