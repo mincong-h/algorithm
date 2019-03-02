@@ -55,7 +55,7 @@ id  | pb | runtime | rank
 119 | [Pascal triangle II][119] | 2ms | 27%
 122 | [Best time to buy and sell stock II][122] | 2ms | 91%
 125 | [Valid palindrome][125] | 6ms | 9%
-136 | [Single Number][136] | 1ms | 33%
+136 | [Single Number](https://leetcode.com/problems/single-number/) | 0ms | -
 139 | [Word Break][139] | 12ms | 38%
 141 | [Linked List Cycle][141] | 1ms | 9%
 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | 0ms | -
@@ -235,7 +235,6 @@ Too lazy to add :see_no_evil:
 [119]: https://leetcode.com/problems/pascals-triangle-ii/
 [122]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 [125]: https://leetcode.com/problems/valid-palindrome/
-[136]: https://leetcode.com/problems/single-number/
 [139]: https://leetcode.com/problems/word-break/
 [141]: https://leetcode.com/problems/linked-list-cycle/
 [146]: https://leetcode.com/problems/lru-cache/
