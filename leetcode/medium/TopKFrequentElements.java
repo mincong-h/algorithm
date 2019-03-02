@@ -1,18 +1,25 @@
-public class Solution {
+class Solution {
     public List<Integer> topKFrequent(int[] nums, int k) {
-        Map<Integer, Integer> freq = new HashMap<>();
+        Map<Integer, Integer> frequencies = new HashMap<>();
         for (int num : nums) {
-            freq.put(num, freq.getOrDefault(num, 0) + 1);
+            frequencies.put(num, frequencies.getOrDefault(num, 0) + 1);
         }
-        PriorityQueue<Map.Entry<Integer, Integer>> queue =
-                new PriorityQueue<>((a, b) -> b.getValue().compareTo(a.getValue()));
-        for (Map.Entry<Integer,Integer> e: freq.entrySet()) {
-            queue.add(e);
+        List[] volume = new List[nums.length + 1];
+        for (Map.Entry<Integer, Integer> f : frequencies.entrySet()) {
+            int v = f.getValue();
+            if (volume[v] == null) {
+                volume[v] = new ArrayList<>();
+            }
+            volume[v].add(f.getKey());
         }
-        List<Integer> topK = new LinkedList<>();
-        for (int i = 0; i < k; i++) {
-            topK.add(queue.poll().getKey());
+
+        // descending
+        List<Integer> results = new ArrayList<>(k);
+        for (int i = volume.length - 1; i >= 0 && results.size() < k; i--) {
+            if (volume[i] != null) {
+                results.addAll(volume[i]);
+            }
         }
-        return topK;
+        return results;
     }
 }
