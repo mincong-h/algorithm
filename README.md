@@ -54,7 +54,7 @@ Id  | Problem | Runtime (Java)
 118 | [Pascal triangle][118] | 1ms
 119 | [Pascal triangle II][119] | 2ms
 122 | [Best time to buy and sell stock II][122] | 2ms
-125 | [Valid palindrome][125] | 6ms
+125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 2ms
 136 | [Single Number](https://leetcode.com/problems/single-number/) | 0ms
 139 | [Word Break][139] | 12ms
 141 | [Linked List Cycle][141] | 1ms
@@ -236,7 +236,6 @@ Too lazy to add :see_no_evil:
 [118]: https://leetcode.com/problems/pascals-triangle/
 [119]: https://leetcode.com/problems/pascals-triangle-ii/
 [122]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
-[125]: https://leetcode.com/problems/valid-palindrome/
 [139]: https://leetcode.com/problems/word-break/
 [141]: https://leetcode.com/problems/linked-list-cycle/
 [146]: https://leetcode.com/problems/lru-cache/
