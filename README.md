@@ -53,6 +53,7 @@ Id  | Problem | Runtime (Java)
 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | 0ms
 118 | [Pascal triangle][118] | 1ms
 119 | [Pascal triangle II][119] | 2ms
+121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 1ms
 122 | [Best time to buy and sell stock II][122] | 2ms
 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 2ms
 136 | [Single Number](https://leetcode.com/problems/single-number/) | 0ms
