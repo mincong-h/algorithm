@@ -36,7 +36,7 @@ Id  | Problem | Runtime (Java)
 58 | [Length of last word][58] | 0ms
 66 | [Plus one][66] | 1ms
 67 | [Add binary][67] | 3ms
-70 | [Climbing Stairs][70] | 200ms
+70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 2ms
 78 | [Subsets][78] | 1ms
 79 | [Word search][79] | 17ms
 83 | [Remove Duplicates from Sorted List][83] | 284ms
@@ -222,7 +222,6 @@ Too lazy to add :see_no_evil:
 [58]: https://leetcode.com/problems/length-of-last-word/
 [66]: https://leetcode.com/problems/plus-one/
 [67]: https://leetcode.com/problems/add-binary/
-[70]: https://leetcode.com/problems/climbing-stairs/
 [78]: https://leetcode.com/problems/subsets/
 [79]: https://leetcode.com/problems/word-search/
 [83]: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
