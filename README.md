@@ -50,7 +50,7 @@ Id  | Problem | Runtime (Java)
 107 | [Binary Tree Level Order Traversal II][107] | 3ms
 110 | [Balanced binary tree][110] | 2ms
 111 | [Minimum depth of binary tree][111] | 1ms
-112 | [Path sum][112] | 1ms
+112 | [Path Sum](https://leetcode.com/problems/path-sum/) | 0ms
 118 | [Pascal triangle][118] | 1ms
 119 | [Pascal triangle II][119] | 2ms
 122 | [Best time to buy and sell stock II][122] | 2ms
@@ -232,7 +232,6 @@ Too lazy to add :see_no_evil:
 [107]: https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
 [110]: https://leetcode.com/problems/balanced-binary-tree/
 [111]: https://leetcode.com/problems/minimum-depth-of-binary-tree/
-[112]: https://leetcode.com/problems/path-sum/
 [118]: https://leetcode.com/problems/pascals-triangle/
 [119]: https://leetcode.com/problems/pascals-triangle-ii/
 [122]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
