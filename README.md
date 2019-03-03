@@ -174,6 +174,7 @@ Id  | Problem | Runtime
 657 | [Robot returns to Origin](https://leetcode.com/problems/robot-return-to-origin/) | 9ms
 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | 2ms
 709 | [To Lower Case][709] | 0ms
+804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | 4ms
 821 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | 4ms
 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | 1ms
 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/) | 12ms
