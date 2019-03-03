@@ -82,7 +82,7 @@ Id  | Problem | Runtime (Java)
 203 | [Remove linked list elements][203] | 2ms
 204 | [Count Primes][204] | 32ms
 205 | [Isomorphic strings][205] | 50ms
-206 | [Reverse Linked List][206] | 360ms
+206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 0ms
 215 | [Kth Largest Element in an Array][215] | 6ms
 217 | [Contains Duplicate][217] | 432ms
 219 | [Contains Duplicate II][219] | 11ms
