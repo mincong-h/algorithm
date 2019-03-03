@@ -31,7 +31,7 @@ Id  | Problem | Runtime (Java)
 48 | [Rotate image][48] | 3ms
 49 | [Group anagrams][49] | 34ms
 50 | [Pow x-n][50] | 26ms
-53 | [Maximum subarray][53] | 16ms
+53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 5ms
 56 | [Merge intervals][56] | 28ms
 58 | [Length of last word][58] | 0ms
 66 | [Plus one][66] | 1ms
@@ -217,7 +217,6 @@ Too lazy to add :see_no_evil:
 [48]: https://leetcode.com/problems/rotate-image/
 [49]: https://leetcode.com/problems/anagrams/
 [50]: https://leetcode.com/problems/powx-n/
-[53]: https://leetcode.com/problems/maximum-subarray/
 [56]: https://leetcode.com/problems/merge-intervals/
 [58]: https://leetcode.com/problems/length-of-last-word/
 [66]: https://leetcode.com/problems/plus-one/
