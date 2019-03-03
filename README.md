@@ -169,6 +169,7 @@ Id  | Problem | Runtime (Java)
 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | 8ms
 590 | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | 4ms
 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | 1672ms
+606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | 12ms
 617 | [Merge Two Binary Tree][617] | 6ms
 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | 6ms
 657 | [Robot returns to Origin](https://leetcode.com/problems/robot-return-to-origin/) | 9ms
