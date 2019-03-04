@@ -97,7 +97,7 @@ Id  | Problem | Runtime (Java)
 237 | [Delete node from a linked list][237] | 288ms
 238 | [Product of array except self][238] | 2ms
 240 | [Search a 2D matrix II][242] | 13ms
-242 | [Valid Anagram][242] | 340ms
+242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 4ms
 243 | [Shortest word distance][243] | 2ms
 244 | [Shortest word distence II][244] | 27ms
 245 | [Shortest word distance III][245] | 6ms
@@ -273,7 +273,6 @@ Too lazy to add :see_no_evil:
 [237]: https://leetcode.com/problems/delete-node-in-a-linked-list/
 [238]: https://leetcode.com/problems/product-of-array-except-self/
 [240]: https://leetcode.com/problems/search-a-2d-matrix-ii/
-[242]: https://leetcode.com/problems/valid-anagram/
 [243]: https://leetcode.com/problems/shortest-word-distance/
 [244]: https://leetcode.com/problems/shortest-word-distance-ii/
 [245]: https://leetcode.com/problems/shortest-word-distance-iii/
