@@ -186,6 +186,7 @@ Id  | Problem | Runtime (Java)
 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | 3ms
 925 | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) | 3ms
 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | 24ms
+961 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | 4ms
 965 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | 3ms
 977 | [Squares of a sorted array](https://leetcode.com/problems/squares-of-a-sorted-array/) | 20ms
 
