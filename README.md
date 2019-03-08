@@ -58,7 +58,7 @@ Id  | Problem | Runtime (Java)
 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 2ms
 136 | [Single Number](https://leetcode.com/problems/single-number/) | 0ms
 139 | [Word Break][139] | 12ms
-141 | [Linked List Cycle][141] | 1ms
+141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 0ms
 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | 0ms
 146 | [LRU Cache][146] | 16ms
 151 | [Reverse words in a string][151] | 7ms
@@ -194,6 +194,14 @@ Id  | Problem | Runtime (Java)
 
 Too lazy to add :see_no_evil:
 
+## Techniques
+
+### Linked List
+
+**2 pointers.** One slow pointer (1x speed) and one fast pointer (2x speed). It
+allows to resolve circular issue, because the faster one will be 1 round faster
+after some moves.
+
 [leetcode]: https://leetcode.com
 [hackerrank]: http://hackerrank.com
 
@@ -235,7 +243,6 @@ Too lazy to add :see_no_evil:
 [119]: https://leetcode.com/problems/pascals-triangle-ii/
 [122]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 [139]: https://leetcode.com/problems/word-break/
-[141]: https://leetcode.com/problems/linked-list-cycle/
 [146]: https://leetcode.com/problems/lru-cache/
 [151]: https://leetcode.com/problems/reverse-words-in-a-string/
 [155]: https://leetcode.com/problems/min-stack/
