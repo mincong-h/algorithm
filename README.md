@@ -15,7 +15,7 @@ Id  | Problem | Runtime (Java)
 9 | [Palindrome number][9] | 14ms
 12 | [Integer to roman][12] | 7ms
 13 | [Roman to Integer][13] | 5ms
-14 | [Longest common prefix][14] | 4ms
+14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 4ms
 15 | [3 sum][15] | 38ms
 17 | [Letter combinations of a phone number][17] | 5ms
 19 | [Remove Nth Node From End of List][19] | 16ms
@@ -214,7 +214,6 @@ after some moves.
 [9]: https://leetcode.com/problems/palindrome-number/
 [12]: https://leetcode.com/problems/integer-to-roman/
 [13]: https://leetcode.com/problems/roman-to-integer/
-[14]: https://leetcode.com/problems/longest-common-prefix/
 [15]: https://leetcode.com/problems/3sum/
 [17]: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 [19]: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
