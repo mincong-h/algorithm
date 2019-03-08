@@ -40,7 +40,7 @@ Id  | Problem | Runtime (Java)
 78 | [Subsets][78] | 1ms
 79 | [Word search][79] | 17ms
 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | 0ms
-88 | [Merge Sorted Array][88] | 178ms
+88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 2ms
 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | 0ms
 98 | [Validate binary search tree][98] | 1ms
 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | 1ms
@@ -233,7 +233,6 @@ after some moves.
 [67]: https://leetcode.com/problems/add-binary/
 [78]: https://leetcode.com/problems/subsets/
 [79]: https://leetcode.com/problems/word-search/
-[88]: https://leetcode.com/problems/merge-sorted-array/
 [94]: https://leetcode.com/problems/binary-tree-inorder-traversal/
 [98]: https://leetcode.com/problems/validate-binary-search-tree/
 [102]: https://leetcode.com/problems/binary-tree-level-order-traversal/
