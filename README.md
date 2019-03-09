@@ -28,6 +28,7 @@ Id  | Problem | Runtime (Java)
 28 | [Implement strStr()][28] | 16ms
 36 | [Valid sudoku][36] | 7ms
 38 | [Count and say][38] | 4ms
+46 | [Permutations](https://leetcode.com/problems/permutations/) | 3ms
 48 | [Rotate image][48] | 3ms
 49 | [Group anagrams][49] | 34ms
 50 | [Pow x-n][50] | 26ms
