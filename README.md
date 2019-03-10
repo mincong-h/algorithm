@@ -35,7 +35,7 @@ Id  | Problem | Runtime (Java)
 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 5ms
 56 | [Merge intervals][56] | 28ms
 58 | [Length of last word][58] | 0ms
-66 | [Plus one][66] | 1ms
+66 | [Plus One](https://leetcode.com/problems/plus-one/) | 0ms
 67 | [Add binary][67] | 3ms
 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 2ms
 78 | [Subsets][78] | 1ms
