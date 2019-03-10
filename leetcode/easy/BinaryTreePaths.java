@@ -7,25 +7,23 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
-public class Solution {
+class Solution {
     public List<String> binaryTreePaths(TreeNode root) {
         if (root == null) {
-            return new ArrayList<>();
+            return Collections.emptyList();
         }
         if (root.left == null && root.right == null) {
-            return Arrays.asList(String.valueOf(root.val));
+            return Collections.singletonList("" + root.val);
         }
-
         List<String> leftPaths = binaryTreePaths(root.left);
         List<String> rightPaths = binaryTreePaths(root.right);
-        List<String> rootPaths = new ArrayList<>(leftPaths.size() + rightPaths.size());
-
-        for (String path : leftPaths) {
-            rootPaths.add(root.val + "->" + path);
+        List<String> paths = new ArrayList<>(leftPaths.size() + rightPaths.size());
+        for (String p : leftPaths) {
+            paths.add(root.val + "->" + p);
         }
-        for (String path : rightPaths) {
-            rootPaths.add(root.val + "->" + path);
+        for (String p : rightPaths) {
+            paths.add(root.val + "->" + p);
         }
-        return rootPaths;
+        return paths;
     }
 }

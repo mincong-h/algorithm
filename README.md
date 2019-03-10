@@ -106,7 +106,7 @@ Id  | Problem | Runtime (Java)
 252 | [Meeting rooms][252] | 13ms
 253 | [Meeting rooms][253] | 19ms
 256 | [Paint house][256] | 1ms
-257 | [Binary tree paths][257] | 247ms
+257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | 7ms
 258 | [Add Digits][258] | 256ms
 260 | [Single number III][260] | 10ms
 263 | [Ugly Number][263] | 246ms
@@ -294,7 +294,6 @@ TreeNode:
 [252]: https://leetcode.com/problems/meeting-rooms/
 [253]: https://leetcode.com/problems/meeting-rooms-ii/
 [256]: https://leetcode.com/problems/paint-house/
-[257]: https://leetcode.com/problems/binary-tree-paths/
 [258]: https://leetcode.com/problems/add-digits/
 [260]: https://leetcode.com/problems/single-number-iii/
 [263]: https://leetcode.com/problems/ugly-number/
