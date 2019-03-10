@@ -48,7 +48,7 @@ Id  | Problem | Runtime (Java)
 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | 5ms
 102 | [Binary Tree Level Order Traversal][102] | 2ms
 104 | [Maximun Depth of a Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | 0ms
-107 | [Binary Tree Level Order Traversal II][107] | 3ms
+107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | 1ms
 110 | [Balanced binary tree][110] | 2ms
 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | 0ms
 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | 0ms
@@ -210,6 +210,12 @@ Too lazy to add :see_no_evil:
 allows to resolve circular issue, because the faster one will be 1 round faster
 after some moves.
 
+## Check
+
+TreeNode:
+
+- Can `root` be `null`?
+
 [leetcode]: https://leetcode.com
 [hackerrank]: http://hackerrank.com
 
@@ -243,7 +249,6 @@ after some moves.
 [94]: https://leetcode.com/problems/binary-tree-inorder-traversal/
 [98]: https://leetcode.com/problems/validate-binary-search-tree/
 [102]: https://leetcode.com/problems/binary-tree-level-order-traversal/
-[107]: https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
 [110]: https://leetcode.com/problems/balanced-binary-tree/
 [118]: https://leetcode.com/problems/pascals-triangle/
 [119]: https://leetcode.com/problems/pascals-triangle-ii/

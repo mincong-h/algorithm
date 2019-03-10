@@ -1,24 +1,36 @@
-public class Solution {
-
-    /**
-     * BFS: Breadth-First-Search
-     */
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode(int x) { val = x; }
+ * }
+ */
+class Solution {
     public List<List<Integer>> levelOrderBottom(TreeNode root) {
-
-        Queue<TreeNode> open = new LinkedList<>();
-        List<List<Integer>> results = new LinkedList<>();
-        if (root == null) return results;
-
-        open.offer(root);
-        while (!open.isEmpty()) {
-            int level = open.size();
-            List<Integer> close = new LinkedList<>();
-            for (int i = 0; i < level; i++) {
-                if (open.peek().left != null) open.offer(open.peek().left);
-                if (open.peek().right != null) open.offer(open.peek().right);
-                close.add(open.poll().val);
+        if (root == null) {
+            return Collections.emptyList();
+        }
+        LinkedList<List<Integer>> results = new LinkedList<>();
+        // Breath-First-Search
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.add(root);
+        while (!queue.isEmpty()) {
+            int remaining = queue.size();
+            List<Integer> result = new ArrayList<>(remaining);
+            while (remaining > 0) {
+                TreeNode node = queue.poll();
+                result.add(node.val);
+                if (node.left != null) {
+                    queue.add(node.left);
+                }
+                if (node.right != null) {
+                    queue.add(node.right);
+                }
+                remaining--;
             }
-            results.add(0, close);
+            results.addFirst(result);
         }
         return results;
     }
