@@ -86,7 +86,7 @@ Id  | Problem | Runtime (Java)
 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 0ms
 215 | [Kth Largest Element in an Array][215] | 6ms
 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 9ms
-219 | [Contains Duplicate II][219] | 11ms
+219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | 8ms
 225 | [Implement stack using queues][225] | 107ms
 226 | [Invert Binary Tree][226] | 0ms
 228 | [Summary ranges][228] | 0ms
@@ -272,7 +272,6 @@ after some moves.
 [205]: https://leetcode.com/problems/isomorphic-strings/
 [206]: https://leetcode.com/problems/reverse-linked-list/
 [215]: https://leetcode.com/problems/kth-largest-element-in-an-array/
-[219]: https://leetcode.com/problems/contains-duplicate-ii/
 [225]: https://leetcode.com/problems/implement-stack-using-queues/
 [226]: https://leetcode.com/problems/invert-binary-tree/
 [228]: https://leetcode.com/problems/summary-ranges/
