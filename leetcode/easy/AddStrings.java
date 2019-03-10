@@ -1,23 +1,17 @@
-/**
- * Written on whiteboard. 30 mins, 1 submission.
- * {@link https://leetcode.com/problems/add-strings/}
- */
-public class Solution {
-  public String addStrings(String num1, String num2) {
-
-    int L1 = num1.length();
-    int L2 = num2.length();
-    StringBuilder sb = new StringBuilder();
-    int sum = 0;
-
-    for (int i = 0; i < Math.max(L1, L2); i++) {
-      sum += i < L1 ? (int) num1.charAt(L1 - 1 - i) - '0' : 0;
-      sum += i < L2 ? (int) num2.charAt(L2 - 1 - i) - '0' : 0;
-      sb.append(sum % 10);
-      sum /= 10;
+class Solution {
+    public String addStrings(String num1, String num2) {
+        int l1 = num1.length();
+        int l2 = num2.length();
+        int maxLen = l1 > l2 ? l1 : l2;
+        char[] arr = new char[maxLen];
+        int carry = 0;
+        for (int i = 0; i < maxLen; i++) {
+            int n1 = i < num1.length() ? (int)(num1.charAt(l1 - 1 - i) - '0') : 0;
+            int n2 = i < num2.length() ? (int)(num2.charAt(l2 - 1 - i) - '0') : 0;
+            int sum = n1 + n2 + carry;
+            arr[maxLen - 1 - i] = (char)(sum % 10 + (int) '0');
+            carry = sum / 10;
+        }
+        return carry > 0 ? carry + new String(arr) : new String(arr);
     }
-    sb.append(sum > 0 ? sum : "");
-    return sb.reverse().toString();
-  }
 }
-

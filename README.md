@@ -157,7 +157,7 @@ Id  | Problem | Runtime (Java)
 409 | [Longest Palindrome][409] | 11ms
 412 | [Fizz Buzz][412] | 10ms
 414 | [Third Maximum Number][414] | 6ms
-415 | [Add Strings][415] | 35ms
+415 | [Add Strings](https://leetcode.com/problems/add-strings/) | 9ms
 429 | [N-ary Tree Level Order Traveral](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | 4ms
 438 | [Find All Anagrams in a String][438] | 583ms
 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | 6ms
@@ -334,7 +334,6 @@ after some moves.
 [409]: https://leetcode.com/problems/longest-palindrome/
 [412]: https://leetcode.com/problems/fizz-buzz/
 [414]: https://leetcode.com/problems/third-maximum-number/
-[415]: https://leetcode.com/problems/add-strings/
 [438]: https://leetcode.com/problems/find-all-anagrams-in-a-string/
 [617]: https://leetcode.com/problems/merge-two-binary-trees/
 [709]: https://leetcode.com/problems/to-lower-case/
