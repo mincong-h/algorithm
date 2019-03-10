@@ -70,7 +70,7 @@ Id  | Problem | Runtime (Java)
 165 | [Compare Version Numbers][165] | 4ms
 167 | [Two Sum II - Input array is sorted][167] | 3ms
 168 | [Excel sheet column title][168] | 0ms
-169 | [Majority Element][169] | 564ms
+169 | [Majority Element](https://leetcode.com/problems/majority-element/) | 3ms
 171 | [Excel Sheet Column Number][171] | 344ms
 172 | [Factorial Trailing Zeroes][172] | 2ms
 179 | [Largest number][179] | 115ms
@@ -198,6 +198,12 @@ Too lazy to add :see_no_evil:
 
 ## Techniques
 
+### Array
+
+**Boyer–Moore majority vote algorithm.** Finding a majority element that occurs
+≥ N/2 times. Done in O(N) runtime and O(1) space. See
+<https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_majority_vote_algorithm>.
+
 ### Linked List
 
 **2 pointers.** One slow pointer (1x speed) and one fast pointer (2x speed). It
@@ -252,7 +258,6 @@ after some moves.
 [165]: https://leetcode.com/problems/compare-version-numbers/
 [167]: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 [168]: https://leetcode.com/problems/excel-sheet-column-title/
-[169]: https://leetcode.com/problems/majority-element/
 [171]: https://leetcode.com/problems/excel-sheet-column-number/
 [172]: https://leetcode.com/problems/factorial-trailing-zeroes/
 [179]: https://leetcode.com/problems/largest-number/
