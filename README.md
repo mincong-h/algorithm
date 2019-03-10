@@ -63,7 +63,7 @@ Id  | Problem | Runtime (Java)
 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | 0ms
 146 | [LRU Cache][146] | 16ms
 151 | [Reverse words in a string][151] | 7ms
-155 | [Min stack][155] | 151ms
+155 | [Min Stack](https://leetcode.com/problems/min-stack/) | 50ms
 160 | [Intersection of two linked lists][160] | 11ms
 162 | [Find Peak Element][162] | 1ms
 163 | [Missing ranges][163] | 13ms
@@ -251,7 +251,6 @@ after some moves.
 [139]: https://leetcode.com/problems/word-break/
 [146]: https://leetcode.com/problems/lru-cache/
 [151]: https://leetcode.com/problems/reverse-words-in-a-string/
-[155]: https://leetcode.com/problems/min-stack/
 [160]: https://leetcode.com/problems/intersection-of-two-linked-lists/
 [162]: https://leetcode.com/problems/find-peak-element/
 [163]: https://leetcode.com/problems/missing-ranges/

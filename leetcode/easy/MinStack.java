@@ -1,47 +1,51 @@
-public class MinStack {
+class MinStack {
 
-    private Node head;
+    /**
+     * Stack for storing the minimum element at each level.
+     *
+     * <pre>
+     * Level | Value | Min
+     * ----- | ----- | ---
+     *     3 |    -3 |  -3
+     *     2 |     0 |  -2
+     *     1 |    -2 |  -2
+     * </pre>
+     */
+    private final Stack<Integer> minStack;
+    private final Stack<Integer> stack;
+    private int min;
 
     /** initialize your data structure here. */
     public MinStack() {
-        head = null;
+        this.minStack = new Stack<>();
+        this.stack = new Stack<>();
+        this.min = Integer.MAX_VALUE;
     }
 
     public void push(int x) {
-        if (head == null) {
-            head = new Node(x, x);
-        } else {
-            head = new Node(x, Math.min(x, head.min), head);
+        if (min > x) {
+            min = x;
         }
+        stack.push(x);
+        minStack.push(min);
     }
 
     public void pop() {
-        head = head.next;
+        stack.pop();
+        minStack.pop();
+        if (minStack.empty()) {
+            min = Integer.MAX_VALUE;
+        } else {
+            min = minStack.peek();
+        }
     }
-    
+
     public int top() {
-        return head.val;
+        return stack.peek();
     }
-    
+
     public int getMin() {
-        return head.min;
-    }
-
-    private class Node {
-
-        int val;
-        int min;
-        Node next;
-
-        Node(int val, int min) {
-            this(val, min, null);
-        }
-
-        Node(int val, int min, Node next) {
-            this.val = val;
-            this.min = min;
-            this.next = next;
-        }
+        return min;
     }
 }
 
