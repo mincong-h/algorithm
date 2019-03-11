@@ -163,6 +163,7 @@ Id  | Problem | Runtime (Java)
 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | 6ms
 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | 53ms
 476 | [Number Complement](https://leetcode.com/problems/number-complement/) | 5ms
+485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | 4ms
 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | 1ms
 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | 12ms
 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | 14ms
