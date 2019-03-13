@@ -64,7 +64,7 @@ Id  | Problem | Runtime (Java)
 146 | [LRU Cache][146] | 16ms
 151 | [Reverse words in a string][151] | 7ms
 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | 50ms
-160 | [Intersection of two linked lists][160] | 11ms
+160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | 1ms
 162 | [Find Peak Element][162] | 1ms
 163 | [Missing ranges][163] | 13ms
 165 | [Compare Version Numbers][165] | 4ms
@@ -257,7 +257,6 @@ TreeNode:
 [139]: https://leetcode.com/problems/word-break/
 [146]: https://leetcode.com/problems/lru-cache/
 [151]: https://leetcode.com/problems/reverse-words-in-a-string/
-[160]: https://leetcode.com/problems/intersection-of-two-linked-lists/
 [162]: https://leetcode.com/problems/find-peak-element/
 [163]: https://leetcode.com/problems/missing-ranges/
 [165]: https://leetcode.com/problems/compare-version-numbers/
