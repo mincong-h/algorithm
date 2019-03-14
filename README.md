@@ -71,7 +71,7 @@ Id  | Problem | Runtime (Java)
 167 | [Two Sum II - Input array is sorted][167] | 3ms
 168 | [Excel sheet column title][168] | 0ms
 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | 3ms
-171 | [Excel Sheet Column Number][171] | 344ms
+171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | 1ms
 172 | [Factorial Trailing Zeroes][172] | 2ms
 179 | [Largest number][179] | 115ms
 186 | [Reverse Words in a String II][186] | 3ms
@@ -261,7 +261,6 @@ TreeNode:
 [165]: https://leetcode.com/problems/compare-version-numbers/
 [167]: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 [168]: https://leetcode.com/problems/excel-sheet-column-title/
-[171]: https://leetcode.com/problems/excel-sheet-column-number/
 [172]: https://leetcode.com/problems/factorial-trailing-zeroes/
 [179]: https://leetcode.com/problems/largest-number/
 [186]: https://leetcode.com/problems/reverse-words-in-a-string-ii/
