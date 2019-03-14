@@ -9,21 +9,31 @@
  */
 class Solution {
     public List<Interval> merge(List<Interval> intervals) {
-        // sort intervals
-        intervals.sort((i1, i2) -> i1.start - i2.start);
-
-        // add to results, merge if needed
-        LinkedList<Interval> results = new LinkedList<>();
-        for (Interval i : intervals) {
-            if (!results.isEmpty()) {
-                Interval last = results.getLast();
-                // overlap
-                if (last.start <= i.start && i.start <= last.end) {
-                    last.end = Math.max(i.end, last.end);
-                    continue;
+        if (intervals.isEmpty()) {
+            return Collections.emptyList();
+        }
+        int n = intervals.size();
+        int[] starts = new int[n];
+        int[] ends = new int[n];
+        int i = 0;
+        for (Interval interval : intervals) {
+            starts[i] = interval.start;
+            ends[i] = interval.end;
+            i++;
+        }
+        Arrays.sort(starts);
+        Arrays.sort(ends);
+        i = 0;
+        int start = starts[0];
+        List<Interval> results = new LinkedList<>();
+        while (i < n) {
+            if (i + 1 == n || ends[i] < starts[i + 1]) {
+                results.add(new Interval(start, ends[i]));
+                if (i + 1 < n) {
+                    start = starts[i + 1];
                 }
             }
-            results.add(i);
+            i++;
         }
         return results;
     }
