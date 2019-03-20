@@ -187,6 +187,7 @@ Id  | Problem | Runtime (Java)
 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/) | 12ms
 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | 12ms
 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | 3ms
+922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | 4ms
 925 | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) | 3ms
 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | 24ms
 953 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | 3ms
