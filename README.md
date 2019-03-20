@@ -132,7 +132,7 @@ Id  | Problem | Runtime (Java)
 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | 2ms
 346 | [Moving average from data stream][346] | 177ms
 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | 10ms
-349 | [Intersection of two arrays][349] | 6ms
+349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | 2ms
 350 | [Intersection of two arrays II][350] | 8ms
 351 | [Android unlock pattern][351] | 13ms
 357 | [Count numbers with unique digits][357] | 0ms
@@ -313,7 +313,6 @@ TreeNode:
 [342]: https://leetcode.com/problems/power-of-four/
 [343]: https://leetcode.com/problems/integer-break/
 [346]: https://leetcode.com/problems/moving-average-from-data-stream/
-[349]: https://leetcode.com/problems/intersection-of-two-arrays/
 [350]: https://leetcode.com/problems/intersection-of-two-arrays-ii/
 [351]: https://leetcode.com/problems/android-unlock-patterns/
 [357]: https://leetcode.com/problems/count-numbers-with-unique-digits/
