@@ -43,7 +43,7 @@ Id  | Problem | Runtime (Java)
 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | 0ms
 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 2ms
 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | 0ms
-98 | [Validate binary search tree][98] | 1ms
+98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | 0ms
 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | 1ms
 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | 5ms
 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | 1ms
@@ -221,6 +221,11 @@ TreeNode:
 
 - Can `root` be `null`?
 
+Integer:
+
+- Boundaries: `Integer.MIN_VALUE` and `Integer.MAX_VALUE` good boundaries?
+  Comparison will fail when the integer itself is one of these values.
+
 [leetcode]: https://leetcode.com
 [hackerrank]: http://hackerrank.com
 
@@ -251,7 +256,6 @@ TreeNode:
 [78]: https://leetcode.com/problems/subsets/
 [79]: https://leetcode.com/problems/word-search/
 [94]: https://leetcode.com/problems/binary-tree-inorder-traversal/
-[98]: https://leetcode.com/problems/validate-binary-search-tree/
 [110]: https://leetcode.com/problems/balanced-binary-tree/
 [118]: https://leetcode.com/problems/pascals-triangle/
 [119]: https://leetcode.com/problems/pascals-triangle-ii/

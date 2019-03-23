@@ -6,17 +6,33 @@
  *     TreeNode right;
  *     TreeNode(int x) { val = x; }
  * }
- * Company tags: Amazon Microsoft Bloomberg Facebook.
  */
-public class Solution {
-
+class Solution {
     public boolean isValidBST(TreeNode root) {
-        return isValidBST(root, Long.MIN_VALUE, Long.MAX_VALUE);
+        return root == null
+            || (isValid(root.left, null, root.val)
+                && isValid(root.right, root.val, null));
     }
 
-    public boolean isValidBST(TreeNode root, long minVal, long maxVal) {
-        if (root == null) return true;
-        if (root.val >= maxVal || root.val <= minVal) return false;
-        return isValidBST(root.left, minVal, root.val) && isValidBST(root.right, root.val, maxVal);
+    /**
+     * Is binary search tree valid?
+     *
+     * @param root the tree node
+     * @param min left boundary, null if no boundary
+     * @param max right boundary, null if no boundary
+     * @return is BST valid
+     */
+    private boolean isValid(TreeNode root, Integer min, Integer max) {
+        if (root == null) {
+            return true;
+        }
+        if (min != null && root.val <= min) {
+            return false;
+        }
+        if (max != null && root.val >= max) {
+            return false;
+        }
+        return isValid(root.left, min, root.val)
+            && isValid(root.right, root.val, max);
     }
 }
