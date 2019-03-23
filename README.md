@@ -46,7 +46,7 @@ Id  | Problem | Runtime (Java)
 98 | [Validate binary search tree][98] | 1ms
 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | 1ms
 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | 5ms
-102 | [Binary Tree Level Order Traversal][102] | 2ms
+102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | 1ms
 104 | [Maximun Depth of a Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | 0ms
 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | 1ms
 110 | [Balanced binary tree][110] | 2ms
@@ -251,7 +251,6 @@ TreeNode:
 [79]: https://leetcode.com/problems/word-search/
 [94]: https://leetcode.com/problems/binary-tree-inorder-traversal/
 [98]: https://leetcode.com/problems/validate-binary-search-tree/
-[102]: https://leetcode.com/problems/binary-tree-level-order-traversal/
 [110]: https://leetcode.com/problems/balanced-binary-tree/
 [118]: https://leetcode.com/problems/pascals-triangle/
 [119]: https://leetcode.com/problems/pascals-triangle-ii/
