@@ -176,6 +176,7 @@ Id  | Problem | Runtime (Java)
 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | 1672ms
 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | 12ms
 617 | [Merge Two Binary Tree][617] | 6ms
+623 | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | 4ms
 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | 6ms
 657 | [Robot returns to Origin](https://leetcode.com/problems/robot-return-to-origin/) | 9ms
 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | 2ms
