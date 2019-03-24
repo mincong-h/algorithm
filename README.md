@@ -9,7 +9,7 @@ Id  | Problem | Runtime (Java)
 ---: | --- | ---:
 1 | [Two sum][1] | 5ms
 2 | [Add two numbers][2] | 63ms
-3 | [Longest substring without repeating characters][3] | 58ms
+3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 14ms
 5 | [Longest palindromic substring][5] | 44ms
 7 | [Reverse integer][7] | 2ms
 9 | [Palindrome number][9] | 14ms
@@ -232,6 +232,7 @@ number of characters to do to have a match.
 
 Related problems:
 
+- [3: Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [438: Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 - [567: Permutation in String](https://leetcode.com/problems/permutation-in-string/)
 
@@ -251,7 +252,6 @@ Integer:
 
 [1]: https://leetcode.com/problems/two-sum/
 [2]: https://leetcode.com/problems/add-two-numbers/
-[3]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
 [5]: https://leetcode.com/problems/longest-palindromic-substring/
 [7]: https://leetcode.com/problems/reverse-integer/
 [9]: https://leetcode.com/problems/palindrome-number/
