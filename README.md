@@ -173,6 +173,7 @@ Id  | Problem | Runtime (Java)
 559 | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | 2ms
 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | 5ms
 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/) | 20ms
+576 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | 7ms
 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | 8ms
 590 | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | 4ms
 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | 1672ms
@@ -216,6 +217,23 @@ Too lazy to add :see_no_evil:
 **2 pointers.** One slow pointer (1x speed) and one fast pointer (2x speed). It
 allows to resolve circular issue, because the faster one will be 1 round faster
 after some moves.
+
+### String
+
+**Permutation in String.** Maintain a sliding window `[L, R]` in the string, use
+two variables: `int[] stock` and `int todo` to record respectively what are the
+remaining characters available for permutation as ASCII table, and the remaining
+number of characters to do to have a match.
+
+- When R (right pointer) moves forward, it consumes more chars from the stock
+  table.
+- When L (left pointer) moves forward, it recover the consumed chars from the
+  stock table.
+
+Related problems:
+
+- [438: Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+- [567: Permutation in String](https://leetcode.com/problems/permutation-in-string/)
 
 ## Check
 
