@@ -30,7 +30,7 @@ Id  | Problem | Runtime (Java)
 38 | [Count and say][38] | 4ms
 46 | [Permutations](https://leetcode.com/problems/permutations/) | 3ms
 48 | [Rotate image][48] | 3ms
-49 | [Group anagrams][49] | 34ms
+49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 12ms
 50 | [Pow x-n][50] | 26ms
 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 5ms
 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 7ms
@@ -212,6 +212,14 @@ Too lazy to add :see_no_evil:
 ≥ N/2 times. Done in O(N) runtime and O(1) space. See
 <https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_majority_vote_algorithm>.
 
+**Hash code of the array.** Returns a hash code based on the contents of the
+specified array (overloaded methods: `boolean[]`, `byte[]`, `char[]`,
+`double[]`, `float[]`, `int[]`, `long[]`, `Object[]`, `short[]`):
+
+```java
+java.util.Arrays.hashCode(int[] a);
+```
+
 ### Linked List
 
 **2 pointers.** One slow pointer (1x speed) and one fast pointer (2x speed). It
@@ -268,7 +276,6 @@ Integer:
 [36]: https://leetcode.com/problems/valid-sudoku/
 [38]: https://leetcode.com/problems/count-and-say/
 [48]: https://leetcode.com/problems/rotate-image/
-[49]: https://leetcode.com/problems/anagrams/
 [50]: https://leetcode.com/problems/powx-n/
 [58]: https://leetcode.com/problems/length-of-last-word/
 [66]: https://leetcode.com/problems/plus-one/

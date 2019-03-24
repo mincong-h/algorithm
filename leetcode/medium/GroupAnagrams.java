@@ -1,21 +1,18 @@
 /**
  * Company tags: Amazon, Bloomberg, Uber, Facebook, Yelp.
  */
-public class Solution {
+class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
-        Map<String, List<String>> groups = new HashMap<>();
+        Map<Integer, List<String>> groups = new HashMap<>();
         for (String str : strs) {
-            char[] chars = str.toCharArray();
-            Arrays.sort(chars);
-            String key = new String(chars);
-            if (groups.containsKey(key)) {
-                List<String> group = groups.get(key);
-                group.add(str);
-            } else {
-                List<String> group = new LinkedList<>();
-                group.add(str);
-                groups.put(key, group);
+            int[] table = new int[26];
+            for (char c : str.toCharArray()) {
+                table[c - 'a']++;
             }
+            int key = Arrays.hashCode(table);
+            List<String> value = groups.getOrDefault(key, new LinkedList<>());
+            value.add(str);
+            groups.put(key, value);
         }
         return new LinkedList<>(groups.values());
     }
