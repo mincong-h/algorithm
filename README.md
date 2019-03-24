@@ -110,7 +110,7 @@ Id  | Problem | Runtime (Java)
 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | 7ms
 258 | [Add Digits][258] | 256ms
 260 | [Single number III][260] | 10ms
-263 | [Ugly Number][263] | 246ms
+263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | 1ms
 266 | [Palindrome permutation][266] | 1ms
 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | 0ms
 270 | [Closest Binary Search Tree Value][270] | 0ms
@@ -321,7 +321,6 @@ Integer:
 [256]: https://leetcode.com/problems/paint-house/
 [258]: https://leetcode.com/problems/add-digits/
 [260]: https://leetcode.com/problems/single-number-iii/
-[263]: https://leetcode.com/problems/ugly-number/
 [266]: https://leetcode.com/problems/palindrome-permutation/
 [270]: https://leetcode.com/problems/closest-binary-search-tree-value/
 [271]: https://leetcode.com/problems/encode-and-decode-strings/
