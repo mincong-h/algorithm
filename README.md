@@ -110,7 +110,7 @@ Id  | Problem | Runtime (Java)
 253 | [Meeting rooms][253] | 19ms
 256 | [Paint house][256] | 1ms
 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | 7ms
-258 | [Add Digits][258] | 256ms
+258 | [Add Digits](https://leetcode.com/problems/add-digits/) | 1ms
 260 | [Single number III][260] | 10ms
 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | 1ms
 266 | [Palindrome permutation][266] | 1ms
@@ -334,7 +334,6 @@ Integer:
 [252]: https://leetcode.com/problems/meeting-rooms/
 [253]: https://leetcode.com/problems/meeting-rooms-ii/
 [256]: https://leetcode.com/problems/paint-house/
-[258]: https://leetcode.com/problems/add-digits/
 [260]: https://leetcode.com/problems/single-number-iii/
 [266]: https://leetcode.com/problems/palindrome-permutation/
 [270]: https://leetcode.com/problems/closest-binary-search-tree-value/
