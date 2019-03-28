@@ -9,26 +9,29 @@
  */
 class Solution {
     public List<Double> averageOfLevels(TreeNode root) {
-        List<Double> averages = new ArrayList<>();
-        Queue<TreeNode> todo = new LinkedList<>();
-        todo.add(root);
-
-        while (!todo.isEmpty()) {
-            int size = todo.size();
+        if (root == null) {
+            return Collections.emptyList();
+        }
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.add(root);
+        List<Double> avgs = new LinkedList<>();
+        while (!queue.isEmpty()) {
+            int n = queue.size();
+            int i = 0;
             double sum = 0;
-            for (int i = 0; i < size; i++) {
-                TreeNode node = todo.poll();
+            while (i < n) {
+                TreeNode node = queue.poll();
                 sum += node.val;
-                // enqueue leaves
                 if (node.left != null) {
-                    todo.add(node.left);
+                    queue.add(node.left);
                 }
                 if (node.right != null) {
-                    todo.add(node.right);
+                    queue.add(node.right);
                 }
+                i++;
             }
-            averages.add(sum / size);
+            avgs.add(sum / n);
         }
-        return averages;
+        return avgs;
     }
 }

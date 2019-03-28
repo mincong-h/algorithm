@@ -184,6 +184,7 @@ Id  | Problem | Runtime (Java)
 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | 12ms
 617 | [Merge Two Binary Tree][617] | 6ms
 623 | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | 4ms
+637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | 2ms
 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | 6ms
 657 | [Robot returns to Origin](https://leetcode.com/problems/robot-return-to-origin/) | 9ms
 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | 2ms
