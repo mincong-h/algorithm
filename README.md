@@ -100,7 +100,7 @@ Id  | Problem | Runtime (Java)
 236 | [Lowest Common Ancestor of a Binary Tree][236] | 15ms
 237 | [Delete node from a linked list][237] | 288ms
 238 | [Product of array except self][238] | 2ms
-240 | [Search a 2D matrix II][242] | 13ms
+240 | [Search a 2D matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | 13ms
 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 4ms
 243 | [Shortest word distance][243] | 2ms
 244 | [Shortest word distence II][244] | 27ms
@@ -191,6 +191,7 @@ Id  | Problem | Runtime (Java)
 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | 7ms
 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | 2ms
 709 | [To Lower Case][709] | 0ms
+790 | [Rotate String](https://leetcode.com/problems/rotate-string/submissions/) | 0ms
 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | 4ms
 821 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | 4ms
 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | 1ms
