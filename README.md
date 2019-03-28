@@ -150,6 +150,7 @@ Id  | Problem | Runtime (Java)
 388 | [Longest absolute file path][388] | 6ms
 389 | [Find the difference][389] | 9ms
 392 | [Is subseauence][392] | 2ms
+398 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | 1ms
 400 | [Nth Digit][400] | 7ms
 401 | [Binary watch][401] | 1ms
 402 | [Remove K digits][402] | 29ms
