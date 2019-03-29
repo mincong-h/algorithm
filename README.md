@@ -70,7 +70,7 @@ Id  | Problem | Runtime (Java)
 162 | [Find Peak Element][162] | 1ms
 163 | [Missing ranges][163] | 13ms
 165 | [Compare Version Numbers][165] | 4ms
-167 | [Two Sum II - Input array is sorted][167] | 3ms
+167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | 0ms
 168 | [Excel sheet column title][168] | 0ms
 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | 3ms
 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | 1ms
@@ -301,7 +301,6 @@ Integer:
 [162]: https://leetcode.com/problems/find-peak-element/
 [163]: https://leetcode.com/problems/missing-ranges/
 [165]: https://leetcode.com/problems/compare-version-numbers/
-[167]: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 [168]: https://leetcode.com/problems/excel-sheet-column-title/
 [172]: https://leetcode.com/problems/factorial-trailing-zeroes/
 [179]: https://leetcode.com/problems/largest-number/
