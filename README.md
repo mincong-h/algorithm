@@ -7,7 +7,7 @@ This repo contains the list of accomplishments.
 
 Id  | Problem | Runtime (Java)
 ---: | --- | ---:
-1 | [Two sum][1] | 5ms
+1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 2ms
 2 | [Add two numbers][2] | 63ms
 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 14ms
 5 | [Longest palindromic substring][5] | 44ms
@@ -266,7 +266,6 @@ Integer:
 [leetcode]: https://leetcode.com
 [hackerrank]: http://hackerrank.com
 
-[1]: https://leetcode.com/problems/two-sum/
 [2]: https://leetcode.com/problems/add-two-numbers/
 [5]: https://leetcode.com/problems/longest-palindromic-substring/
 [7]: https://leetcode.com/problems/reverse-integer/
