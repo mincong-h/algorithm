@@ -29,7 +29,7 @@ fi
 cat << EOF >> "$filepath"
 # ${id} Title
 
-<${url}>
+<${url}>, Level
 
 ## Idea
 
@@ -38,9 +38,9 @@ Corner cases?
 
 ## Solution
 
-```java
+\`\`\`java
 // TODO
-```
+\`\`\`
 
 Runtime: ? ms (faster than ?%), Memory: ? MB (better than ?%)
 EOF
