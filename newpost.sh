@@ -38,6 +38,8 @@ cat << EOF >> "$filepath"
 > How to solve the problem? Which strategy? Time estimation?
 > Corner cases?
 
+## Test Cases
+
 ## Solution
 
 \`\`\`java

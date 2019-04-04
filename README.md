@@ -12,7 +12,7 @@ Id  | Problem | Runtime (Java)
 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 14ms
 5 | [Longest palindromic substring][5] | 44ms
 7 | [Reverse integer][7] | 2ms
-9 | [Palindrome number][9] | 14ms
+9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 7ms
 12 | [Integer to roman][12] | 7ms
 13 | [Roman to Integer][13] | 5ms
 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 4ms
@@ -264,13 +264,13 @@ Integer:
 
 - Boundaries: `Integer.MIN_VALUE` and `Integer.MAX_VALUE` good boundaries?
   Comparison will fail when the integer itself is one of these values.
+- Risk of overflow?
 
 [leetcode]: https://leetcode.com
 [hackerrank]: http://hackerrank.com
 
 [5]: https://leetcode.com/problems/longest-palindromic-substring/
 [7]: https://leetcode.com/problems/reverse-integer/
-[9]: https://leetcode.com/problems/palindrome-number/
 [12]: https://leetcode.com/problems/integer-to-roman/
 [13]: https://leetcode.com/problems/roman-to-integer/
 [15]: https://leetcode.com/problems/3sum/
