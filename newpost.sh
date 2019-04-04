@@ -31,10 +31,12 @@ cat << EOF >> "$filepath"
 
 <${url}>, Level
 
+## Description
+
 ## Idea
 
-How to solve the problem? Which strategy? Time estimation?
-Corner cases?
+> How to solve the problem? Which strategy? Time estimation?
+> Corner cases?
 
 ## Solution
 

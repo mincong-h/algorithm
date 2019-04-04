@@ -26,6 +26,7 @@ Id  | Problem | Runtime (Java)
 26 | [Remove duplicates from sorted array][26] | 2ms
 27 | [Remove element][27] | 1ms
 28 | [Implement strStr()][28] | 16ms
+35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | 0ms
 36 | [Valid sudoku][36] | 7ms
 38 | [Count and say][38] | 4ms
 46 | [Permutations](https://leetcode.com/problems/permutations/) | 3ms
