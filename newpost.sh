@@ -17,8 +17,9 @@ id="$1"
 url="$2"
 name=$(echo "$url" | sed -E 's/.*problems\/(.*)\//\1/')
 
+longid="0000${id}"
 projhome=$(cd "$(dirname "$0")" || exit; pwd)
-filename="${id}.${name}.md"
+filename="${longid: -4}.${name}.md"
 filepath="${projhome}/leetcode/${filename}"
 
 if [[ -f "$filepath" ]]; then
