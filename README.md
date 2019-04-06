@@ -25,7 +25,7 @@ Id  | Problem | Runtime (Java)
 23 | [Merge k sorted lists][23] | 23ms
 26 | [Remove duplicates from sorted array][26] | 2ms
 27 | [Remove element][27] | 1ms
-28 | [Implement strStr()][28] | 16ms
+28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | 2ms
 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | 0ms
 36 | [Valid sudoku][36] | 7ms
 38 | [Count and say][38] | 4ms
@@ -279,7 +279,6 @@ Integer:
 [23]: https://leetcode.com/problems/merge-k-sorted-lists/
 [26]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 [27]: https://leetcode.com/problems/remove-element/
-[28]: https://leetcode.com/problems/implement-strstr/
 [36]: https://leetcode.com/problems/valid-sudoku/
 [38]: https://leetcode.com/problems/count-and-say/
 [48]: https://leetcode.com/problems/rotate-image/
