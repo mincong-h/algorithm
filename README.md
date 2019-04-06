@@ -82,7 +82,7 @@ Id  | Problem | Runtime (Java)
 191 | [Number of 1 Bits][191] | 216ms
 195 | [Tenth line][195] | 15ms
 200 | [Number of islands][200] | 3ms
-202 | [Happy Number][202] | 244ms
+202 | [Happy Number](https://leetcode.com/problems/happy-number/) | 1ms
 203 | [Remove linked list elements][203] | 2ms
 204 | [Count Primes][204] | 32ms
 205 | [Isomorphic strings][205] | 50ms
@@ -307,7 +307,6 @@ Integer:
 [191]: https://leetcode.com/problems/number-of-1-bits/
 [195]: https://leetcode.com/problems/tenth-line/
 [200]: https://leetcode.com/problems/number-of-islands/
-[202]: https://leetcode.com/problems/happy-number/
 [203]: https://leetcode.com/problems/remove-linked-list-elements/
 [204]: https://leetcode.com/problems/count-primes/
 [205]: https://leetcode.com/problems/isomorphic-strings/
