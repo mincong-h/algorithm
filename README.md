@@ -40,6 +40,7 @@ Id  | Problem | Runtime (Java)
 66 | [Plus One](https://leetcode.com/problems/plus-one/) | 0ms
 67 | [Add binary][67] | 3ms
 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 2ms
+75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 0ms
 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 5ms
 78 | [Subsets][78] | 1ms
 79 | [Word search][79] | 17ms
