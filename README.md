@@ -76,7 +76,7 @@ Id  | Problem | Runtime (Java)
 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | 3ms
 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | 1ms
 172 | [Factorial Trailing Zeroes][172] | 2ms
-179 | [Largest number][179] | 115ms
+179 | [Largest Number](https://leetcode.com/problems/largest-number/) | 3ms
 186 | [Reverse Words in a String II][186] | 3ms
 189 | [Rotate array][189] | 1ms
 191 | [Number of 1 Bits][191] | 216ms
@@ -301,7 +301,6 @@ Integer:
 [165]: https://leetcode.com/problems/compare-version-numbers/
 [168]: https://leetcode.com/problems/excel-sheet-column-title/
 [172]: https://leetcode.com/problems/factorial-trailing-zeroes/
-[179]: https://leetcode.com/problems/largest-number/
 [186]: https://leetcode.com/problems/reverse-words-in-a-string-ii/
 [189]: https://leetcode.com/problems/rotate-array/
 [191]: https://leetcode.com/problems/number-of-1-bits/
