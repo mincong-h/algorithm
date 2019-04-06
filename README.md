@@ -23,7 +23,7 @@ Id  | Problem | Runtime (Java)
 21 | [Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/) | 5ms
 22 | [Generate parentheses][22] | 5ms
 23 | [Merge k sorted lists][23] | 23ms
-26 | [Remove duplicates from sorted array][26] | 2ms
+26 | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 1ms
 27 | [Remove element][27] | 1ms
 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | 2ms
 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | 0ms
@@ -278,7 +278,6 @@ Integer:
 [19]: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 [22]: https://leetcode.com/problems/generate-parentheses/
 [23]: https://leetcode.com/problems/merge-k-sorted-lists/
-[26]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 [27]: https://leetcode.com/problems/remove-element/
 [36]: https://leetcode.com/problems/valid-sudoku/
 [38]: https://leetcode.com/problems/count-and-say/
