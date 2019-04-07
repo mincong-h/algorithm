@@ -38,7 +38,7 @@ Id  | Problem | Runtime (Java)
 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | 0ms
 65 | [Valid Number](https://leetcode.com/problems/valid-number/) | 1ms
 66 | [Plus One](https://leetcode.com/problems/plus-one/) | 0ms
-67 | [Add binary][67] | 3ms
+67 | [Add Binary](https://leetcode.com/problems/add-binary/) | 1ms
 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 2ms
 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 0ms
 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 5ms
@@ -214,7 +214,7 @@ Id  | Problem | Runtime (Java)
 
 Too lazy to add :see_no_evil:
 
-## Techniques
+## Tricks
 
 ### Array
 
@@ -255,6 +255,19 @@ Related problems:
 - [438: Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 - [567: Permutation in String](https://leetcode.com/problems/permutation-in-string/)
 
+**String construction.** When resolving exercises, it's better to use
+[`java.lang.StringBuilder`](https://docs.oracle.com/javase/8/docs/api/java/lang/StringBuilder.html)
+rather than string concatenation using `+`. Even better, use char array `char[]`
+and fill it manually, which is efficient and allows navigation.
+
+Constructor | Description
+:--- | :---
+`StringBuilder()` | Constructor without additional arguments
+`StringBuilder(String)` | Constructor with an initial string
+`StringBuilder(int)` | Constructor with initial capacity
+`String(char[])` | Constructor with a char array
+`String(char[], int, int)` | Constructor with offset and length
+
 ## Check
 
 TreeNode:
@@ -285,7 +298,6 @@ Integer:
 [50]: https://leetcode.com/problems/powx-n/
 [58]: https://leetcode.com/problems/length-of-last-word/
 [66]: https://leetcode.com/problems/plus-one/
-[67]: https://leetcode.com/problems/add-binary/
 [78]: https://leetcode.com/problems/subsets/
 [79]: https://leetcode.com/problems/word-search/
 [94]: https://leetcode.com/problems/binary-tree-inorder-traversal/
