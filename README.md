@@ -35,7 +35,7 @@ Id  | Problem | Runtime (Java)
 50 | [Pow x-n][50] | 26ms
 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 5ms
 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 7ms
-58 | [Length of last word][58] | 0ms
+58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | 0ms
 65 | [Valid Number](https://leetcode.com/problems/valid-number/) | 1ms
 66 | [Plus One](https://leetcode.com/problems/plus-one/) | 0ms
 67 | [Add binary][67] | 3ms
