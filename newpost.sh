@@ -5,16 +5,17 @@
 #
 #    Usage:
 #
-#        ./newpost.sh 1 https://leetcode.com/problems/two-sum/
+#        ./newpost.sh 1 https://leetcode.com/problems/two-sum/ Two Sum
 #
-if [[ $# -lt 2 ]]
+if [[ $# -lt 3 ]]
 then
-    echo 'usage: newpost.sh 1 https://leetcode.com/problems/two-sum/'
+    echo 'usage: newpost.sh 1 https://leetcode.com/problems/two-sum/ Two Sum'
     exit 1
 fi
 
 id="$1"
 url="$2"
+label="${*:3}"
 name=$(echo "$url" | sed -E 's/.*problems\/(.*)\//\1/')
 
 longid="0000${id}"
@@ -22,13 +23,14 @@ projhome=$(cd "$(dirname "$0")" || exit; pwd)
 filename="${longid: -4}.${name}.md"
 filepath="${projhome}/leetcode/${filename}"
 
-if [[ -f "$filepath" ]]; then
+if [[ -f "$filepath" ]]
+then
     echo "$filepath already exists."
     exit 1
 fi
 
 cat << EOF >> "$filepath"
-# ${id} Title
+# ${id} ${label}
 
 <${url}>, Level
 
