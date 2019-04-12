@@ -168,6 +168,7 @@ Id  | Problem | Runtime (Java)
 429 | [N-ary Tree Level Order Traveral](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | 4ms
 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | 6ms
 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | 9ms
+443 | [String Compression](https://leetcode.com/problems/string-compression/) | 1ms
 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | 6ms
 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | 6ms
 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | 53ms
