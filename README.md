@@ -201,6 +201,7 @@ Id  | Problem | Runtime (Java)
 890 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/) | 2ms
 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/) | 12ms
 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | 12ms
+916 | [Word Subsets](https://leetcode.com/problems/word-subsets/submissions/) | 23ms
 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | 3ms
 922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | 4ms
 925 | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) | 3ms
