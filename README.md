@@ -45,6 +45,7 @@ Id  | Problem | Runtime (Java)
 78 | [Subsets][78] | 1ms
 79 | [Word search][79] | 17ms
 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | 0ms
+86 | [Partition List](https://leetcode.com/problems/partition-list/) | 0ms
 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 2ms
 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | 0ms
 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | 0ms

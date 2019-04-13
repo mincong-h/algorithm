@@ -43,6 +43,8 @@ cat << EOF >> "$filepath"
 
 ## Test Cases
 
+None
+
 ## Solution
 
 \`\`\`java
