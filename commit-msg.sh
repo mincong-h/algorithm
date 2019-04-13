@@ -7,7 +7,7 @@
 # commit.  The hook is allowed to edit the commit message file.
 #
 # To enable this hook, rename this file to "commit-msg".
-grep -E '^L(\d+): [ \w]+ \(\d+ms\)$' $1 || {
+grep -E '^L(\d+): [ A-Za-z]+ \(\d+ms\)$' $1 || {
 	echo >&2 "Incorrect commit message. Sample:\n\n    L123: LeetCode Problem Title (456ms)\n"
 	exit 1
 }
