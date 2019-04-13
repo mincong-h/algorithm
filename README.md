@@ -30,7 +30,7 @@ Id  | Problem | Runtime (Java)
 36 | [Valid sudoku][36] | 7ms
 38 | [Count and say][38] | 4ms
 46 | [Permutations](https://leetcode.com/problems/permutations/) | 3ms
-48 | [Rotate image][48] | 3ms
+48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | 0ms
 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 12ms
 50 | [Pow x-n][50] | 26ms
 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 5ms
@@ -284,6 +284,12 @@ Integer:
   Comparison will fail when the integer itself is one of these values.
 - Risk of overflow?
 
+2D Array:
+
+- Coordinate (x, y) or (i, j): which position is (0, 0), what direction is the
+  axes? It's easy to draw diagram on whitebroad using (x, y) like in Math. But
+  in the program, it's easier to use (i, j).
+
 [leetcode]: https://leetcode.com
 [hackerrank]: http://hackerrank.com
 
@@ -298,7 +304,6 @@ Integer:
 [27]: https://leetcode.com/problems/remove-element/
 [36]: https://leetcode.com/problems/valid-sudoku/
 [38]: https://leetcode.com/problems/count-and-say/
-[48]: https://leetcode.com/problems/rotate-image/
 [50]: https://leetcode.com/problems/powx-n/
 [58]: https://leetcode.com/problems/length-of-last-word/
 [66]: https://leetcode.com/problems/plus-one/
