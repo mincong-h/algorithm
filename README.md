@@ -55,7 +55,7 @@ Id  | Problem | Runtime (Java)
 104 | [Maximun Depth of a Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | 0ms
 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | 1ms
 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | 0ms
-110 | [Balanced binary tree][110] | 2ms
+110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | 1ms
 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | 0ms
 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | 0ms
 118 | [Pascal triangle][118] | 1ms
@@ -311,7 +311,6 @@ Integer:
 [78]: https://leetcode.com/problems/subsets/
 [79]: https://leetcode.com/problems/word-search/
 [94]: https://leetcode.com/problems/binary-tree-inorder-traversal/
-[110]: https://leetcode.com/problems/balanced-binary-tree/
 [118]: https://leetcode.com/problems/pascals-triangle/
 [119]: https://leetcode.com/problems/pascals-triangle-ii/
 [122]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
