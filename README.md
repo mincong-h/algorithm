@@ -98,7 +98,7 @@ Id  | Problem | Runtime (Java)
 226 | [Invert Binary Tree][226] | 0ms
 228 | [Summary ranges][228] | 0ms
 231 | [Power of two][231] | 228ms
-232 | [Implement queue using stacks][232] | 106ms
+232 | [Implement Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | 42ms
 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | 1ms
 235 | [Lowest Common Ancestor of a Binary Search Tree][235] | 8ms
 236 | [Lowest Common Ancestor of a Binary Tree][236] | 15ms
@@ -337,7 +337,6 @@ Integer:
 [226]: https://leetcode.com/problems/invert-binary-tree/
 [228]: https://leetcode.com/problems/summary-ranges/
 [231]: https://leetcode.com/problems/power-of-two/
-[232]: https://leetcode.com/problems/implement-queue-using-stacks/
 [235]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 [236]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 [237]: https://leetcode.com/problems/delete-node-in-a-linked-list/
