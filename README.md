@@ -94,7 +94,7 @@ Id  | Problem | Runtime (Java)
 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 9ms
 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | 8ms
 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | 1ms
-225 | [Implement stack using queues][225] | 107ms
+225 | [Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | 45ms
 226 | [Invert Binary Tree][226] | 0ms
 228 | [Summary ranges][228] | 0ms
 231 | [Power of two][231] | 228ms
