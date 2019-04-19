@@ -58,6 +58,7 @@ Id  | Problem | Runtime (Java)
 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | 1ms
 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | 0ms
 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | 0ms
+113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | 1ms
 118 | [Pascal triangle][118] | 1ms
 119 | [Pascal triangle II][119] | 2ms
 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 1ms
