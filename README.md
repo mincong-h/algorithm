@@ -180,6 +180,7 @@ Id  | Problem | Runtime (Java)
 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | 12ms
 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | 14ms
 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/) | 2ms
+543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | 0ms
 559 | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | 2ms
 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | 5ms
 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/) | 20ms
