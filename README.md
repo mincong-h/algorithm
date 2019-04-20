@@ -134,7 +134,7 @@ Id  | Problem | Runtime (Java)
 318 | [Maximum product of word lengths][318] | 71ms
 320 | [Generalized abbreviation][320] | 21ms
 326 | [Power of Three][326] | 21ms
-342 | [Power of Four][342] | 2ms
+342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | 1ms
 343 | [Integer break][343] | 0ms
 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | 12ms
 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | 2ms
@@ -379,7 +379,6 @@ Integer:
 [318]: https://leetcode.com/problems/maximum-product-of-word-lengths/
 [320]: https://leetcode.com/problems/generalized-abbreviation/
 [326]: https://leetcode.com/problems/power-of-three/
-[342]: https://leetcode.com/problems/power-of-four/
 [343]: https://leetcode.com/problems/integer-break/
 [346]: https://leetcode.com/problems/moving-average-from-data-stream/
 [350]: https://leetcode.com/problems/intersection-of-two-arrays-ii/
