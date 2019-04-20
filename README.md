@@ -83,6 +83,7 @@ Id  | Problem | Runtime (Java)
 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | 3ms
 186 | [Reverse Words in a String II][186] | 3ms
 189 | [Rotate array][189] | 1ms
+190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | 1ms
 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | 0ms
 195 | [Tenth line][195] | 15ms
 200 | [Number of islands][200] | 3ms
