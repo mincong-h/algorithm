@@ -173,6 +173,7 @@ Id  | Problem | Runtime (Java)
 443 | [String Compression](https://leetcode.com/problems/string-compression/) | 1ms
 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | 6ms
 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | 6ms
+461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | 0ms
 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | 53ms
 476 | [Number Complement](https://leetcode.com/problems/number-complement/) | 5ms
 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | 4ms
