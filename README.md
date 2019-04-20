@@ -134,6 +134,7 @@ Id  | Problem | Runtime (Java)
 318 | [Maximum product of word lengths][318] | 71ms
 320 | [Generalized abbreviation][320] | 21ms
 326 | [Power of Three][326] | 21ms
+338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | 1ms
 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | 1ms
 343 | [Integer break][343] | 0ms
 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | 12ms
