@@ -198,6 +198,7 @@ Id  | Problem | Runtime (Java)
 657 | [Robot returns to Origin](https://leetcode.com/problems/robot-return-to-origin/) | 9ms
 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | 2ms
 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | 7ms
+693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | 0ms
 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | 2ms
 709 | [To Lower Case][709] | 0ms
 790 | [Rotate String](https://leetcode.com/problems/rotate-string/submissions/) | 0ms
