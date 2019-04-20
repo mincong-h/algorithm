@@ -83,7 +83,7 @@ Id  | Problem | Runtime (Java)
 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | 3ms
 186 | [Reverse Words in a String II][186] | 3ms
 189 | [Rotate array][189] | 1ms
-191 | [Number of 1 Bits][191] | 216ms
+191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | 0ms
 195 | [Tenth line][195] | 15ms
 200 | [Number of islands][200] | 3ms
 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | 1ms
@@ -330,7 +330,6 @@ Integer:
 [172]: https://leetcode.com/problems/factorial-trailing-zeroes/
 [186]: https://leetcode.com/problems/reverse-words-in-a-string-ii/
 [189]: https://leetcode.com/problems/rotate-array/
-[191]: https://leetcode.com/problems/number-of-1-bits/
 [195]: https://leetcode.com/problems/tenth-line/
 [200]: https://leetcode.com/problems/number-of-islands/
 [203]: https://leetcode.com/problems/remove-linked-list-elements/
