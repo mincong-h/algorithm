@@ -161,7 +161,7 @@ Id  | Problem | Runtime (Java)
 401 | [Binary watch][401] | 1ms
 402 | [Remove K digits][402] | 29ms
 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | 3ms
-405 | [Convert a Number to Hexadecimal][405] | 7ms
+405 | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | 0ms
 406 | [Queue reconstruction by height][406] | 15ms
 408 | [Valid Word Abbreviation][408] | 22ms
 409 | [Longest Palindrome][409] | 11ms
@@ -398,7 +398,6 @@ Integer:
 [400]: https://leetcode.com/problems/nth-digit/
 [401]: https://leetcode.com/problems/binary-watch/
 [402]: https://leetcode.com/problems/remove-k-digits/
-[405]: https://leetcode.com/problems/convert-a-number-to-hexadecimal/
 [406]: https://leetcode.com/problems/queue-reconstruction-by-height/
 [408]: https://leetcode.com/problems/valid-word-abbreviation/
 [409]: https://leetcode.com/problems/longest-palindrome/
