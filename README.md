@@ -98,7 +98,7 @@ Id  | Problem | Runtime (Java)
 225 | [Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | 45ms
 226 | [Invert Binary Tree][226] | 0ms
 228 | [Summary ranges][228] | 0ms
-231 | [Power of two][231] | 228ms
+231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | 1ms
 232 | [Implement Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | 42ms
 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | 1ms
 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | 4ms
@@ -279,6 +279,19 @@ Constructor | Description
 `String(char[])` | Constructor with a char array
 `String(char[], int, int)` | Constructor with offset and length
 
+### Bit Manipulation
+
+**Power of Two.** An integer is power of two if it is positive and has only one
+bit.
+
+   N | Binary
+---: | :---------------------:
+   1 | ... 0000 0000 0000 0001
+   2 | ... 0000 0000 0000 0010
+   4 | ... 0000 0000 0000 0100
+   8 | ... 0000 0000 0000 1000
+  16 | ... 0000 0000 0001 0000
+
 ## Check
 
 TreeNode:
@@ -340,7 +353,6 @@ Integer:
 [225]: https://leetcode.com/problems/implement-stack-using-queues/
 [226]: https://leetcode.com/problems/invert-binary-tree/
 [228]: https://leetcode.com/problems/summary-ranges/
-[231]: https://leetcode.com/problems/power-of-two/
 [236]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 [237]: https://leetcode.com/problems/delete-node-in-a-linked-list/
 [238]: https://leetcode.com/problems/product-of-array-except-self/
