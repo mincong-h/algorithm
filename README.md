@@ -86,6 +86,7 @@ Id  | Problem | Runtime (Java)
 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | 1ms
 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | 0ms
 195 | [Tenth line][195] | 15ms
+198 | [House Robber](https://leetcode.com/problems/house-robber/) | 0ms
 200 | [Number of islands][200] | 3ms
 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | 1ms
 203 | [Remove linked list elements][203] | 2ms
