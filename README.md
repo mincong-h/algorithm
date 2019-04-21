@@ -219,6 +219,7 @@ Id  | Problem | Runtime (Java)
 922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | 4ms
 925 | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) | 3ms
 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | 24ms
+931 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | 3ms
 953 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | 3ms
 961 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | 4ms
 965 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | 3ms
