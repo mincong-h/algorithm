@@ -134,6 +134,7 @@ Id  | Problem | Runtime (Java)
 293 | [Flip game][293] | 1ms
 297 | [Serialize and Deserialize Binary Tree][297] | 23ms
 298 | [Binary tree longest consecuritve sequence][298] | 3ms
+303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | 52ms
 318 | [Maximum product of word lengths][318] | 71ms
 320 | [Generalized abbreviation][320] | 21ms
 326 | [Power of Three][326] | 21ms
