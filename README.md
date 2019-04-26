@@ -210,6 +210,7 @@ Id  | Problem | Runtime (Java)
 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | 2ms
 709 | [To Lower Case][709] | 0ms
 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | 1ms
+784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | 1ms
 790 | [Rotate String](https://leetcode.com/problems/rotate-string/submissions/) | 0ms
 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | 4ms
 821 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | 4ms
