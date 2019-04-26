@@ -30,6 +30,7 @@ Id  | Problem | Runtime (Java)
 36 | [Valid sudoku][36] | 7ms
 38 | [Count and say][38] | 4ms
 46 | [Permutations](https://leetcode.com/problems/permutations/) | 3ms
+47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | 1ms
 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | 0ms
 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 12ms
 50 | [Pow x-n][50] | 26ms
