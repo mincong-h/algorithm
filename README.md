@@ -45,7 +45,7 @@ Id  | Problem | Runtime (Java)
 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 2ms
 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 0ms
 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 5ms
-78 | [Subsets][78] | 1ms
+78 | [Subsets](https://leetcode.com/problems/subsets/) | 1ms
 79 | [Word search][79] | 17ms
 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | 0ms
 86 | [Partition List](https://leetcode.com/problems/partition-list/) | 0ms
@@ -338,7 +338,6 @@ Integer:
 [50]: https://leetcode.com/problems/powx-n/
 [58]: https://leetcode.com/problems/length-of-last-word/
 [66]: https://leetcode.com/problems/plus-one/
-[78]: https://leetcode.com/problems/subsets/
 [79]: https://leetcode.com/problems/word-search/
 [94]: https://leetcode.com/problems/binary-tree-inorder-traversal/
 [118]: https://leetcode.com/problems/pascals-triangle/
