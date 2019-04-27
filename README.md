@@ -46,6 +46,7 @@ Id  | Problem | Runtime (Java)
 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 2ms
 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 0ms
 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 5ms
+77 | [Combinations](https://leetcode.com/problems/combinations/) | 2ms
 78 | [Subsets](https://leetcode.com/problems/subsets/) | 1ms
 79 | [Word search][79] | 17ms
 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | 0ms
