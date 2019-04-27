@@ -21,7 +21,7 @@ Id  | Problem | Runtime (Java)
 19 | [Remove Nth Node From End of List][19] | 16ms
 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 4ms
 21 | [Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/) | 5ms
-22 | [Generate parentheses][22] | 5ms
+22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 0ms
 23 | [Merge k sorted lists][23] | 23ms
 26 | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 1ms
 27 | [Remove element][27] | 1ms
@@ -331,7 +331,6 @@ Integer:
 [15]: https://leetcode.com/problems/3sum/
 [17]: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 [19]: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
-[22]: https://leetcode.com/problems/generate-parentheses/
 [23]: https://leetcode.com/problems/merge-k-sorted-lists/
 [27]: https://leetcode.com/problems/remove-element/
 [36]: https://leetcode.com/problems/valid-sudoku/
