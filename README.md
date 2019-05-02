@@ -16,7 +16,7 @@ Id  | Problem | Runtime (Java)
 12 | [Integer to roman][12] | 7ms
 13 | [Roman to Integer][13] | 5ms
 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 4ms
-15 | [3 sum][15] | 38ms
+15 | [3Sum](https://leetcode.com/problems/3sum/) | 39ms
 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | 0ms
 19 | [Remove Nth Node From End of List][19] | 16ms
 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 4ms
@@ -332,7 +332,6 @@ Integer:
 [5]: https://leetcode.com/problems/longest-palindromic-substring/
 [12]: https://leetcode.com/problems/integer-to-roman/
 [13]: https://leetcode.com/problems/roman-to-integer/
-[15]: https://leetcode.com/problems/3sum/
 [19]: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 [23]: https://leetcode.com/problems/merge-k-sorted-lists/
 [27]: https://leetcode.com/problems/remove-element/
