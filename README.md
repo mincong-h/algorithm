@@ -10,7 +10,7 @@ Id  | Problem | Runtime (Java)
 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 2ms
 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 2ms
 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 14ms
-5 | [Longest palindromic substring][5] | 44ms
+5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 16ms
 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | 1ms
 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 7ms
 12 | [Integer to roman][12] | 7ms
@@ -330,7 +330,6 @@ Integer:
 [leetcode]: https://leetcode.com
 [hackerrank]: http://hackerrank.com
 
-[5]: https://leetcode.com/problems/longest-palindromic-substring/
 [12]: https://leetcode.com/problems/integer-to-roman/
 [13]: https://leetcode.com/problems/roman-to-integer/
 [19]: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
