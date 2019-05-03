@@ -215,6 +215,7 @@ Id  | Problem | Runtime (Java)
 693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | 0ms
 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | 2ms
 709 | [To Lower Case][709] | 0ms
+719 | [Max Stack](https://leetcode.com/problems/max-stack/) | 89ms
 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | 1ms
 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | 1ms
 790 | [Rotate String](https://leetcode.com/problems/rotate-string/submissions/) | 0ms
