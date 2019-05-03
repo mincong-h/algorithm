@@ -188,6 +188,7 @@ Id  | Problem | Runtime (Java)
 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | 0ms
 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | 53ms
 476 | [Number Complement](https://leetcode.com/problems/number-complement/) | 5ms
+482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | 8ms
 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | 4ms
 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | 1ms
 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | 12ms
