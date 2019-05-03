@@ -220,6 +220,7 @@ Id  | Problem | Runtime (Java)
 790 | [Rotate String](https://leetcode.com/problems/rotate-string/submissions/) | 0ms
 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | 4ms
 821 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | 4ms
+844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | 0ms
 872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | 0ms
 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | 1ms
 890 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/) | 2ms
