@@ -176,7 +176,7 @@ Id  | Problem | Runtime (Java)
 406 | [Queue reconstruction by height][406] | 15ms
 408 | [Valid Word Abbreviation][408] | 22ms
 409 | [Longest Palindrome][409] | 11ms
-412 | [Fizz Buzz][412] | 10ms
+412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | 1ms
 414 | [Third Maximum Number][414] | 6ms
 415 | [Add Strings](https://leetcode.com/problems/add-strings/) | 9ms
 429 | [N-ary Tree Level Order Traveral](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | 4ms
@@ -412,7 +412,6 @@ Integer:
 [406]: https://leetcode.com/problems/queue-reconstruction-by-height/
 [408]: https://leetcode.com/problems/valid-word-abbreviation/
 [409]: https://leetcode.com/problems/longest-palindrome/
-[412]: https://leetcode.com/problems/fizz-buzz/
 [414]: https://leetcode.com/problems/third-maximum-number/
 [617]: https://leetcode.com/problems/merge-two-binary-trees/
 [709]: https://leetcode.com/problems/to-lower-case/
