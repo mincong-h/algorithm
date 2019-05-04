@@ -122,7 +122,7 @@ Id  | Problem | Runtime (Java)
 246 | [Strobogrammatic number][246] | 0ms
 252 | [Meeting rooms][252] | 13ms
 253 | [Meeting rooms][253] | 19ms
-256 | [Paint house][256] | 1ms
+256 | [Paint House](https://leetcode.com/problems/paint-house/) | 1ms
 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | 7ms
 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | 1ms
 260 | [Single number III][260] | 10ms
@@ -381,7 +381,6 @@ Integer:
 [246]: https://leetcode.com/problems/strobogrammatic-number/
 [252]: https://leetcode.com/problems/meeting-rooms/
 [253]: https://leetcode.com/problems/meeting-rooms-ii/
-[256]: https://leetcode.com/problems/paint-house/
 [260]: https://leetcode.com/problems/single-number-iii/
 [266]: https://leetcode.com/problems/palindrome-permutation/
 [270]: https://leetcode.com/problems/closest-binary-search-tree-value/
