@@ -119,7 +119,7 @@ Id  | Problem | Runtime (Java)
 243 | [Shortest word distance][243] | 2ms
 244 | [Shortest word distence II][244] | 27ms
 245 | [Shortest word distance III][245] | 6ms
-246 | [Strobogrammatic number][246] | 0ms
+246 | [Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/) | 0ms
 252 | [Meeting rooms][252] | 13ms
 253 | [Meeting rooms][253] | 19ms
 256 | [Paint House](https://leetcode.com/problems/paint-house/) | 1ms
@@ -378,7 +378,6 @@ Integer:
 [243]: https://leetcode.com/problems/shortest-word-distance/
 [244]: https://leetcode.com/problems/shortest-word-distance-ii/
 [245]: https://leetcode.com/problems/shortest-word-distance-iii/
-[246]: https://leetcode.com/problems/strobogrammatic-number/
 [252]: https://leetcode.com/problems/meeting-rooms/
 [253]: https://leetcode.com/problems/meeting-rooms-ii/
 [260]: https://leetcode.com/problems/single-number-iii/
