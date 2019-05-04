@@ -24,7 +24,7 @@ Id  | Problem | Runtime (Java)
 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 0ms
 23 | [Merge k sorted lists][23] | 23ms
 26 | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 1ms
-27 | [Remove element][27] | 1ms
+27 | [Remove Element](https://leetcode.com/problems/remove-element/) | 0ms
 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | 2ms
 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | 0ms
 36 | [Valid sudoku][36] | 7ms
@@ -262,6 +262,11 @@ specified array (overloaded methods: `boolean[]`, `byte[]`, `char[]`,
 java.util.Arrays.hashCode(int[] a);
 ```
 
+**2 pointers.** One slow pointer and one fast pointer. They both move forwards
+at same speed unless in some cases, slow pointer needs to stop. This strategy
+can be used to manipulate the array in place. Example: [LeetCode 27 Remove
+Element](https://leetcode.com/problems/remove-element/).
+
 ### Linked List
 
 **2 pointers.** One slow pointer (1x speed) and one fast pointer (2x speed). It
@@ -338,7 +343,6 @@ Integer:
 [13]: https://leetcode.com/problems/roman-to-integer/
 [19]: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 [23]: https://leetcode.com/problems/merge-k-sorted-lists/
-[27]: https://leetcode.com/problems/remove-element/
 [36]: https://leetcode.com/problems/valid-sudoku/
 [38]: https://leetcode.com/problems/count-and-say/
 [50]: https://leetcode.com/problems/powx-n/
