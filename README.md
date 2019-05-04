@@ -234,6 +234,7 @@ Id  | Problem | Runtime (Java)
 925 | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) | 3ms
 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | 10ms
 931 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | 3ms
+938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | 0ms
 953 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | 3ms
 961 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | 4ms
 965 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | 3ms
