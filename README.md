@@ -116,7 +116,7 @@ Id  | Problem | Runtime (Java)
 238 | [Product of array except self][238] | 2ms
 240 | [Search a 2D matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | 13ms
 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 4ms
-243 | [Shortest word distance][243] | 2ms
+243 | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/) | 1ms
 244 | [Shortest word distence II][244] | 27ms
 245 | [Shortest word distance III][245] | 6ms
 246 | [Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/) | 0ms
@@ -377,7 +377,6 @@ Integer:
 [236]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 [238]: https://leetcode.com/problems/product-of-array-except-self/
 [240]: https://leetcode.com/problems/search-a-2d-matrix-ii/
-[243]: https://leetcode.com/problems/shortest-word-distance/
 [244]: https://leetcode.com/problems/shortest-word-distance-ii/
 [245]: https://leetcode.com/problems/shortest-word-distance-iii/
 [252]: https://leetcode.com/problems/meeting-rooms/
