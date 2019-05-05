@@ -1,7 +1,104 @@
 # Algorithm
 
-I'm learning algorithm at [LeetCode][leetcode] and [HackerRank][hackerrank].
-This repo contains the list of accomplishments.
+I'm learning algorithm at [LeetCode](https://leetcode.com) and [HackerRank](https://hackerrank.com).
+This repo contains some techniques and the list of solutions. Solutions are
+written as markdown files following the naming convention:
+
+    leetcode/${id}.${name}.md
+
+## Tricks
+
+### Array
+
+**Boyer–Moore majority vote algorithm.** Finding a majority element that occurs
+≥ N/2 times. Done in O(N) runtime and O(1) space. See
+<https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_majority_vote_algorithm>.
+
+**Hash code of the array.** Returns a hash code based on the contents of the
+specified array (overloaded methods: `boolean[]`, `byte[]`, `char[]`,
+`double[]`, `float[]`, `int[]`, `long[]`, `Object[]`, `short[]`):
+
+```java
+java.util.Arrays.hashCode(int[] a);
+```
+
+**2 pointers.** One slow pointer and one fast pointer. They both move forwards
+at same speed unless in some cases, slow pointer needs to stop. This strategy
+can be used to manipulate the array in place. Example: [LeetCode 27 Remove
+Element](https://leetcode.com/problems/remove-element/).
+
+### Linked List
+
+**2 pointers.** One slow pointer (1x speed) and one fast pointer (2x speed). It
+allows to resolve circular issue, because the faster one will be 1 round faster
+after some moves.
+
+### String
+
+**Permutation in String.** Maintain a sliding window `[L, R]` in the string, use
+two variables: `int[] stock` and `int todo` to record respectively what are the
+remaining characters available for permutation as ASCII table, and the remaining
+number of characters to do to have a match.
+
+- When R (right pointer) moves forward, it consumes more chars from the stock
+  table.
+- When L (left pointer) moves forward, it recover the consumed chars from the
+  stock table.
+
+Related problems:
+
+- [3: Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [76: Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+- [438: Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+- [567: Permutation in String](https://leetcode.com/problems/permutation-in-string/)
+
+**String construction.** When resolving exercises, it's better to use
+[`java.lang.StringBuilder`](https://docs.oracle.com/javase/8/docs/api/java/lang/StringBuilder.html)
+rather than string concatenation using `+`. Even better, use char array `char[]`
+and fill it manually, which is efficient and allows navigation.
+
+Constructor | Description
+:--- | :---
+`StringBuilder()` | Constructor without additional arguments
+`StringBuilder(String)` | Constructor with an initial string
+`StringBuilder(int)` | Constructor with initial capacity
+`String(char[])` | Constructor with a char array
+`String(char[], int, int)` | Constructor with offset and length
+
+### Bit Manipulation
+
+**Power of Two.** An integer is power of two if it is positive and has only one
+bit.
+
+   N | Binary
+---: | :---------------------:
+   1 | ... 0000 0000 0000 0001
+   2 | ... 0000 0000 0000 0010
+   4 | ... 0000 0000 0000 0100
+   8 | ... 0000 0000 0000 1000
+  16 | ... 0000 0000 0001 0000
+
+## Check
+
+TreeNode:
+
+- Can `root` be `null`?
+
+Integer:
+
+- Boundaries: `Integer.MIN_VALUE` and `Integer.MAX_VALUE` good boundaries?
+  Comparison will fail when the integer itself is one of these values.
+- Risk of overflow?
+
+2D Array:
+
+- Coordinate (x, y) or (i, j): which position is (0, 0), what direction is the
+  axes? It's easy to draw diagram on whitebroad using (x, y) like in Math. But
+  in the program, it's easier to use (i, j).
+
+## HackerRank
+
+Too lazy to add :see_no_evil:
 
 ## LeetCode
 
@@ -243,103 +340,6 @@ Id  | Problem | Runtime (Java)
 977 | [Squares of a sorted array](https://leetcode.com/problems/squares-of-a-sorted-array/) | 20ms
 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | 2ms
 1013 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) | 1ms
-
-## HackerRank
-
-Too lazy to add :see_no_evil:
-
-## Tricks
-
-### Array
-
-**Boyer–Moore majority vote algorithm.** Finding a majority element that occurs
-≥ N/2 times. Done in O(N) runtime and O(1) space. See
-<https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_majority_vote_algorithm>.
-
-**Hash code of the array.** Returns a hash code based on the contents of the
-specified array (overloaded methods: `boolean[]`, `byte[]`, `char[]`,
-`double[]`, `float[]`, `int[]`, `long[]`, `Object[]`, `short[]`):
-
-```java
-java.util.Arrays.hashCode(int[] a);
-```
-
-**2 pointers.** One slow pointer and one fast pointer. They both move forwards
-at same speed unless in some cases, slow pointer needs to stop. This strategy
-can be used to manipulate the array in place. Example: [LeetCode 27 Remove
-Element](https://leetcode.com/problems/remove-element/).
-
-### Linked List
-
-**2 pointers.** One slow pointer (1x speed) and one fast pointer (2x speed). It
-allows to resolve circular issue, because the faster one will be 1 round faster
-after some moves.
-
-### String
-
-**Permutation in String.** Maintain a sliding window `[L, R]` in the string, use
-two variables: `int[] stock` and `int todo` to record respectively what are the
-remaining characters available for permutation as ASCII table, and the remaining
-number of characters to do to have a match.
-
-- When R (right pointer) moves forward, it consumes more chars from the stock
-  table.
-- When L (left pointer) moves forward, it recover the consumed chars from the
-  stock table.
-
-Related problems:
-
-- [3: Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
-- [76: Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
-- [438: Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
-- [567: Permutation in String](https://leetcode.com/problems/permutation-in-string/)
-
-**String construction.** When resolving exercises, it's better to use
-[`java.lang.StringBuilder`](https://docs.oracle.com/javase/8/docs/api/java/lang/StringBuilder.html)
-rather than string concatenation using `+`. Even better, use char array `char[]`
-and fill it manually, which is efficient and allows navigation.
-
-Constructor | Description
-:--- | :---
-`StringBuilder()` | Constructor without additional arguments
-`StringBuilder(String)` | Constructor with an initial string
-`StringBuilder(int)` | Constructor with initial capacity
-`String(char[])` | Constructor with a char array
-`String(char[], int, int)` | Constructor with offset and length
-
-### Bit Manipulation
-
-**Power of Two.** An integer is power of two if it is positive and has only one
-bit.
-
-   N | Binary
----: | :---------------------:
-   1 | ... 0000 0000 0000 0001
-   2 | ... 0000 0000 0000 0010
-   4 | ... 0000 0000 0000 0100
-   8 | ... 0000 0000 0000 1000
-  16 | ... 0000 0000 0001 0000
-
-## Check
-
-TreeNode:
-
-- Can `root` be `null`?
-
-Integer:
-
-- Boundaries: `Integer.MIN_VALUE` and `Integer.MAX_VALUE` good boundaries?
-  Comparison will fail when the integer itself is one of these values.
-- Risk of overflow?
-
-2D Array:
-
-- Coordinate (x, y) or (i, j): which position is (0, 0), what direction is the
-  axes? It's easy to draw diagram on whitebroad using (x, y) like in Math. But
-  in the program, it's easier to use (i, j).
-
-[leetcode]: https://leetcode.com
-[hackerrank]: http://hackerrank.com
 
 [12]: https://leetcode.com/problems/integer-to-roman/
 [13]: https://leetcode.com/problems/roman-to-integer/
