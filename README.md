@@ -52,6 +52,7 @@ Output:  1 <- 2 <- 3 <- 4 <- 5
 
 Related problems:
 
+- [92: Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
 - [206: Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 
 ## String
@@ -172,6 +173,7 @@ Id  | Problem | Runtime (Java)
 86 | [Partition List](https://leetcode.com/problems/partition-list/) | 0ms
 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 2ms
 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | 1ms
+92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | 0ms
 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | 0ms
 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | 0ms
 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | 1ms
