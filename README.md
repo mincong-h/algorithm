@@ -6,9 +6,17 @@ written as markdown files following the naming convention:
 
     leetcode/${id}.${name}.md
 
-## Tricks
+## CheckList
 
-### Array
+- Do you understand the question? Can you rephrase it?
+- What is your strategy for the resolution?
+- The estimation of time complexity and space complexity?
+- Illustrate the solution steps using a simple example?
+- Corner cases, are they being considered?
+- Any ideas of further optimization? Saying it rather than writing it, because
+  of time constraint, readability, or other reasons.
+
+## Array
 
 **Boyer–Moore majority vote algorithm.** Finding a majority element that occurs
 ≥ N/2 times. Done in O(N) runtime and O(1) space. See
@@ -27,13 +35,13 @@ at same speed unless in some cases, slow pointer needs to stop. This strategy
 can be used to manipulate the array in place. Example: [LeetCode 27 Remove
 Element](https://leetcode.com/problems/remove-element/).
 
-### Linked List
+## Linked List
 
 **2 pointers.** One slow pointer (1x speed) and one fast pointer (2x speed). It
 allows to resolve circular issue, because the faster one will be 1 round faster
 after some moves.
 
-### String
+## String
 
 **Permutation in String.** Maintain a sliding window `[L, R]` in the string, use
 two variables: `int[] stock` and `int todo` to record respectively what are the
@@ -65,7 +73,7 @@ Constructor | Description
 `String(char[])` | Constructor with a char array
 `String(char[], int, int)` | Constructor with offset and length
 
-### Bit Manipulation
+## Bit Manipulation
 
 **Power of Two.** An integer is power of two if it is positive and has only one
 bit.
@@ -78,7 +86,7 @@ bit.
    8 | ... 0000 0000 0000 1000
   16 | ... 0000 0000 0001 0000
 
-## Check
+## Corner Cases
 
 TreeNode:
 
