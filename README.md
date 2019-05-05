@@ -41,6 +41,19 @@ Element](https://leetcode.com/problems/remove-element/).
 allows to resolve circular issue, because the faster one will be 1 round faster
 after some moves.
 
+**Changing "next" reference.** In sinlge linked list, changing the reference of the
+"next" node can be useful for some operations, such as reversing the list.
+Here is an illustration:
+
+```
+Input:   1 -> 2 -> 3 -> 4 -> 5
+Output:  1 <- 2 <- 3 <- 4 <- 5
+```
+
+Related problems:
+
+- [206: Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+
 ## String
 
 **Permutation in String.** Maintain a sliding window `[L, R]` in the string, use
