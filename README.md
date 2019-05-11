@@ -35,6 +35,25 @@ at same speed unless in some cases, slow pointer needs to stop. This strategy
 can be used to manipulate the array in place. Example: [LeetCode 27 Remove
 Element](https://leetcode.com/problems/remove-element/).
 
+## Hash Table
+
+**Use array as hash table.** If possible, use an array as the reference table
+for finding the right element. Compared to any `Map` implementation, using array
+is faster and consumes less memory. This is typically possible when the keys are
+ASCII characters. You can create an array with 128 elements, for boolean status
+(`boolean[]`), char count (`int[]`), etc.
+
+```java
+int[] counts = new int[128];
+for (char c : word.toCharArray()) {
+    counts[c]++;
+}
+```
+
+Related problems:
+
+- [771: Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
+
 ## Linked List
 
 **2 pointers.** One slow pointer (1x speed) and one fast pointer (2x speed). It
@@ -341,6 +360,7 @@ Id  | Problem | Runtime (Java)
 709 | [To Lower Case][709] | 0ms
 719 | [Max Stack](https://leetcode.com/problems/max-stack/) | 89ms
 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | 1ms
+771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | 0ms
 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | 1ms
 790 | [Rotate String](https://leetcode.com/problems/rotate-string/submissions/) | 0ms
 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | 4ms
