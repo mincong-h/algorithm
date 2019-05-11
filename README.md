@@ -30,10 +30,13 @@ specified array (overloaded methods: `boolean[]`, `byte[]`, `char[]`,
 java.util.Arrays.hashCode(int[] a);
 ```
 
-**2 pointers.** One slow pointer and one fast pointer. They both move forwards
+**2 Pointers (Fast & Slow).** One slow pointer and one fast pointer. They both move forwards
 at same speed unless in some cases, slow pointer needs to stop. This strategy
 can be used to manipulate the array in place. Example: [LeetCode 27 Remove
 Element](https://leetcode.com/problems/remove-element/).
+
+**2 Pointers (Left & Right).** Left pointer moves right, right pointer moves
+left. :warning: Make sure they stop at the right moment to avoid collapse.
 
 ## Hash Table
 
@@ -343,6 +346,7 @@ Id  | Problem | Runtime (Java)
 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/) | 20ms
 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | 6ms
 576 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | 7ms
+581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/submissions/) | 8ms
 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | 8ms
 590 | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | 4ms
 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | 1672ms
