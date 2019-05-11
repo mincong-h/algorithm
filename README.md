@@ -111,6 +111,10 @@ Integer:
 - Boundaries: `Integer.MIN_VALUE` and `Integer.MAX_VALUE` good boundaries?
   Comparison will fail when the integer itself is one of these values.
 - Risk of overflow?
+- Integer division: when both dividend and divisor are integer, the
+  quotient will be an integer too. For example, `3 / 2 = 1`. In order to have
+  an accurate result, you need to ensure either divident or divisor to be a
+  float or a double.
 
 2D Array:
 
@@ -270,7 +274,7 @@ Id  | Problem | Runtime (Java)
 343 | [Integer break][343] | 0ms
 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | 12ms
 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | 2ms
-346 | [Moving average from data stream][346] | 177ms
+346 | [Moving Average From Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) | 69ms
 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | 10ms
 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | 2ms
 350 | [Intersection of two arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | 2ms
@@ -420,7 +424,6 @@ Id  | Problem | Runtime (Java)
 [320]: https://leetcode.com/problems/generalized-abbreviation/
 [326]: https://leetcode.com/problems/power-of-three/
 [343]: https://leetcode.com/problems/integer-break/
-[346]: https://leetcode.com/problems/moving-average-from-data-stream/
 [351]: https://leetcode.com/problems/android-unlock-patterns/
 [357]: https://leetcode.com/problems/count-numbers-with-unique-digits/
 [359]: https://leetcode.com/problems/logger-rate-limiter/
