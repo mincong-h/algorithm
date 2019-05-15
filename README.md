@@ -57,6 +57,14 @@ Related problems:
 
 - [771: Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
 
+**Use Hashtable to Store References.** Use hashtable to store the target
+references. It helps to reduce cost for lookup operation, compared to double
+for-loop.
+
+Related problems:
+
+- [1: Two Sum](https://leetcode.com/problems/two-sum/)
+
 ## Linked List
 
 **2 pointers.** One slow pointer (1x speed) and one fast pointer (2x speed). It
