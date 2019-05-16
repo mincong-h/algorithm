@@ -269,7 +269,7 @@ Id  | Problem | Runtime (Java)
 232 | [Implement Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | 42ms
 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | 1ms
 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | 4ms
-236 | [Lowest Common Ancestor of a Binary Tree][236] | 15ms
+236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 5ms
 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | 0ms
 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 1ms
 240 | [Search a 2D matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | 13ms
@@ -438,7 +438,6 @@ Id  | Problem | Runtime (Java)
 [225]: https://leetcode.com/problems/implement-stack-using-queues/
 [226]: https://leetcode.com/problems/invert-binary-tree/
 [228]: https://leetcode.com/problems/summary-ranges/
-[236]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 [240]: https://leetcode.com/problems/search-a-2d-matrix-ii/
 [244]: https://leetcode.com/problems/shortest-word-distance-ii/
 [245]: https://leetcode.com/problems/shortest-word-distance-iii/
