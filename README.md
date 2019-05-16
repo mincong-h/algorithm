@@ -289,7 +289,7 @@ Id  | Problem | Runtime (Java)
 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | 1ms
 266 | [Palindrome permutation][266] | 1ms
 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | 0ms
-270 | [Closest Binary Search Tree Value][270] | 0ms
+270 | [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) | 0ms
 271 | [Encode and decode strings][271] | 15ms
 274 | [H-Index][274] | 3ms
 278 | [First bad version][278] | 17ms
