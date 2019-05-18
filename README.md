@@ -236,6 +236,7 @@ Id  | Problem | Runtime (Java)
 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | 0ms
 146 | [LRU Cache][146] | 16ms
 151 | [Reverse words in a string][151] | 7ms
+153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | 0ms
 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | 47ms
 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | 1ms
 162 | [Find Peak Element][162] | 1ms
