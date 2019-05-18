@@ -183,6 +183,7 @@ Id  | Problem | Runtime (Java)
 26 | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 1ms
 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | 0ms
 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | 2ms
+33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 0ms
 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | 0ms
 36 | [Valid sudoku][36] | 7ms
 38 | [Count and say][38] | 4ms
