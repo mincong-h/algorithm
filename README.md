@@ -41,6 +41,19 @@ left. :warning: Make sure they stop at the right moment to avoid collapse.
 **Find Max (Min).** Do not use sorting to find max or min values from an array.
 This can be done using variables and in one iteration. Time complexity: O(N).
 
+## Priority Queue
+
+**Kth Element.** Find the Kth largest or smallest element in a collection or
+array. This can be done using a priority queue with K elements. If looking for
+the Kth largest element, use a min heap, so that peek (poll) from the priority
+queue returns the Kth element. If looking for the Kth smallest, use a max heap,
+so that peek (poll) from the priority queue returns the Kth element.
+
+Related problems:
+
+- [215: Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+- [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
+
 ## Hash Table
 
 **Use array as hash table.** If possible, use an array as the reference table
@@ -378,6 +391,7 @@ Id  | Problem | Runtime (Java)
 682 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | 3ms
 693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | 0ms
 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | 2ms
+703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | 62ms
 709 | [To Lower Case][709] | 0ms
 719 | [Max Stack](https://leetcode.com/problems/max-stack/) | 89ms
 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | 1ms
