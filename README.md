@@ -41,6 +41,10 @@ left. :warning: Make sure they stop at the right moment to avoid collapse.
 **Find Max (Min).** Do not use sorting to find max or min values from an array.
 This can be done using variables and in one iteration. Time complexity: O(N).
 
+**Sorting.** Sometimes sorting is useful before addressing the real problem. It
+enables the relationship between neighbour elements. The time complexity is O(N
+log N).
+
 ## Priority Queue
 
 **Kth Element.** Find the Kth largest or smallest element in a collection or
