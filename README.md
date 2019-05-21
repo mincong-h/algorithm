@@ -103,6 +103,12 @@ Related problems:
 
 ## String
 
+**Two Pointers.** Use two pointers L, R for switching characters.
+
+Related problems:
+
+- [344: Reverse String](https://leetcode.com/problems/reverse-string/)
+
 **Permutation in String.** Maintain a sliding window `[L, R]` in the string, use
 two variables: `int[] stock` and `int todo` to record respectively what are the
 remaining characters available for permutation as ASCII table, and the remaining
