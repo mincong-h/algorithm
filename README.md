@@ -174,6 +174,13 @@ Integer:
   axes? It's easy to draw diagram on whitebroad using (x, y) like in Math. But
   in the program, it's easier to use (i, j).
 
+Comparator:
+
+- Compare one field after another, if one field is different, compute the diff
+  and return the result. Only when this field is equal on both instances, you
+  can pass to the next field. Be careful about problem
+  ["Comparison method violates its general contract!"](https://stackoverflow.com/questions/8327514/)
+
 ## HackerRank
 
 Too lazy to add :see_no_evil:
