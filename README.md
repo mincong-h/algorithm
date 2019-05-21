@@ -323,7 +323,7 @@ Id  | Problem | Runtime (Java)
 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | 1ms
 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | 1ms
 343 | [Integer break][343] | 0ms
-344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | 12ms
+344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | 1ms
 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | 2ms
 346 | [Moving Average From Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) | 69ms
 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | 10ms
