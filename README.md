@@ -250,7 +250,7 @@ Id  | Problem | Runtime (Java)
 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 5ms
 77 | [Combinations](https://leetcode.com/problems/combinations/) | 2ms
 78 | [Subsets](https://leetcode.com/problems/subsets/) | 1ms
-79 | [Word search][79] | 17ms
+79 | [Word Search](https://leetcode.com/problems/word-search/) | 4ms
 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | 0ms
 86 | [Partition List](https://leetcode.com/problems/partition-list/) | 0ms
 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 2ms
@@ -463,7 +463,6 @@ Id  | Problem | Runtime (Java)
 [50]: https://leetcode.com/problems/powx-n/
 [58]: https://leetcode.com/problems/length-of-last-word/
 [66]: https://leetcode.com/problems/plus-one/
-[79]: https://leetcode.com/problems/word-search/
 [94]: https://leetcode.com/problems/binary-tree-inorder-traversal/
 [119]: https://leetcode.com/problems/pascals-triangle-ii/
 [122]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
