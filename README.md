@@ -157,6 +157,18 @@ bit.
    8 | ... 0000 0000 0000 1000
   16 | ... 0000 0000 0001 0000
 
+## Number
+
+**Enrich Integer Via Bits.** You can provide additional information to an
+integer by using the unused bits. This is possible when integer is served as an
+emumerate value, e.g. only using 0 as false and 1 as true. This strategy is
+useful when you need to do something in-place, or you are not allowed to use
+more complex data structure.
+
+Related problems:
+
+- [289: Game of Life](https://leetcode.com/problems/game-of-life/)
+
 ## Corner Cases
 
 TreeNode:
@@ -330,6 +342,7 @@ Id  | Problem | Runtime (Java)
 280 | [Wiggle sort][280] | 1ms
 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | 1ms
 288 | [Unique word abbreviation][288] | 79ms
+289 | [Game of Life](https://leetcode.com/problems/game-of-life/) | 0ms
 293 | [Flip game][293] | 1ms
 297 | [Serialize and Deserialize Binary Tree][297] | 23ms
 298 | [Binary tree longest consecuritve sequence][298] | 3ms
