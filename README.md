@@ -444,6 +444,7 @@ Id  | Problem | Runtime (Java)
 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | 7ms
 682 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | 3ms
 693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | 0ms
+695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | 2ms
 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | 2ms
 703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | 62ms
 709 | [To Lower Case][709] | 0ms
