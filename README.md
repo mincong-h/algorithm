@@ -181,6 +181,8 @@ Integer:
 - Boundaries: `Integer.MIN_VALUE` and `Integer.MAX_VALUE` good boundaries?
   Comparison will fail when the integer itself is one of these values.
 - Risk of overflow?
+- Average for sum of two integers: prefer `start + (end - start) / 2` rather
+  than `(start + end) / 2`, so that the overflow problem can be avoided.
 - Integer division: when both dividend and divisor are integer, the
   quotient will be an integer too. For example, `3 / 2 = 1`. In order to have
   an accurate result, you need to ensure either divident or divisor to be a
@@ -345,7 +347,7 @@ Id  | Problem | Runtime (Java)
 270 | [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) | 0ms
 271 | [Encode and decode strings][271] | 15ms
 274 | [H-Index][274] | 3ms
-278 | [First bad version][278] | 17ms
+278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | 10ms
 279 | [Perfect squares][279] | 58ms
 280 | [Wiggle sort][280] | 1ms
 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | 1ms
@@ -504,7 +506,6 @@ Id  | Problem | Runtime (Java)
 [270]: https://leetcode.com/problems/closest-binary-search-tree-value/
 [271]: https://leetcode.com/problems/encode-and-decode-strings/
 [274]: https://leetcode.com/problems/h-index/
-[278]: https://leetcode.com/problems/first-bad-version/
 [279]: https://leetcode.com/problems/perfect-squares/
 [280]: https://leetcode.com/problems/wiggle-sort/
 [288]: https://leetcode.com/problems/unique-word-abbreviation/
