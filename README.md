@@ -310,7 +310,7 @@ Id  | Problem | Runtime (Java)
 195 | [Tenth line][195] | 15ms
 198 | [House Robber](https://leetcode.com/problems/house-robber/) | 0ms
 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | 1ms
-200 | [Number of islands][200] | 3ms
+200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | 1ms
 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | 1ms
 203 | [Remove linked list elements][203] | 2ms
 204 | [Count Primes][204] | 32ms
@@ -489,7 +489,6 @@ Id  | Problem | Runtime (Java)
 [186]: https://leetcode.com/problems/reverse-words-in-a-string-ii/
 [189]: https://leetcode.com/problems/rotate-array/
 [195]: https://leetcode.com/problems/tenth-line/
-[200]: https://leetcode.com/problems/number-of-islands/
 [203]: https://leetcode.com/problems/remove-linked-list-elements/
 [204]: https://leetcode.com/problems/count-primes/
 [205]: https://leetcode.com/problems/isomorphic-strings/
