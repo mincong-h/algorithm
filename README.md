@@ -248,6 +248,7 @@ Id  | Problem | Runtime (Java)
 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | 12ms
 50 | [Pow x-n][50] | 26ms
 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 0ms
+54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 0ms
 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 7ms
 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | 0ms
 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | 0ms
