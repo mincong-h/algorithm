@@ -170,6 +170,15 @@ Related problems:
 
 - [289: Game of Life](https://leetcode.com/problems/game-of-life/)
 
+## Useful APIs
+
+Useful APIs in Java.
+
+Method | Description
+:----- | :----------
+[`String(char[] value, int offset, int count): String`](https://docs.oracle.com/javase/8/docs/api/java/lang/String.html#String-char:A-int-int-) | String constructor, useful for creating a string from a char array.
+[`String#substring(int beginIndex, int endIndex): String`](https://docs.oracle.com/javase/8/docs/api/java/lang/String.html#substring-int-int-) | Extracts a substring from string.
+
 ## Corner Cases
 
 TreeNode:
@@ -384,6 +393,7 @@ Id  | Problem | Runtime (Java)
 388 | [Longest absolute file path][388] | 6ms
 389 | [Find the difference][389] | 9ms
 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | 0ms
+394 | [Decode String](https://leetcode.com/problems/decode-string/) | 0ms
 398 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | 1ms
 400 | [Nth Digit][400] | 7ms
 401 | [Binary watch][401] | 1ms
@@ -465,6 +475,11 @@ Id  | Problem | Runtime (Java)
 977 | [Squares of a sorted array](https://leetcode.com/problems/squares-of-a-sorted-array/) | 20ms
 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | 2ms
 1013 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) | 1ms
+
+## References
+
+- Oracle, _"String (Java Platform SE 8)"_, Oracle Documentation, 2019.
+  <https://docs.oracle.com/javase/8/docs/api/java/lang/String.html>
 
 [12]: https://leetcode.com/problems/integer-to-roman/
 [13]: https://leetcode.com/problems/roman-to-integer/
