@@ -85,6 +85,7 @@ for-loop.
 Related problems:
 
 - [1: Two Sum](https://leetcode.com/problems/two-sum/)
+- [560: Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
 
 ## Linked List
 
@@ -184,6 +185,12 @@ Integer:
   quotient will be an integer too. For example, `3 / 2 = 1`. In order to have
   an accurate result, you need to ensure either divident or divisor to be a
   float or a double.
+
+Array:
+
+- Can array be null?
+- The length of the array?
+- Subarray: how to define subarray, at least 1 item or 2 items?
 
 2D Array:
 
@@ -403,6 +410,7 @@ Id  | Problem | Runtime (Java)
 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | 0ms
 559 | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | 2ms
 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | 5ms
+560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 12ms
 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/) | 20ms
 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | 6ms
 576 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | 7ms
