@@ -371,6 +371,7 @@ Id  | Problem | Runtime (Java)
 318 | [Maximum product of word lengths][318] | 71ms
 320 | [Generalized abbreviation][320] | 21ms
 326 | [Power of Three][326] | 21ms
+332 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | 36ms
 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | 1ms
 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | 1ms
 343 | [Integer break][343] | 0ms
