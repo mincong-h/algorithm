@@ -443,6 +443,7 @@ Id  | Problem | Runtime (Java)
 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | 6ms
 657 | [Robot returns to Origin](https://leetcode.com/problems/robot-return-to-origin/) | 9ms
 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | 0ms
+671 | [Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/) | 2ms
 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | 2ms
 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | 7ms
 682 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | 3ms
