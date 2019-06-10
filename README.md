@@ -289,6 +289,7 @@ Id  | Problem | Runtime (Java)
 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | 0ms
 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | 0ms
 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | 1ms
+114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | 0ms
 118 | [Pascal Triangle](https://leetcode.com/problems/pascals-triangle/) | 0ms
 119 | [Pascal triangle II][119] | 2ms
 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 1ms
