@@ -158,6 +158,18 @@ bit.
    8 | ... 0000 0000 0000 1000
   16 | ... 0000 0000 0001 0000
 
+## Dynamic Programming
+
+Dynamic programming (DP) is a method for solving complex problems by breaking
+them down into simpler subproblems. Remember the three steps:
+
+1. Defining sub-problems
+2. Finding recurrences
+3. Solving the base cases
+
+For more detail, see Stanford University Online Lecture CS 97SI:
+<https://web.stanford.edu/class/cs97si/04-dynamic-programming.pdf>.
+
 ## Number
 
 **Enrich Integer Via Bits.** You can provide additional information to an
@@ -275,6 +287,7 @@ Id  | Problem | Runtime (Java)
 86 | [Partition List](https://leetcode.com/problems/partition-list/) | 0ms
 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 2ms
 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | 1ms
+91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | 1ms
 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | 0ms
 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | 0ms
 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | 0ms
@@ -486,8 +499,11 @@ Id  | Problem | Runtime (Java)
 
 ## References
 
-- Oracle, _"String (Java Platform SE 8)"_, Oracle Documentation, 2019.
+- Oracle, "String (Java Platform SE 8)", _Oracle Documentation_, 2019.
   <https://docs.oracle.com/javase/8/docs/api/java/lang/String.html>
+- Jaehyun Park Ph.D., "Dynamic Programming - CS 97SI",
+  _Stanford University_, 2015.
+  <https://web.stanford.edu/class/cs97si/04-dynamic-programming.pdf>
 
 [12]: https://leetcode.com/problems/integer-to-roman/
 [13]: https://leetcode.com/problems/roman-to-integer/
