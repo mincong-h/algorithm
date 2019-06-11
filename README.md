@@ -310,7 +310,7 @@ Id  | Problem | Runtime (Java)
 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 2ms
 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | 1ms
 136 | [Single Number](https://leetcode.com/problems/single-number/) | 0ms
-139 | [Word Break][139] | 12ms
+139 | [Word Break](https://leetcode.com/problems/word-break/) | 2ms
 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 0ms
 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | 0ms
 146 | [LRU Cache][146] | 16ms
@@ -517,7 +517,6 @@ Id  | Problem | Runtime (Java)
 [94]: https://leetcode.com/problems/binary-tree-inorder-traversal/
 [119]: https://leetcode.com/problems/pascals-triangle-ii/
 [122]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
-[139]: https://leetcode.com/problems/word-break/
 [146]: https://leetcode.com/problems/lru-cache/
 [151]: https://leetcode.com/problems/reverse-words-in-a-string/
 [162]: https://leetcode.com/problems/find-peak-element/
