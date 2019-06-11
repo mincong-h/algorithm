@@ -372,6 +372,7 @@ Id  | Problem | Runtime (Java)
 311 | [Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/) | 0ms
 318 | [Maximum product of word lengths][318] | 71ms
 320 | [Generalized abbreviation][320] | 21ms
+322 | [Coin Change](https://leetcode.com/problems/coin-change/) | 9ms
 326 | [Power of Three][326] | 21ms
 332 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | 36ms
 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | 1ms
