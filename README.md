@@ -382,6 +382,7 @@ Id  | Problem | Runtime (Java)
 293 | [Flip game][293] | 1ms
 297 | [Serialize and Deserialize Binary Tree][297] | 23ms
 298 | [Binary tree longest consecuritve sequence][298] | 3ms
+300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 1ms
 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | 52ms
 311 | [Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/) | 0ms
 318 | [Maximum product of word lengths][318] | 71ms
