@@ -343,6 +343,7 @@ Id  | Problem | Runtime (Java)
 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 4ms
 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 9ms
 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | 8ms
+221 | [Maximal Square](https://leetcode.com/problems/maximal-square/) | 4ms
 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | 1ms
 225 | [Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | 45ms
 226 | [Invert Binary Tree][226] | 0ms
