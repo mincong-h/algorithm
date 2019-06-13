@@ -305,6 +305,7 @@ Id  | Problem | Runtime (Java)
 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | 0ms
 118 | [Pascal Triangle](https://leetcode.com/problems/pascals-triangle/) | 0ms
 119 | [Pascal triangle II][119] | 2ms
+120 | [Triangle](https://leetcode.com/problems/triangle/) | 2ms
 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 1ms
 122 | [Best time to buy and sell stock II][122] | 2ms
 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 2ms
