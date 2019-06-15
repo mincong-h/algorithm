@@ -45,6 +45,14 @@ This can be done using variables and in one iteration. Time complexity: O(N).
 enables the relationship between neighbour elements. The time complexity is O(N
 log N).
 
+**Permutation.** The next permutation in lexicographic order can be generated
+using the method created by Narayana Pandita, see [Wikipedia: Permutation -
+Generation in lexicographic order](https://en.wikipedia.org/wiki/Permutation#Generation_in_lexicographic_order)
+
+Related problems:
+
+- [31. Next Permuation](https://leetcode.com/problems/next-permutation/)
+
 ## Priority Queue
 
 **Kth Element.** Find the Kth largest or smallest element in a collection or
@@ -256,6 +264,7 @@ Id  | Problem | Runtime (Java)
 26 | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 1ms
 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | 0ms
 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | 2ms
+31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | 0ms
 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 0ms
 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | 0ms
 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | 0ms
@@ -510,6 +519,8 @@ Id  | Problem | Runtime (Java)
 - Jaehyun Park Ph.D., "Dynamic Programming - CS 97SI",
   _Stanford University_, 2015.
   <https://web.stanford.edu/class/cs97si/04-dynamic-programming.pdf>
+- Wikipedia, "Permutation - Generation in lexicographic order", _Wikipedia_, 2019.
+  <https://en.wikipedia.org/wiki/Permutation#Generation_in_lexicographic_order>
 
 [12]: https://leetcode.com/problems/integer-to-roman/
 [13]: https://leetcode.com/problems/roman-to-integer/
