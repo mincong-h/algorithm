@@ -53,6 +53,15 @@ Related problems:
 
 - [31. Next Permuation](https://leetcode.com/problems/next-permutation/)
 
+**Prefix Sum.** In computer science, the prefix sum, cumulative sum, inclusive
+scan, or simply scan of a sequence of numbers x0, x1, x2, ... is a second
+sequence of numbers y0, y1, y2, ..., the sums of prefixes (running totals) of
+the input sequence. See <https://en.wikipedia.org/wiki/Prefix_sum>.
+
+Related problems:
+
+- [974: Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)
+
 ## Priority Queue
 
 **Kth Element.** Find the Kth largest or smallest element in a collection or
@@ -523,6 +532,8 @@ Id  | Problem | Runtime (Java)
   <https://web.stanford.edu/class/cs97si/04-dynamic-programming.pdf>
 - Wikipedia, "Permutation - Generation in lexicographic order", _Wikipedia_, 2019.
   <https://en.wikipedia.org/wiki/Permutation#Generation_in_lexicographic_order>
+- Wikipedia, "Prefix sum", _Wikipedia_, 2019.
+  <https://en.wikipedia.org/wiki/Prefix_sum>
 
 [12]: https://leetcode.com/problems/integer-to-roman/
 [13]: https://leetcode.com/problems/roman-to-integer/
