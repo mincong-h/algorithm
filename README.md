@@ -509,6 +509,7 @@ Id  | Problem | Runtime (Java)
 961 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | 4ms
 965 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | 3ms
 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | 20ms
+974 | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | 4ms
 977 | [Squares of a sorted array](https://leetcode.com/problems/squares-of-a-sorted-array/) | 20ms
 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | 2ms
 1013 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) | 1ms
