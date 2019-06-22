@@ -320,6 +320,7 @@ Id  | Problem | Runtime (Java)
 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 2ms
 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | 1ms
 136 | [Single Number](https://leetcode.com/problems/single-number/) | 0ms
+138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | 1ms
 139 | [Word Break](https://leetcode.com/problems/word-break/) | 2ms
 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 0ms
 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | 0ms
