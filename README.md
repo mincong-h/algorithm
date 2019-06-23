@@ -405,6 +405,7 @@ Id  | Problem | Runtime (Java)
 298 | [Binary tree longest consecuritve sequence][298] | 3ms
 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | 1ms
 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | 52ms
+304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | 57 ms
 311 | [Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/) | 0ms
 318 | [Maximum product of word lengths][318] | 71ms
 320 | [Generalized abbreviation][320] | 21ms
