@@ -269,7 +269,7 @@ Id  | Problem | Runtime (Java)
 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 4ms
 21 | [Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/) | 5ms
 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 0ms
-23 | [Merge k sorted lists][23] | 23ms
+23 | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 5ms
 26 | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 1ms
 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | 0ms
 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | 2ms
@@ -539,7 +539,6 @@ Id  | Problem | Runtime (Java)
 [12]: https://leetcode.com/problems/integer-to-roman/
 [13]: https://leetcode.com/problems/roman-to-integer/
 [19]: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
-[23]: https://leetcode.com/problems/merge-k-sorted-lists/
 [36]: https://leetcode.com/problems/valid-sudoku/
 [38]: https://leetcode.com/problems/count-and-say/
 [50]: https://leetcode.com/problems/powx-n/
