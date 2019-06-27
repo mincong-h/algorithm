@@ -334,7 +334,7 @@ Id  | Problem | Runtime (Java)
 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 0ms
 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | 0ms
 146 | [LRU Cache][146] | 16ms
-151 | [Reverse words in a string][151] | 7ms
+151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | 1ms
 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | 1ms
 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | 0ms
 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | 47ms
@@ -548,7 +548,6 @@ Id  | Problem | Runtime (Java)
 [119]: https://leetcode.com/problems/pascals-triangle-ii/
 [122]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 [146]: https://leetcode.com/problems/lru-cache/
-[151]: https://leetcode.com/problems/reverse-words-in-a-string/
 [162]: https://leetcode.com/problems/find-peak-element/
 [163]: https://leetcode.com/problems/missing-ranges/
 [165]: https://leetcode.com/problems/compare-version-numbers/
