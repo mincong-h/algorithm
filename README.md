@@ -199,6 +199,18 @@ Related problems:
 
 - [289: Game of Life](https://leetcode.com/problems/game-of-life/)
 
+## Custom Data Structure
+
+**[LRU Cache](https://en.wikipedia.org/wiki/Cache_replacement_policies#LRU).**
+Discards the least recently used items first. See YouTube video [Implement An
+LRU Cache - The LRU Cache Eviction Policy ("LRU Cache" on
+LeetCode)](https://www.youtube.com/watch?v=S6IfqDXWa10) for more detail
+explanation.
+
+Related problems:
+
+- [146: LRU Cache](https://leetcode.com/problems/lru-cache/)
+
 ## Useful APIs
 
 Useful APIs in Java.
@@ -333,7 +345,7 @@ Id  | Problem | Runtime (Java)
 139 | [Word Break](https://leetcode.com/problems/word-break/) | 2ms
 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 0ms
 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | 0ms
-146 | [LRU Cache][146] | 16ms
+146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | 61ms
 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | 1ms
 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | 1ms
 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | 0ms
@@ -536,6 +548,11 @@ Id  | Problem | Runtime (Java)
   <https://en.wikipedia.org/wiki/Permutation#Generation_in_lexicographic_order>
 - Wikipedia, "Prefix sum", _Wikipedia_, 2019.
   <https://en.wikipedia.org/wiki/Prefix_sum>
+- Wikipedia, "Cache replacement policies", _Wikipedia_, 2019.
+  <https://en.wikipedia.org/wiki/Cache_replacement_policies>
+- Back To Back SWE, "Implement An LRU Cache - The LRU Cache Eviction Policy (LRU
+  Cache on LeetCode)", _YouTube_, 2019.
+  <https://www.youtube.com/watch?v=S6IfqDXWa10>
 
 [12]: https://leetcode.com/problems/integer-to-roman/
 [13]: https://leetcode.com/problems/roman-to-integer/
@@ -548,7 +565,6 @@ Id  | Problem | Runtime (Java)
 [94]: https://leetcode.com/problems/binary-tree-inorder-traversal/
 [119]: https://leetcode.com/problems/pascals-triangle-ii/
 [122]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
-[146]: https://leetcode.com/problems/lru-cache/
 [162]: https://leetcode.com/problems/find-peak-element/
 [163]: https://leetcode.com/problems/missing-ranges/
 [165]: https://leetcode.com/problems/compare-version-numbers/
