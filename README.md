@@ -397,6 +397,7 @@ Id  | Problem | Runtime (Java)
 225 | [Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | 45ms
 226 | [Invert Binary Tree][226] | 0ms
 228 | [Summary ranges][228] | 0ms
+230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | 0ms
 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | 1ms
 232 | [Implement Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | 42ms
 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | 1ms
