@@ -203,6 +203,23 @@ Breath-first search:
 
 ![breath first search traversal](img/220px-Sorted_binary_tree_breadth-first_traversal.svg.png)
 
+## Graph
+
+In mathematics, and more specifically in graph theory, a graph is a structure
+amounting to a set of objects in which some pairs of the objects are in some
+sense "related". Graph can be undirected or directed. The figure below shows an
+example network with 8 vertices and 10 edges.
+
+![Small Network](img/Small_Network.png)
+
+Graph (undirected graph):
+
+![Undirected](img/220px-Undirected.svg.png)
+
+Directed Graph:
+
+![Directed](img/220px-Directed.svg.png)
+
 ## Dynamic Programming
 
 Dynamic programming (DP) is a method for solving complex problems by breaking
@@ -586,12 +603,16 @@ Id  | Problem | Runtime (Java)
   <https://web.stanford.edu/class/cs97si/04-dynamic-programming.pdf>
 - Wikipedia, "Cache replacement policies", _Wikipedia_, 2019.
   <https://en.wikipedia.org/wiki/Cache_replacement_policies>
+- Wikipedia, "Graph (discrete mathematics)", _Wikipedia_, 2019.
+  <https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)>
 - Wikipedia, "Permutation - Generation in lexicographic order", _Wikipedia_, 2019.
   <https://en.wikipedia.org/wiki/Permutation#Generation_in_lexicographic_order>
 - Wikipedia, "Prefix sum", _Wikipedia_, 2019.
   <https://en.wikipedia.org/wiki/Prefix_sum>
 - Wikipedia, "Tree traversal", _Wikipedia_, 2019.
   <https://en.wikipedia.org/wiki/Tree_traversal>
+- Wikipedia, "Vertex (graph theory)", _Wikipedia_, 2019.
+  <https://en.wikipedia.org/wiki/Vertex_(graph_theory)>
 - Back To Back SWE, "Implement An LRU Cache - The LRU Cache Eviction Policy (LRU
   Cache on LeetCode)", _YouTube_, 2019.
   <https://www.youtube.com/watch?v=S6IfqDXWa10>
