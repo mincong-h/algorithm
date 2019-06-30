@@ -181,6 +181,28 @@ bit.
    8 | ... 0000 0000 0000 1000
   16 | ... 0000 0000 0001 0000
 
+## Tree
+
+There are two types traverals: depth-first search (DFS) and breath-first search
+(BFS). For depth-first search, the traversal can be pre-order (NLR), in-order
+(LNR), out-order (RNL), and post-order (LRN).
+
+Depth-first search: pre-order
+
+![preorder traversal](img/220px-Sorted_binary_tree_preorder.svg.png)
+
+Depth-first search: in-order
+
+![inorder traversal](img/220px-Sorted_binary_tree_inorder.svg.png)
+
+Depth-first search: post-order
+
+![postorder traversal](img/220px-Sorted_binary_tree_postorder.svg.png)
+
+Breath-first search:
+
+![breath first search traversal](img/220px-Sorted_binary_tree_breadth-first_traversal.svg.png)
+
 ## Dynamic Programming
 
 Dynamic programming (DP) is a method for solving complex problems by breaking
@@ -562,12 +584,14 @@ Id  | Problem | Runtime (Java)
 - Jaehyun Park Ph.D., "Dynamic Programming - CS 97SI",
   _Stanford University_, 2015.
   <https://web.stanford.edu/class/cs97si/04-dynamic-programming.pdf>
+- Wikipedia, "Cache replacement policies", _Wikipedia_, 2019.
+  <https://en.wikipedia.org/wiki/Cache_replacement_policies>
 - Wikipedia, "Permutation - Generation in lexicographic order", _Wikipedia_, 2019.
   <https://en.wikipedia.org/wiki/Permutation#Generation_in_lexicographic_order>
 - Wikipedia, "Prefix sum", _Wikipedia_, 2019.
   <https://en.wikipedia.org/wiki/Prefix_sum>
-- Wikipedia, "Cache replacement policies", _Wikipedia_, 2019.
-  <https://en.wikipedia.org/wiki/Cache_replacement_policies>
+- Wikipedia, "Tree traversal", _Wikipedia_, 2019.
+  <https://en.wikipedia.org/wiki/Tree_traversal>
 - Back To Back SWE, "Implement An LRU Cache - The LRU Cache Eviction Policy (LRU
   Cache on LeetCode)", _YouTube_, 2019.
   <https://www.youtube.com/watch?v=S6IfqDXWa10>
