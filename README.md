@@ -108,7 +108,12 @@ Related problems:
 
 **2 pointers.** One slow pointer (1x speed) and one fast pointer (2x speed). It
 allows to resolve circular issue, because the faster one will be 1 round faster
-after some moves.
+after some moves. 2 pointers strategy can also be used for keeping a distance
+between two pointers.
+
+Related problems:
+
+- [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 
 **Changing "next" reference.** In sinlge linked list, changing the reference of the
 "next" node can be useful for some operations, such as reversing the list.
@@ -277,7 +282,7 @@ Id  | Problem | Runtime (Java)
 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 4ms
 15 | [3Sum](https://leetcode.com/problems/3sum/) | 39ms
 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | 0ms
-19 | [Remove Nth Node From End of List][19] | 16ms
+19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 0ms
 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 4ms
 21 | [Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/) | 5ms
 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 0ms
@@ -556,7 +561,6 @@ Id  | Problem | Runtime (Java)
 
 [12]: https://leetcode.com/problems/integer-to-roman/
 [13]: https://leetcode.com/problems/roman-to-integer/
-[19]: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 [36]: https://leetcode.com/problems/valid-sudoku/
 [38]: https://leetcode.com/problems/count-and-say/
 [50]: https://leetcode.com/problems/powx-n/
