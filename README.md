@@ -73,6 +73,7 @@ so that peek (poll) from the priority queue returns the Kth element.
 Related problems:
 
 - [215: Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+- [378: Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 - [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
 - [973: K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
 
@@ -445,6 +446,7 @@ Id  | Problem | Runtime (Java)
 367 | [Valid perfect square](https://leetcode.com/problems/valid-perfect-square/) | 400ms
 369 | [Plus one linked list][369] | 1ms
 374 | [Guess number higher or lower][374] | 2ms
+378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | 14ms
 382 | [Linked list random node][382] | 146ms
 383 | [Ransom note][383] | 18ms
 387 | [First Unique Character in a String][387] | 31ms
