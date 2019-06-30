@@ -500,7 +500,7 @@ Id  | Problem | Runtime (Java)
 382 | [Linked list random node][382] | 146ms
 383 | [Ransom note][383] | 18ms
 387 | [First Unique Character in a String][387] | 31ms
-388 | [Longest absolute file path][388] | 6ms
+388 | [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/) | 0ms
 389 | [Find the difference][389] | 9ms
 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | 0ms
 394 | [Decode String](https://leetcode.com/problems/decode-string/) | 0ms
