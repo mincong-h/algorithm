@@ -205,6 +205,16 @@ Related problems:
 
 - [289: Game of Life](https://leetcode.com/problems/game-of-life/)
 
+## Search and Sort
+
+**Custom Binary Search.** In some cases, the problem can be solved by using a
+binary-search-like strategy to find the target item by eliminating half of the
+items.
+
+Related problems:
+
+- [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
+
 ## Custom Data Structure
 
 **[LRU Cache](https://en.wikipedia.org/wiki/Cache_replacement_policies#LRU).**
@@ -446,7 +456,7 @@ Id  | Problem | Runtime (Java)
 367 | [Valid perfect square](https://leetcode.com/problems/valid-perfect-square/) | 400ms
 369 | [Plus one linked list][369] | 1ms
 374 | [Guess number higher or lower][374] | 2ms
-378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | 14ms
+378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | 1ms
 382 | [Linked list random node][382] | 146ms
 383 | [Ransom note][383] | 18ms
 387 | [First Unique Character in a String][387] | 31ms
