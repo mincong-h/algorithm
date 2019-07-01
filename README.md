@@ -544,6 +544,7 @@ Id  | Problem | Runtime (Java)
 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | 1672ms
 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | 12ms
 617 | [Merge Two Binary Tree][617] | 6ms
+621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | 4ms
 623 | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | 4ms
 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | 2ms
 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | 1ms
